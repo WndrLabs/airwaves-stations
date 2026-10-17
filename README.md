@@ -25,6 +25,17 @@ Every stream is played live before it's kept. It must:
 
 [`report.md`](report.md) shows what was kept, what was rejected, and why, for the latest run.
 
+## Logos
+
+Each station's logo is in [`logos/`](logos), served by jsDelivr: a 400×400 WebP on white, made square from the best source found. In order:
+
+1. RadioDNS (the logos broadcasters publish for radios, UK for now)
+2. the station's own website (its high-resolution icons)
+3. Wikidata / Wikimedia Commons
+4. the directory's logo
+
+Only sources at least 160 px wide are used, or 112 px for well-known stations. A station without a usable logo has no `logo` field, and the app shows its initials instead. File names include a content hash, so a logo's URL changes when the logo does. [`logos.json`](logos.json) records each logo's source.
+
 ## Format
 
 ```jsonc
@@ -36,7 +47,7 @@ Every stream is played live before it's kept. It must:
       "name": "Skyrock",
       "url": "http://icecast.skyrock.net/s/natio_mp3_128k",
       "homepage": "https://skyrock.fm/",
-      "logo": "https://…",            // optional, https only
+      "logo": "https://cdn.jsdelivr.net/gh/WndrLabs/airwaves-stations@main/logos/….webp", // optional
       "country": "FR",                // ISO 3166-1 alpha-2
       "genres": ["rap", "hiphop"],    // see the app's data/genres.json
       "codec": "MP3",                 // MP3, AAC or HLS
