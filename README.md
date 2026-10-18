@@ -1,6 +1,6 @@
 # Airwaves stations
 
-The station list used by the Skywave app: about 2,900 official radio streams from 20 countries (up to 200 per country, most listened first), sorted by genre.
+The station list used by the Skywave app: about 4,000 official radio streams from 20 countries (about 200 per country on average, up to 320, most listened first), sorted by genre.
 
 The app downloads it from:
 
