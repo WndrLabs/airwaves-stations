@@ -1,6 +1,6 @@
 # Airwaves stations
 
-The station list used by the Airwaves app: about 1,000 official webradio streams from 20 countries, sorted by genre.
+The station list used by the Skywave app: about 2,900 official radio streams from 20 countries (up to 200 per country, most listened first), sorted by genre.
 
 The app downloads it from:
 
@@ -20,7 +20,7 @@ A weekly job in the app's repository runs the curation script, checks the result
 Every stream is played live before it's kept. It must:
 
 - come from the broadcaster's own servers or streaming provider;
-- be above 96 kbps;
+- meet the bitrate floor: AAC (and HLS) at 64 kbps or more, MP3 above 96 kbps;
 - be MP3, AAC or HLS audio.
 
 [`report.md`](report.md) shows what was kept, what was rejected, and why, for the latest run.
