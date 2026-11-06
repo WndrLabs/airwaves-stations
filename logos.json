@@ -1402,13 +1402,6 @@
   "width": 300,
   "original": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico"
  },
- "058e4027-1821-11e8-ae97-52543be04c81": {
-  "file": "058e4027-1821-11e8-ae97-52543be04c81-342a177a6b.webp",
-  "source": "https://www.frequence3.com/icones/logo-512x.png",
-  "kind": "website",
-  "width": 512,
-  "ref": "0.0.202610242328"
- },
  "99092504-86c7-484a-9e3c-deaed2be630b": {
   "file": "99092504-86c7-484a-9e3c-deaed2be630b-8489afac92.webp",
   "source": "https://www.france24.com/ios-iphone-ipad-1024x1024.png",
@@ -1586,6 +1579,13 @@
   "kind": "website",
   "width": 512
  },
+ "b5cde5d0-5b6c-41aa-90de-ed54bd311c11": {
+  "file": "b5cde5d0-5b6c-41aa-90de-ed54bd311c11-e90de25c17.webp",
+  "ref": "0.0.202610280617",
+  "source": "https://cdn.europe2.fr/upload/design/6a7b3258352523.14081445.png",
+  "kind": "website",
+  "width": 1080
+ },
  "5f424682-5bce-11ea-be63-52543be04c81": {
   "file": "5f424682-5bce-11ea-be63-52543be04c81-05dcf659d8.webp",
   "source": "https://www.radiorva.com/favicon-196.png",
@@ -1601,13 +1601,6 @@
   "kind": "website",
   "width": 300,
   "original": "https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico"
- },
- "b5cde5d0-5b6c-41aa-90de-ed54bd311c11": {
-  "file": "b5cde5d0-5b6c-41aa-90de-ed54bd311c11-e90de25c17.webp",
-  "ref": "0.0.202610280617",
-  "source": "https://cdn.europe2.fr/upload/design/6a7b3258352523.14081445.png",
-  "kind": "website",
-  "width": 1080
  },
  "960df395-0601-11e8-ae97-52543be04c81": {
   "file": "960df395-0601-11e8-ae97-52543be04c81-92c812302f.webp",
@@ -1735,6 +1728,14 @@
   "original": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
   "ref": "0.0.202610242328"
  },
+ "5a75479f-b796-45ef-b001-2a90fa6d1f47": {
+  "file": "5a75479f-b796-45ef-b001-2a90fa6d1f47-bc17bedddb.webp",
+  "source": "https://www.radiocaroline.bzh/upload/design/66472249c86042.32183851.png",
+  "kind": "website",
+  "width": 734,
+  "original": "https://www.radiocaroline.bzh/upload/favicon.ico",
+  "ref": "0.0.202610242328"
+ },
  "86393845-afcd-11e9-acb2-52543be04c81": {
   "file": "86393845-afcd-11e9-acb2-52543be04c81-bf92aaad9f.webp",
   "source": "https://www.virageradio.com/favicon-196.png",
@@ -1748,14 +1749,6 @@
   "kind": "website",
   "width": 512,
   "original": "https://www.103radio.fr/apple-touch-icon.png",
-  "ref": "0.0.202610242328"
- },
- "5a75479f-b796-45ef-b001-2a90fa6d1f47": {
-  "file": "5a75479f-b796-45ef-b001-2a90fa6d1f47-bc17bedddb.webp",
-  "source": "https://www.radiocaroline.bzh/upload/design/66472249c86042.32183851.png",
-  "kind": "website",
-  "width": 734,
-  "original": "https://www.radiocaroline.bzh/upload/favicon.ico",
   "ref": "0.0.202610242328"
  },
  "b7fe3684-01b8-4ba3-a854-c1d823615882": {
@@ -2443,14 +2436,6 @@
   "width": 167,
   "original": "https://i.iheart.com/v3/re/assets.brands/5e66d3e2487bc47c1a6d166b?ops=gravity(%22center%22),contain(360,120)&quality=80"
  },
- "535d3971-0a8f-4ccd-9dbe-2444bc7d339b": {
-  "file": "535d3971-0a8f-4ccd-9dbe-2444bc7d339b-cfc206553e.webp",
-  "ref": "0.0.202611052010",
-  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/WNYC-Logo.svg?width=600",
-  "kind": "wikidata",
-  "width": 960,
-  "original": "https://www.google.com/search?q=wnyc+logo&client=ms-android-samsung-rvo1&sca_esv=560376192&tbm=isch&prmd=inv&sxsrf=AB5stBirrRLCEy5EixqlSfngVwQYvhFe1Q:1693083894883&source=lnms&sa=X&ved=2ahUKEwjTloSBnfuAAxXmavEDHfieAj0Q_AUoAXoECAMQAQ&biw=412&bih=717&dpr=2.63#imgrc=7X0w4rpwW2Y9iM"
- },
  "21290f3a-26db-4bc6-a5e2-6266893ebb11": {
   "file": "21290f3a-26db-4bc6-a5e2-6266893ebb11-d7c1580745.webp",
   "source": "https://www.classicalcalifornia.org/icons/cc/icon-512x512.png",
@@ -3120,6 +3105,13 @@
   "kind": "website",
   "width": 323
  },
+ "53adaf12-1dd1-4700-852b-f55da044ee7f": {
+  "file": "53adaf12-1dd1-4700-852b-f55da044ee7f-a7ef4a7418.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/640x640/logo-RetC-2024-nplayer-V2.png",
+  "kind": "official",
+  "width": 640
+ },
  "b05b65e3-0936-4e7b-9f07-364cba23d7b2": {
   "file": "b05b65e3-0936-4e7b-9f07-364cba23d7b2-e73ca02ac8.webp",
   "source": "https://www.smzg.org/home/wp-content/uploads/2015/09/cropped-smzg1201-180x180.png",
@@ -3537,13 +3529,6 @@
   "width": 180,
   "original": "https://wosu.org/apple-touch-icon.png"
  },
- "9638cd23-0601-11e8-ae97-52543be04c81": {
-  "file": "9638cd23-0601-11e8-ae97-52543be04c81-6b034ce79c.webp",
-  "ref": "0.0.202611050032",
-  "source": "https://www.181.fm/images/station-thumbnails/181-xgospel_300.webp",
-  "kind": "official",
-  "width": 300
- },
  "1a03b739-4c4d-45cf-a65a-617240d6f25d": {
   "file": "1a03b739-4c4d-45cf-a65a-617240d6f25d-f495bb7764.webp",
   "source": "https://okcsportsradio.com/wp-content/uploads/2026/01/cropped-OKC1053SportsRadioBlackTR-192x192.png",
@@ -3651,6 +3636,13 @@
   "width": 300,
   "original": "https://i.imgur.com/msLmVuF.jpg",
   "ref": "0.0.202610242328"
+ },
+ "9638cd23-0601-11e8-ae97-52543be04c81": {
+  "file": "9638cd23-0601-11e8-ae97-52543be04c81-6b034ce79c.webp",
+  "ref": "0.0.202611050032",
+  "source": "https://www.181.fm/images/station-thumbnails/181-xgospel_300.webp",
+  "kind": "official",
+  "width": 300
  },
  "cb136507-425b-4934-8991-d7fc8873c849": {
   "file": "cb136507-425b-4934-8991-d7fc8873c849-db3e3f9d56.webp",
@@ -4044,6 +4036,13 @@
   "width": 180,
   "original": "https://bbn1.bbnradio.org/favicon.ico"
  },
+ "9609b366-0601-11e8-ae97-52543be04c81": {
+  "file": "9609b366-0601-11e8-ae97-52543be04c81-74a548fc5b.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://wfuv.org/themes/custom/wfuv/logo.png",
+  "kind": "website",
+  "width": 342
+ },
  "86b5e3dd-60b1-4b7d-a031-e6d867b0995f": {
   "file": "86b5e3dd-60b1-4b7d-a031-e6d867b0995f-d20cf820ae.webp",
   "source": "https://img.apmcdn.org/149a09c7f10962db985fc19a2eb503156a7dfc1f/uncropped/a6e58f-20221003-guitar-stream-tile-3000.png",
@@ -4416,14 +4415,6 @@
   "source": "https://outpostradio.com/christmasoldies/xmas-oldies-logo-1-full.jpg",
   "kind": "official",
   "width": 343
- },
- "e6f0d9af-820c-4769-8eec-e5cc7ad5b326": {
-  "file": "e6f0d9af-820c-4769-8eec-e5cc7ad5b326-8a7f800579.webp",
-  "ref": "0.0.202611052010",
-  "source": "https://cdn.corpemf.com/www/default-artwork/k-love-christmas/album-md.png",
-  "kind": "radio-browser",
-  "width": 350,
-  "original": "https://cdn.corpemf.com/www/default-artwork/k-love-christmas/album-md.png"
  },
  "9638c208-0601-11e8-ae97-52543be04c81": {
   "file": "9638c208-0601-11e8-ae97-52543be04c81-ea18a97b9a.webp",
@@ -5256,13 +5247,6 @@
   "width": 480,
   "ref": "0.0.202610242328"
  },
- "9609b366-0601-11e8-ae97-52543be04c81": {
-  "file": "9609b366-0601-11e8-ae97-52543be04c81-74a548fc5b.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://wfuv.org/themes/custom/wfuv/logo.png",
-  "kind": "website",
-  "width": 342
- },
  "e392aeac-2fb8-4f34-9543-6f4c8209d3a7": {
   "file": "e392aeac-2fb8-4f34-9543-6f4c8209d3a7-192e7d9c66.webp",
   "source": "https://jfsr.co.uk/wp-content/uploads/2020/08/cropped-JFSR-Favicon-300x300.png",
@@ -5385,20 +5369,20 @@
   "width": 250,
   "ref": "0.0.202610242328"
  },
- "35773c40-a6d0-4316-bc39-18477a8c63d0": {
-  "file": "35773c40-a6d0-4316-bc39-18477a8c63d0-de40af3fe3.webp",
-  "source": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
-  "kind": "website",
-  "width": 180,
-  "original": "https://cdn-radiotime-logos.tunein.com/s24941q.png",
-  "ref": "0.0.202610242328"
- },
  "f9a4e918-7df8-42ba-862f-21828d7c9b09": {
   "file": "f9a4e918-7df8-42ba-862f-21828d7c9b09-13c27a0d92.webp",
   "source": "https://justhousemusic.co.uk/wp-content/uploads/2025/06/cropped-IMG_8424-192x192.jpg",
   "kind": "website",
   "width": 192,
   "original": "https://cdn-profiles.tunein.com/s293430/images/logod.png?t=638095610890000000",
+  "ref": "0.0.202610242328"
+ },
+ "35773c40-a6d0-4316-bc39-18477a8c63d0": {
+  "file": "35773c40-a6d0-4316-bc39-18477a8c63d0-de40af3fe3.webp",
+  "source": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+  "kind": "website",
+  "width": 180,
+  "original": "https://cdn-radiotime-logos.tunein.com/s24941q.png",
   "ref": "0.0.202610242328"
  },
  "ce62430f-e971-48c3-b31c-ee55a2a81974": {
@@ -5521,14 +5505,6 @@
   "source": "https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
   "kind": "website",
   "width": 192,
-  "ref": "0.0.202610242328"
- },
- "96243040-0601-11e8-ae97-52543be04c81": {
-  "file": "96243040-0601-11e8-ae97-52543be04c81-d3b97bcf02.webp",
-  "source": "https://radiojackie.com/wp-content/uploads/2021/12/cropped-favicon-1-192x192.jpg",
-  "kind": "website",
-  "width": 192,
-  "original": "https://radiojackie.com/wp-content/uploads/2023/07/logo-mike-artwork-flat.jpg",
   "ref": "0.0.202610242328"
  },
  "8b5d407b-dc32-11e9-a8ba-52543be04c81": {
@@ -5795,6 +5771,13 @@
   "kind": "website",
   "width": 196,
   "ref": "0.0.202610242328"
+ },
+ "96269ba0-0601-11e8-ae97-52543be04c81": {
+  "file": "96269ba0-0601-11e8-ae97-52543be04c81-a18d5a6c8c.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://www.jazz88.org/Images/Logo680.png",
+  "kind": "website",
+  "width": 680
  },
  "a6d18be5-282c-42ea-90f5-40320466399a": {
   "file": "a6d18be5-282c-42ea-90f5-40320466399a-de40af3fe3.webp",
@@ -6316,13 +6299,6 @@
   "kind": "website",
   "width": 256,
   "original": "https://static.mytuner.mobi/media/tvos_radios/151/fishnet-radio.6ea1e90b.png",
-  "ref": "0.0.202610242328"
- },
- "960d6459-0601-11e8-ae97-52543be04c81": {
-  "file": "960d6459-0601-11e8-ae97-52543be04c81-d3b97bcf02.webp",
-  "source": "https://radiojackie.com/wp-content/uploads/2021/12/cropped-favicon-1-192x192.jpg",
-  "kind": "website",
-  "width": 192,
   "ref": "0.0.202610242328"
  },
  "f15be76e-090f-4458-b4ac-16a470f415c5": {
@@ -7095,6 +7071,14 @@
   "original": "https://www.best-of-rock.fm/favicons/apple-touch-icon.png",
   "ref": "0.0.202610242328"
  },
+ "128d5561-8439-4e2a-9e6c-4e48ad4f0cc0": {
+  "file": "128d5561-8439-4e2a-9e6c-4e48ad4f0cc0-d5b11f45ab.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://doyou.world/cdn/shop/t/54/assets/doyou-artwork.jpg?v=41210381139986871071787493337",
+  "kind": "website",
+  "width": 716,
+  "original": "https://doyou.world/cdn/shop/files/logo-01_300x300.png?v=1617047607"
+ },
  "960c3f9b-0601-11e8-ae97-52543be04c81": {
   "file": "960c3f9b-0601-11e8-ae97-52543be04c81-148b59ab5e.webp",
   "ref": "0.0.202610311434",
@@ -7133,6 +7117,14 @@
   "width": 512,
   "original": "https://www.oldie-antenne.de/logos/oldie-antenne/apple-touch-icon.png",
   "ref": "0.0.202610242328"
+ },
+ "caa00a3a-891e-4b3a-80ed-e990f80afa0c": {
+  "file": "caa00a3a-891e-4b3a-80ed-e990f80afa0c-b0a4e6e6d3.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://www.clydecoastradio.co.uk/uploads/1/3/7/6/137694943/published/ccr-logo-orig-1.png?1768564244",
+  "kind": "website",
+  "width": 571,
+  "original": "https://www.clydecoastradio.co.uk/uploads/1/3/7/6/137694943/blue-ccr-logo.png"
  },
  "389011a1-3a96-11e9-9b4e-52543be04c81": {
   "file": "389011a1-3a96-11e9-9b4e-52543be04c81-6194ac71e4.webp",
@@ -7673,6 +7665,20 @@
   "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/SWR_Aktuell_Logo.jpg",
   "ref": "0.0.202610242328"
  },
+ "5f729860-a726-4468-bf41-67986e60bdef": {
+  "file": "5f729860-a726-4468-bf41-67986e60bdef-e5bd91b62a.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://upload.radiobob.de/production/static/1793374041756/icons/icon_512.8WpccMNcjjc.png",
+  "kind": "website",
+  "width": 512
+ },
+ "33de8eca-ae96-41fd-96e9-d3d3b7d00f39": {
+  "file": "33de8eca-ae96-41fd-96e9-d3d3b7d00f39-ba00f7c9f0.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://upload.80s80s.de/production/static/1793373427516/icons/icon_512.ewwAEi8A30w.png",
+  "kind": "website",
+  "width": 512
+ },
  "4d3b3a98-816d-49ad-ba17-b69851e0ccb8": {
   "file": "4d3b3a98-816d-49ad-ba17-b69851e0ccb8-d7c028926a.webp",
   "source": "https://www.best-of-rock.fm/favicons/android-chrome-256x256.png",
@@ -7719,6 +7725,13 @@
   "source": "https://top100station.de/assets/logo.png",
   "kind": "website",
   "width": 400
+ },
+ "961777d1-0601-11e8-ae97-52543be04c81": {
+  "file": "961777d1-0601-11e8-ae97-52543be04c81-6617e73fa2.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Klassik%20Radio%20Logo%202020.svg?width=600",
+  "kind": "wikidata",
+  "width": 960
  },
  "960a37a2-0601-11e8-ae97-52543be04c81": {
   "file": "960a37a2-0601-11e8-ae97-52543be04c81-a30790fb87.webp",
@@ -7794,6 +7807,13 @@
   "width": 512,
   "original": "https://www.bremenzwei.de/static/img/favicons/apple-touch-icon-180.png?v=4",
   "ref": "0.0.202610242328"
+ },
+ "9642ac1c-0601-11e8-ae97-52543be04c81": {
+  "file": "9642ac1c-0601-11e8-ae97-52543be04c81-6617e73fa2.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Klassik%20Radio%20Logo%202020.svg?width=600",
+  "kind": "wikidata",
+  "width": 960
  },
  "edaa4ad7-bdf3-11e8-aaf2-52543be04c81": {
   "file": "edaa4ad7-bdf3-11e8-aaf2-52543be04c81-17476759df.webp",
@@ -7903,6 +7923,14 @@
   "source": "https://www.energy.de/themes/nrj_energy/assets/images/logo/ENERGY_Logo_OnDark.svg",
   "kind": "website",
   "width": 1851
+ },
+ "73273788-b236-4569-89a8-72c87423524e": {
+  "file": "73273788-b236-4569-89a8-72c87423524e-ba00f7c9f0.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://upload.80s80s.de/production/static/1793373427516/icons/icon_512.ewwAEi8A30w.png",
+  "kind": "website",
+  "width": 512,
+  "original": "https://cdn-profiles.tunein.com/s309891/images/logog.png?t=162422"
  },
  "52ba8d13-e5e7-11e8-a9cc-52543be04c81": {
   "file": "52ba8d13-e5e7-11e8-a9cc-52543be04c81-e589bc84f8.webp",
@@ -9082,9 +9110,9 @@
   "width": 192,
   "original": "https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp"
  },
- "5f729860-a726-4468-bf41-67986e60bdef": {
-  "file": "5f729860-a726-4468-bf41-67986e60bdef-e5bd91b62a.webp",
-  "ref": "0.0.202611060835",
+ "e5ef8210-7cea-49e5-b2ef-13db01df225f": {
+  "file": "e5ef8210-7cea-49e5-b2ef-13db01df225f-e5bd91b62a.webp",
+  "ref": "0.0.202611060926",
   "source": "https://upload.radiobob.de/production/static/1793374041756/icons/icon_512.8WpccMNcjjc.png",
   "kind": "website",
   "width": 512
@@ -9104,6 +9132,14 @@
   "width": 960,
   "original": "https://upload.wikimedia.org/wikipedia/commons/0/08/VRT_Radio_1_logo.svg",
   "ref": "0.0.202610242328"
+ },
+ "37365057-f950-470e-870b-9d7be2b82761": {
+  "file": "37365057-f950-470e-870b-9d7be2b82761-5064147a10.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://file.atsw.de/production/static/1793373742192/icons/icon_512.8O8cUwC83ch.png",
+  "kind": "website",
+  "width": 512,
+  "original": "https://cdn.rpr1.de/sites/default/files/thumbnails/image/Weihnachtslieder_agg_1600x1600.jpg"
  },
  "364d5674-440e-4b2b-a2fb-a7688a8738a0": {
   "file": "364d5674-440e-4b2b-a2fb-a7688a8738a0-601f3d7daa.webp",
@@ -9193,6 +9229,14 @@
   "original": "https://www.topradio.be/favicons/favicon-96x96.png",
   "ref": "0.0.202610242328"
  },
+ "c860e4f1-6368-4122-9515-3beae17f4c97": {
+  "file": "c860e4f1-6368-4122-9515-3beae17f4c97-2e3664ef2d.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://file.atsw.de/production/static/1793373738782/icons/icon_512.b8wxo2c0800.png",
+  "kind": "website",
+  "width": 512,
+  "original": "https://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/kinderlieder.jpg"
+ },
  "960ee5c9-0601-11e8-ae97-52543be04c81": {
   "file": "960ee5c9-0601-11e8-ae97-52543be04c81-bd812b5d97.webp",
   "source": "https://www.funradio.be/wp-content/themes/rise/assets/img/fav/apple-touch-icon.png",
@@ -9207,6 +9251,14 @@
   "width": 960,
   "original": "https://www.static.rtbf.be/radio/musiq3/ico/favicon-musiq3-32x32.png",
   "ref": "0.0.202610242328"
+ },
+ "e6e6a598-8a7e-447d-8616-cdc3b310b681": {
+  "file": "e6e6a598-8a7e-447d-8616-cdc3b310b681-2e3664ef2d.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://file.atsw.de/production/static/1793373738782/icons/icon_512.b8wxo2c0800.png",
+  "kind": "website",
+  "width": 512,
+  "original": "https://cdn.regenbogen.de/sites/default/files/scald/image/RR2_Christmas_Rock_600x600.jpg"
  },
  "9e31c4e7-03b6-4a80-a4e2-5977b023d32c": {
   "file": "9e31c4e7-03b6-4a80-a4e2-5977b023d32c-b42d543198.webp",
@@ -9223,6 +9275,14 @@
   "width": 512,
   "original": "https://nl.nostalgie.be/icons/icon-144x144.png?v=f2b073e495322d52deec159c8bdcaf20",
   "ref": "0.0.202610242328"
+ },
+ "961bee6b-0601-11e8-ae97-52543be04c81": {
+  "file": "961bee6b-0601-11e8-ae97-52543be04c81-8317cdeac4.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/MNM%20logo%202021.png?width=600",
+  "kind": "wikidata",
+  "width": 960,
+  "original": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/mnm-hits/v3/color.svg"
  },
  "66617a79-5235-44d1-b59d-f996eae58a65": {
   "file": "66617a79-5235-44d1-b59d-f996eae58a65-601f3d7daa.webp",
@@ -9255,6 +9315,14 @@
   "original": "https://www.topradio.be/favicons/favicon-96x96.png",
   "ref": "0.0.202610242328"
  },
+ "960eb6af-0601-11e8-ae97-52543be04c81": {
+  "file": "960eb6af-0601-11e8-ae97-52543be04c81-bd6c0da4e4.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://www.vrt.be/vrtnu-resources/images/android-chrome-384x384.png",
+  "kind": "website",
+  "width": 384,
+  "original": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/klara-continuo/v2/color.svg"
+ },
  "568c832b-671d-4397-b61b-b682b0d6baa7": {
   "file": "568c832b-671d-4397-b61b-b682b0d6baa7-5e0988f05f.webp",
   "ref": "0.0.202610311509",
@@ -9262,6 +9330,14 @@
   "kind": "radio-browser",
   "width": 180,
   "original": "https://mynoise.net/apple-touch-icon.png"
+ },
+ "d0f270e4-4512-11ea-a860-52543be04c81": {
+  "file": "d0f270e4-4512-11ea-a860-52543be04c81-28197d650b.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://static-oaos.rtbf.be/favicon/rtbf-actus-192.png",
+  "kind": "website",
+  "width": 192,
+  "original": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png"
  },
  "b69fe610-1522-47b1-a784-e7025d11f884": {
   "file": "b69fe610-1522-47b1-a784-e7025d11f884-5e0988f05f.webp",
@@ -9279,19 +9355,13 @@
   "original": "https://www.tomorrowland.com/home/apple-touch-icon.png",
   "ref": "0.0.202610242328"
  },
- "33de8eca-ae96-41fd-96e9-d3d3b7d00f39": {
-  "file": "33de8eca-ae96-41fd-96e9-d3d3b7d00f39-ba00f7c9f0.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://upload.80s80s.de/production/static/1793373427516/icons/icon_512.ewwAEi8A30w.png",
+ "82ebafb0-e192-40c5-abea-02834259f01d": {
+  "file": "82ebafb0-e192-40c5-abea-02834259f01d-5064147a10.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://file.atsw.de/production/static/1793373742192/icons/icon_512.8O8cUwC83ch.png",
   "kind": "website",
-  "width": 512
- },
- "9642ac1c-0601-11e8-ae97-52543be04c81": {
-  "file": "9642ac1c-0601-11e8-ae97-52543be04c81-6617e73fa2.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Klassik%20Radio%20Logo%202020.svg?width=600",
-  "kind": "wikidata",
-  "width": 960
+  "width": 512,
+  "original": "https://image.atsw.de/atsw/production/2024-07/cover600x600.jpg"
  },
  "c13cf7ce-b7c6-4714-9a5c-a7cf079fa314": {
   "file": "c13cf7ce-b7c6-4714-9a5c-a7cf079fa314-8a0b2f5a48.webp",
@@ -9316,12 +9386,13 @@
   "original": "https://mynoise.net/apple-touch-icon.png",
   "ref": "0.0.202610242328"
  },
- "961777d1-0601-11e8-ae97-52543be04c81": {
-  "file": "961777d1-0601-11e8-ae97-52543be04c81-6617e73fa2.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Klassik%20Radio%20Logo%202020.svg?width=600",
-  "kind": "wikidata",
-  "width": 960
+ "0777d6ab-4a0b-4ef2-b6c8-438e3d4d2443": {
+  "file": "0777d6ab-4a0b-4ef2-b6c8-438e3d4d2443-b7e79cdbf6.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://file.atsw.de/production/static/1793373730948/icons/icon_512.cWprpqopSeo.png",
+  "kind": "website",
+  "width": 512,
+  "original": "https://cdn.bigfm.de/sites/default/files/styles/wide/public/scald/image/bigFM-XMAS-300x300.jpg"
  },
  "685b47ed-1703-4ddd-8c72-c3ac65e1e669": {
   "file": "685b47ed-1703-4ddd-8c72-c3ac65e1e669-5e0988f05f.webp",
@@ -9339,14 +9410,6 @@
   "original": "https://assets.radioplayer.org/056/0567/600/600/kz4elh2i.png",
   "ref": "0.0.202610242328"
  },
- "ae209b3a-d20a-48f2-b303-22d68e385bf4": {
-  "file": "ae209b3a-d20a-48f2-b303-22d68e385bf4-20a6359ea8.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://absolutradio.de/favicon/web-app-manifest-512x512.png",
-  "kind": "website",
-  "width": 512,
-  "original": "https://absolutradio.de/images/stations/229_relax.png"
- },
  "24330707-492f-455a-8578-11bbd663dd99": {
   "file": "24330707-492f-455a-8578-11bbd663dd99-5e0988f05f.webp",
   "source": "https://mynoise.net/apple-touch-icon.png",
@@ -9363,13 +9426,36 @@
   "original": "https://2.brf.be/wp-content/themes/pixelpress/dist/assets/images/3/icons/apple-icon-120x120.png",
   "ref": "0.0.202610242328"
  },
- "04a7d616-e800-43b3-acdc-493f694c73cf": {
-  "file": "04a7d616-e800-43b3-acdc-493f694c73cf-148b59ab5e.webp",
+ "960ee12b-0601-11e8-ae97-52543be04c81": {
+  "file": "960ee12b-0601-11e8-ae97-52543be04c81-28197d650b.webp",
   "ref": "0.0.202611060835",
-  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Rock%20Antenne%20Logo%202017.svg?width=600",
+  "source": "https://static-oaos.rtbf.be/favicon/rtbf-actus-192.png",
+  "kind": "website",
+  "width": 192,
+  "original": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png"
+ },
+ "a05aabd9-e093-11e9-a8ba-52543be04c81": {
+  "file": "a05aabd9-e093-11e9-a8ba-52543be04c81-d74fad0ab8.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://www.radiolausitz.de/typo3conf/ext/ms_bcs/Resources/Public/tpl/slp/favicon/radiolausitz_favicon.png.pagespeed.ce._08DWwlaXW.png",
+  "kind": "website",
+  "width": 180,
+  "original": "https://www.radiolausitz.de/favicon.ico"
+ },
+ "1928d18d-0ece-11e9-a80b-52543be04c81": {
+  "file": "1928d18d-0ece-11e9-a80b-52543be04c81-e743319281.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/VRT%20Radio%202%20(2022).svg?width=600",
   "kind": "wikidata",
   "width": 960,
-  "original": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png"
+  "original": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png"
+ },
+ "5d0559a7-4910-4ba0-b7fa-061e1cb6140f": {
+  "file": "5d0559a7-4910-4ba0-b7fa-061e1cb6140f-228f08c521.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://www.starfm.de/images/logo.png",
+  "kind": "official",
+  "width": 641
  },
  "560e0caf-8e29-42ac-91c9-a37f71625ffc": {
   "file": "560e0caf-8e29-42ac-91c9-a37f71625ffc-cda541c540.webp",
@@ -9395,13 +9481,12 @@
   "original": "https://nl.slowradio.be/img/favicons/favicon-32x32.png",
   "ref": "0.0.202610242328"
  },
- "73273788-b236-4569-89a8-72c87423524e": {
-  "file": "73273788-b236-4569-89a8-72c87423524e-ba00f7c9f0.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://upload.80s80s.de/production/static/1793373427516/icons/icon_512.ewwAEi8A30w.png",
-  "kind": "website",
-  "width": 512,
-  "original": "https://cdn-profiles.tunein.com/s309891/images/logog.png?t=162422"
+ "f3e3a199-879d-41fe-b3c8-a7f31996d9c3": {
+  "file": "f3e3a199-879d-41fe-b3c8-a7f31996d9c3-dfa2a9933c.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://www.antenne.de/logos/station-antenne-bayern/station.svg",
+  "kind": "official",
+  "width": 2083
  },
  "3fabc85a-433f-4fe7-a906-665e08bc6037": {
   "file": "3fabc85a-433f-4fe7-a906-665e08bc6037-d9d32d156a.webp",
@@ -9688,14 +9773,6 @@
   "width": 512,
   "original": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.oilsjtmjoezik.be%2F",
   "ref": "0.0.202610242328"
- },
- "4b6cfd36-ac02-4236-ab14-7458ad012328": {
-  "file": "4b6cfd36-ac02-4236-ab14-7458ad012328-8cc80fce00.webp",
-  "ref": "0.0.202611051314",
-  "source": "https://cdn-radio.dpgmedia.net/6/98/d5/1a/111/Q-ALL_STARS-7-WEBSITE-220x220.png",
-  "kind": "radio-browser",
-  "width": 220,
-  "original": "https://cdn-radio.dpgmedia.net/6/98/d5/1a/111/Q-ALL_STARS-7-WEBSITE-220x220.png"
  },
  "b521fd98-8295-45c0-a994-c6e40d057998": {
   "file": "b521fd98-8295-45c0-a994-c6e40d057998-d544b5f3fc.webp",
@@ -10024,13 +10101,92 @@
   "width": 250,
   "original": "https://smartradio.city/images/favicon.png"
  },
- "961bee6b-0601-11e8-ae97-52543be04c81": {
-  "file": "961bee6b-0601-11e8-ae97-52543be04c81-8317cdeac4.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/MNM%20logo%202021.png?width=600",
+ "960edd4c-0601-11e8-ae97-52543be04c81": {
+  "file": "960edd4c-0601-11e8-ae97-52543be04c81-c24dde94e4.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://www.radio.fr/300/classic2180s.png",
+  "kind": "radio-browser",
+  "width": 300,
+  "original": "https://www.radio.fr/300/classic2180s.png"
+ },
+ "1e4bb448-ad37-4088-938f-01fccc304489": {
+  "file": "1e4bb448-ad37-4088-938f-01fccc304489-28197d650b.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://static-oaos.rtbf.be/favicon/rtbf-actus-192.png",
+  "kind": "website",
+  "width": 192
+ },
+ "9638c05b-0601-11e8-ae97-52543be04c81": {
+  "file": "9638c05b-0601-11e8-ae97-52543be04c81-28197d650b.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://static-oaos.rtbf.be/favicon/rtbf-actus-192.png",
+  "kind": "website",
+  "width": 192,
+  "original": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png"
+ },
+ "960ef299-0601-11e8-ae97-52543be04c81": {
+  "file": "960ef299-0601-11e8-ae97-52543be04c81-9031f6d383.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://www.radio.fr/300/classic2190s.png",
+  "kind": "radio-browser",
+  "width": 300,
+  "original": "https://www.radio.fr/300/classic2190s.png"
+ },
+ "40386f09-7c9b-470e-b6df-03b4a1f30f70": {
+  "file": "40386f09-7c9b-470e-b6df-03b4a1f30f70-94ee48b308.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Studio%20Brussel%20logo%20(2023-).svg?width=600",
   "kind": "wikidata",
   "width": 960,
-  "original": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/mnm-hits/v3/color.svg"
+  "original": "https://upload.wikimedia.org/wikipedia/commons/5/56/De_Tijdloze.png"
+ },
+ "74d0f536-d32d-4d76-88be-2fc0dff8c706": {
+  "file": "74d0f536-d32d-4d76-88be-2fc0dff8c706-94ee48b308.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Studio%20Brussel%20logo%20(2023-).svg?width=600",
+  "kind": "wikidata",
+  "width": 960,
+  "original": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-vuurland/v3/color.svg"
+ },
+ "961bf014-0601-11e8-ae97-52543be04c81": {
+  "file": "961bf014-0601-11e8-ae97-52543be04c81-7f54f9b2bc.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/RTBF%20Classic%2021%20logo.svg?width=600",
+  "kind": "wikidata",
+  "width": 960,
+  "original": "https://www.rtbf.be/favicon.ico"
+ },
+ "960edbcb-0601-11e8-ae97-52543be04c81": {
+  "file": "960edbcb-0601-11e8-ae97-52543be04c81-5109f3f865.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://www.allzicradio.com/media/radios/classic21-90-allzicradio.png",
+  "kind": "radio-browser",
+  "width": 600,
+  "original": "https://www.allzicradio.com/media/radios/classic21-90-allzicradio.png"
+ },
+ "7be6cf34-f482-4ad5-9dc8-9928f2cfe2ed": {
+  "file": "7be6cf34-f482-4ad5-9dc8-9928f2cfe2ed-7f54f9b2bc.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/RTBF%20Classic%2021%20logo.svg?width=600",
+  "kind": "wikidata",
+  "width": 960,
+  "original": "https://www.rtbf.be/favicon.ico"
+ },
+ "48687ae4-39ad-4eba-b090-d160102f18f2": {
+  "file": "48687ae4-39ad-4eba-b090-d160102f18f2-94ee48b308.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Studio%20Brussel%20logo%20(2023-).svg?width=600",
+  "kind": "wikidata",
+  "width": 960,
+  "original": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-untz/v3/color.svg"
+ },
+ "e187df66-74eb-4bcb-ab1b-84538ec2094e": {
+  "file": "e187df66-74eb-4bcb-ab1b-84538ec2094e-821e0a454d.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio%201%20VRT%202025.svg?width=600",
+  "kind": "wikidata",
+  "width": 960,
+  "original": "https://upload.wikimedia.org/wikipedia/commons/0/08/VRT_Radio_1_logo.svg"
  },
  "960e57c5-0601-11e8-ae97-52543be04c81": {
   "file": "960e57c5-0601-11e8-ae97-52543be04c81-e69bc250ce.webp",
@@ -10094,6 +10250,14 @@
   "original": "https://energy.ch/ech-new/images/ech/apple-touch-icon.png",
   "ref": "0.0.202610242328"
  },
+ "82329bca-e104-11e9-a8ba-52543be04c81": {
+  "file": "82329bca-e104-11e9-a8ba-52543be04c81-3632ba7da1.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Viva%2BLOGO.png?width=600",
+  "kind": "wikidata",
+  "width": 860,
+  "original": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png"
+ },
  "cf128157-674e-46e1-a1b4-9251ee8d3ab7": {
   "file": "cf128157-674e-46e1-a1b4-9251ee8d3ab7-121d3d81e2.webp",
   "ref": "0.0.202611052010",
@@ -10155,6 +10319,14 @@
   "kind": "website",
   "width": 100,
   "ref": "0.0.202610242328"
+ },
+ "67ea1af2-07a6-4de8-985e-b47947139793": {
+  "file": "67ea1af2-07a6-4de8-985e-b47947139793-821e0a454d.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio%201%20VRT%202025.svg?width=600",
+  "kind": "wikidata",
+  "width": 960,
+  "original": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/radio-1-classics/v1/color.svg"
  },
  "96055c03-0601-11e8-ae97-52543be04c81": {
   "file": "96055c03-0601-11e8-ae97-52543be04c81-21916a8372.webp",
@@ -10657,6 +10829,14 @@
   "width": 180,
   "ref": "0.0.202610242328"
  },
+ "90db3390-e105-11e9-a8ba-52543be04c81": {
+  "file": "90db3390-e105-11e9-a8ba-52543be04c81-e65ae4c5c5.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/JAM%20LOGO%201920x1080%20-%20fond%20blanc.png?width=600",
+  "kind": "wikidata",
+  "width": 960,
+  "original": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png"
+ },
  "ebfd9ee6-f7a5-41ab-9c0c-cc104d996067": {
   "file": "ebfd9ee6-f7a5-41ab-9c0c-cc104d996067-716875edf5.webp",
   "source": "https://www.spoonradio.com/favicon.ico",
@@ -10664,14 +10844,6 @@
   "width": 300,
   "original": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbbjzU-x-9v-CAfwTz9XrvauhyphenhyphencNyh2KpA0x46ci7cr5uir2tTbyeBoDeAJSm2xhtcnC50yQ8n6BUfkuT-LWS9DjFCOiKt8dm2RiYSHLpd3DtQOYXAcvMmjUMNL2AOW1eJylZcvocEj1fuXeUwcOQ9XX2DsvDYEEcKXNpUMz296cJEK32SDDPrvvKILPKw/s300/Rock%20Ballads.png",
   "ref": "0.0.202610242328"
- },
- "d0f270e4-4512-11ea-a860-52543be04c81": {
-  "file": "d0f270e4-4512-11ea-a860-52543be04c81-28197d650b.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://static-oaos.rtbf.be/favicon/rtbf-actus-192.png",
-  "kind": "website",
-  "width": 192,
-  "original": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png"
  },
  "962a77ca-0601-11e8-ae97-52543be04c81": {
   "file": "962a77ca-0601-11e8-ae97-52543be04c81-9f3fe8a4aa.webp",
@@ -10710,13 +10882,21 @@
   "original": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
   "ref": "0.0.202610242328"
  },
- "1928d18d-0ece-11e9-a80b-52543be04c81": {
-  "file": "1928d18d-0ece-11e9-a80b-52543be04c81-e743319281.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/VRT%20Radio%202%20(2022).svg?width=600",
+ "6010ee2f-c88e-4ee6-a2a1-1c1526cc48ca": {
+  "file": "6010ee2f-c88e-4ee6-a2a1-1c1526cc48ca-94ee48b308.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Studio%20Brussel%20logo%20(2023-).svg?width=600",
   "kind": "wikidata",
   "width": 960,
-  "original": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png"
+  "original": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-bruut/v4/color.svg"
+ },
+ "f27427e9-4534-466a-80a9-80eb26b53f0c": {
+  "file": "f27427e9-4534-466a-80a9-80eb26b53f0c-821e0a454d.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio%201%20VRT%202025.svg?width=600",
+  "kind": "wikidata",
+  "width": 960,
+  "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/VRT_Radio_1_logo.svg/158px-VRT_Radio_1_logo.svg.png"
  },
  "962a6dd5-0601-11e8-ae97-52543be04c81": {
   "file": "962a6dd5-0601-11e8-ae97-52543be04c81-9f3fe8a4aa.webp",
@@ -11134,13 +11314,13 @@
   "kind": "website",
   "width": 180
  },
- "960ee12b-0601-11e8-ae97-52543be04c81": {
-  "file": "960ee12b-0601-11e8-ae97-52543be04c81-28197d650b.webp",
-  "ref": "0.0.202611060835",
+ "6ce6ede8-f66b-4e10-aa9d-5327b9afdafa": {
+  "file": "6ce6ede8-f66b-4e10-aa9d-5327b9afdafa-28197d650b.webp",
+  "ref": "0.0.202611060926",
   "source": "https://static-oaos.rtbf.be/favicon/rtbf-actus-192.png",
   "kind": "website",
   "width": 192,
-  "original": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png"
+  "original": "https://assets.maradio.be/stationimages/29_programme_image.png"
  },
  "c27d4c9a-5087-11e8-a4d1-52543be04c81": {
   "file": "c27d4c9a-5087-11e8-a4d1-52543be04c81-980aeb86fa.webp",
@@ -11233,13 +11413,12 @@
   "width": 300,
   "ref": "0.0.202610242328"
  },
- "960eb6af-0601-11e8-ae97-52543be04c81": {
-  "file": "960eb6af-0601-11e8-ae97-52543be04c81-bd6c0da4e4.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://www.vrt.be/vrtnu-resources/images/android-chrome-384x384.png",
-  "kind": "website",
-  "width": 384,
-  "original": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/klara-continuo/v2/color.svg"
+ "961becca-0601-11e8-ae97-52543be04c81": {
+  "file": "961becca-0601-11e8-ae97-52543be04c81-e743319281.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/VRT%20Radio%202%20(2022).svg?width=600",
+  "kind": "wikidata",
+  "width": 960
  },
  "ded0a78e-8cec-49ff-860b-be8a8e5c4d8e": {
   "file": "ded0a78e-8cec-49ff-860b-be8a8e5c4d8e-eb86718b9b.webp",
@@ -11297,6 +11476,13 @@
   "width": 180,
   "ref": "0.0.202610242328"
  },
+ "960cf504-0601-11e8-ae97-52543be04c81": {
+  "file": "960cf504-0601-11e8-ae97-52543be04c81-e743319281.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/VRT%20Radio%202%20(2022).svg?width=600",
+  "kind": "wikidata",
+  "width": 960
+ },
  "e2af125a-58df-4264-9d82-589d96a7ab39": {
   "file": "e2af125a-58df-4264-9d82-589d96a7ab39-eb913fc47a.webp",
   "source": "https://radiofr.ch/favicons/apple-touch-icon.png",
@@ -11312,6 +11498,13 @@
   "width": 960,
   "original": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
   "ref": "0.0.202610242328"
+ },
+ "9619dbe5-0601-11e8-ae97-52543be04c81": {
+  "file": "9619dbe5-0601-11e8-ae97-52543be04c81-e743319281.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/VRT%20Radio%202%20(2022).svg?width=600",
+  "kind": "wikidata",
+  "width": 960
  },
  "92c203b1-f32a-11e9-a96c-52543be04c81": {
   "file": "92c203b1-f32a-11e9-a96c-52543be04c81-d30629f0c4.webp",
@@ -11489,6 +11682,14 @@
   "width": 960,
   "original": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
   "ref": "0.0.202610242328"
+ },
+ "1c22e991-4134-45da-895b-b8326cb461ec": {
+  "file": "1c22e991-4134-45da-895b-b8326cb461ec-16a9ec1b4d.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://www.vrt.be/nl/assets/images/2024-10/vrtweb-logos-01.svg",
+  "kind": "website",
+  "width": 4500,
+  "original": "https://www.vrt.be/nl/favicon.ico"
  },
  "6af343d5-1415-434d-aafd-469632f5087b": {
   "file": "6af343d5-1415-434d-aafd-469632f5087b-9f3fe8a4aa.webp",
@@ -11670,6 +11871,14 @@
   "original": "https://image.radioking.io/radios/265822/logo/f46222eb-a1b8-4192-8a00-c6755d10080a.jpeg",
   "ref": "0.0.202610242328"
  },
+ "05cbcecc-78c5-4b6f-a30c-f75d315b2c29": {
+  "file": "05cbcecc-78c5-4b6f-a30c-f75d315b2c29-6944dd7c2c.webp",
+  "source": "https://musicradio.ai/wp-content/uploads/2025/01/logo-music-radio-avec-flou.png",
+  "kind": "radio-browser",
+  "width": 1920,
+  "original": "https://musicradio.ai/wp-content/uploads/2025/01/logo-music-radio-avec-flou.png",
+  "ref": "0.0.202610242328"
+ },
  "f8f21739-ae9e-4cdb-bcca-00a0445db8c9": {
   "file": "f8f21739-ae9e-4cdb-bcca-00a0445db8c9-9f3fe8a4aa.webp",
   "source": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
@@ -11698,14 +11907,6 @@
   "source": "https://radio.1cloud.fm/favicon/apple-touch-icon.png?v=2",
   "kind": "website",
   "width": 180,
-  "ref": "0.0.202610242328"
- },
- "05cbcecc-78c5-4b6f-a30c-f75d315b2c29": {
-  "file": "05cbcecc-78c5-4b6f-a30c-f75d315b2c29-6944dd7c2c.webp",
-  "source": "https://musicradio.ai/wp-content/uploads/2025/01/logo-music-radio-avec-flou.png",
-  "kind": "radio-browser",
-  "width": 1920,
-  "original": "https://musicradio.ai/wp-content/uploads/2025/01/logo-music-radio-avec-flou.png",
   "ref": "0.0.202610242328"
  },
  "a3fa1510-b4ce-4766-9104-cc6b26a42e5a": {
@@ -11797,6 +11998,13 @@
   "source": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/78/1c/56781c6e-6c14-c869-ccfb-d3cef55eafd5/672985079878.png/300x300bb.jpg",
   "kind": "website",
   "width": 300
+ },
+ "93b8955d-1171-428f-83a3-3fd2851fd842": {
+  "file": "93b8955d-1171-428f-83a3-3fd2851fd842-e1ce8bbe8a.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://transition-radio.com/media/pages/shows/half-notes-at-the-smoke-floor/half-notes-at-the-smoke-floor-21st-october-2026/ce3eaf6ef6-1792568641/halfnotesatthesmokefloor_logo_transitionradio_2026-1408x-700x700-crop.png",
+  "kind": "website",
+  "width": 700
  },
  "e4bb407b-9936-4d36-be5a-32612e7fb7e5": {
   "file": "e4bb407b-9936-4d36-be5a-32612e7fb7e5-6944dd7c2c.webp",
@@ -12188,6 +12396,14 @@
   "kind": "wikidata",
   "width": 960
  },
+ "ce81296c-e7ac-4290-a2d8-aa961ca4be5c": {
+  "file": "ce81296c-e7ac-4290-a2d8-aa961ca4be5c-9e88c73b76.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Antenne%20Vorarlberg%20Logo%202013.svg?width=600",
+  "kind": "wikidata",
+  "width": 960,
+  "original": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
+ },
  "2953dfbe-64f1-40c3-9ff8-90ba0f2449b2": {
   "file": "2953dfbe-64f1-40c3-9ff8-90ba0f2449b2-3f4b181b80.webp",
   "ref": "0.0.202611050032",
@@ -12423,14 +12639,6 @@
   "width": 470,
   "original": "https://www.technikumone.at/favicon.ico"
  },
- "cf49fc02-51c5-4bb2-8bb3-c1f292f60603": {
-  "file": "cf49fc02-51c5-4bb2-8bb3-c1f292f60603-9e88c73b76.webp",
-  "ref": "0.0.202611050032",
-  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Antenne%20Vorarlberg%20Logo%202013.svg?width=600",
-  "kind": "wikidata",
-  "width": 960,
-  "original": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
- },
  "aa2c5630-a5b6-41f8-8a13-a0193fcfbd8f": {
   "file": "aa2c5630-a5b6-41f8-8a13-a0193fcfbd8f-f96fd60c4e.webp",
   "ref": "0.0.202611050032",
@@ -12477,6 +12685,21 @@
   "width": 180,
   "original": "https://www.liferadio.at/typo3conf/ext/chili_prjliferadio/Resources/Public/Images/logo.png"
  },
+ "296bd35f-01ea-452e-984c-35847f0b43c4": {
+  "file": "296bd35f-01ea-452e-984c-35847f0b43c4-bbd985a51d.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://ch.az-cdn.ch/static/5.26.1/argovia/device-icons/512x512.png",
+  "kind": "website",
+  "width": 576
+ },
+ "e3e08ba3-4ee0-4062-8e82-a75f8d22f52e": {
+  "file": "e3e08ba3-4ee0-4062-8e82-a75f8d22f52e-d66cc7850b.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://ch.az-cdn.ch/static/5.26.1/radiomelody/device-icons/512x512.png",
+  "kind": "website",
+  "width": 576,
+  "original": "https://ch.az-cdn.ch/static/3.3.2/radiomelody/device-icons/48x48.png"
+ },
  "daa5690c-62e7-4a69-9829-005c501851dd": {
   "file": "daa5690c-62e7-4a69-9829-005c501851dd-2ea38a0c67.webp",
   "ref": "0.0.202611050032",
@@ -12484,12 +12707,13 @@
   "kind": "wikidata",
   "width": 960
  },
- "93b8955d-1171-428f-83a3-3fd2851fd842": {
-  "file": "93b8955d-1171-428f-83a3-3fd2851fd842-e1ce8bbe8a.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://transition-radio.com/media/pages/shows/half-notes-at-the-smoke-floor/half-notes-at-the-smoke-floor-21st-october-2026/ce3eaf6ef6-1792568641/halfnotesatthesmokefloor_logo_transitionradio_2026-1408x-700x700-crop.png",
+ "c1d4b62b-cb16-43ca-ae3a-41c2eb31b6e7": {
+  "file": "c1d4b62b-cb16-43ca-ae3a-41c2eb31b6e7-b8b8a865c1.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://ch.az-cdn.ch/static/5.26.1/virginrock/device-icons/512x512.png",
   "kind": "website",
-  "width": 700
+  "width": 576,
+  "original": "https://ch.az-cdn.ch/static/4.52.1/virginrock/device-icons/48x48.png"
  },
  "d18e4111-eb0f-11e9-a96c-52543be04c81": {
   "file": "d18e4111-eb0f-11e9-a96c-52543be04c81-9f0e0aabca.webp",
@@ -12521,6 +12745,14 @@
   "kind": "wikidata",
   "width": 960,
   "original": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
+ },
+ "980d4891-994c-46d9-9096-4ed0eb556aa8": {
+  "file": "980d4891-994c-46d9-9096-4ed0eb556aa8-13b45bd2aa.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://ch.az-cdn.ch/static/5.26.1/radio32/device-icons/512x512.png",
+  "kind": "website",
+  "width": 512,
+  "original": "https://www.presseportal-schweiz.ch/sites/default/files/radio_32_logo_neu.jpg"
  },
  "a01d985a-db11-4fec-addd-24c41d4fc377": {
   "file": "a01d985a-db11-4fec-addd-24c41d4fc377-51f8fe008f.webp",
@@ -12897,6 +13129,13 @@
   "kind": "wikidata",
   "width": 960
  },
+ "12f2dcc9-dac3-4b50-a407-18558c5d1f60": {
+  "file": "12f2dcc9-dac3-4b50-a407-18558c5d1f60-9e88c73b76.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Antenne%20Vorarlberg%20Logo%202013.svg?width=600",
+  "kind": "wikidata",
+  "width": 960
+ },
  "7e6c9fac-3fd6-43b4-8ea5-70079caa82cf": {
   "file": "7e6c9fac-3fd6-43b4-8ea5-70079caa82cf-fcd8d062ca.webp",
   "ref": "0.0.202611050032",
@@ -12905,20 +13144,28 @@
   "width": 270,
   "original": "https://Www.radio-one.at"
  },
- "ce81296c-e7ac-4290-a2d8-aa961ca4be5c": {
-  "file": "ce81296c-e7ac-4290-a2d8-aa961ca4be5c-9e88c73b76.webp",
-  "ref": "0.0.202611060835",
+ "b9230e0b-1bb1-46c0-aa76-d2f55677619e": {
+  "file": "b9230e0b-1bb1-46c0-aa76-d2f55677619e-9e88c73b76.webp",
+  "ref": "0.0.202611060926",
   "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Antenne%20Vorarlberg%20Logo%202013.svg?width=600",
   "kind": "wikidata",
   "width": 960,
-  "original": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
+  "original": "https://www.antennevorarlberg.at/wp-content/uploads//2021/03/70er-1000x1000-Slogan-runde-Ecken-144x144.png"
  },
- "12f2dcc9-dac3-4b50-a407-18558c5d1f60": {
-  "file": "12f2dcc9-dac3-4b50-a407-18558c5d1f60-9e88c73b76.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Antenne%20Vorarlberg%20Logo%202013.svg?width=600",
+ "a7ba271d-5f61-48b5-9a97-ea8091666fc1": {
+  "file": "a7ba271d-5f61-48b5-9a97-ea8091666fc1-2ea38a0c67.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio%20Arabella%20Logo%20(2022).svg?width=600",
   "kind": "wikidata",
   "width": 960
+ },
+ "c6f95c04-e9f6-4ed6-b040-3e1a2760b210": {
+  "file": "c6f95c04-e9f6-4ed6-b040-3e1a2760b210-2ea38a0c67.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio%20Arabella%20Logo%20(2022).svg?width=600",
+  "kind": "wikidata",
+  "width": 960,
+  "original": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
  },
  "d1229ae6-3fa4-4d02-8d83-7b6ab8b6b08e": {
   "file": "d1229ae6-3fa4-4d02-8d83-7b6ab8b6b08e-9cc514408c.webp",
@@ -12959,6 +13206,13 @@
   "kind": "website",
   "width": 300,
   "original": "https://www.kiss925.com/wp-content/uploads/sites/59/2020/09/KiSS-925-logo-514x514-1.png"
+ },
+ "84c68a22-584c-453e-8ce5-58589be48f43": {
+  "file": "84c68a22-584c-453e-8ce5-58589be48f43-9e88c73b76.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Antenne%20Vorarlberg%20Logo%202013.svg?width=600",
+  "kind": "wikidata",
+  "width": 960
  },
  "7afae7e3-8d06-42f5-b59e-a52d6e09e60e": {
   "file": "7afae7e3-8d06-42f5-b59e-a52d6e09e60e-846bdffe01.webp",
@@ -13006,6 +13260,22 @@
   "width": 512,
   "original": "https://static.wixstatic.com/media/f361b3_cf8747dc2b804de09c56359c324dd1f5~mv2.jpg",
   "ref": "0.0.202610242328"
+ },
+ "3b5a0bb4-dd07-4b56-a176-0d9bae9f3dfa": {
+  "file": "3b5a0bb4-dd07-4b56-a176-0d9bae9f3dfa-9e88c73b76.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Antenne%20Vorarlberg%20Logo%202013.svg?width=600",
+  "kind": "wikidata",
+  "width": 960,
+  "original": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
+ },
+ "9e3034a1-a33a-4663-9802-979c9535b16b": {
+  "file": "9e3034a1-a33a-4663-9802-979c9535b16b-9e88c73b76.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Antenne%20Vorarlberg%20Logo%202013.svg?width=600",
+  "kind": "wikidata",
+  "width": 960,
+  "original": "https://www.antennevorarlberg.at/wp-content/uploads//2013/02/webradio_Icons_1000x1000-NEU_oldies-but-goldies-144x144.png"
  },
  "6cb69b95-72d9-4ea6-859f-52546a85c1fe": {
   "file": "6cb69b95-72d9-4ea6-859f-52546a85c1fe-84576606f2.webp",
@@ -14648,7 +14918,7 @@
   "kind": "wikidata",
   "width": 960
  },
- "c0944630-04b4-4b9a-9842-670d19ed36d2": {
+ "03c2c0cb-0f42-411c-bfd3-51d74da92609": {
   "file": "03c2c0cb-0f42-411c-bfd3-51d74da92609-1638171ec3.webp",
   "ref": "0.0.202610280617",
   "source": "https://www.marca.com/apple-touch-icon-precomposed.png",
@@ -15713,14 +15983,6 @@
   "width": 700,
   "original": "https://antenacaro.cat/wp-content/uploads/2021/02/cropped-favicon-180x180.png"
  },
- "27f975bc-855f-4a8d-97a6-a4b8e02c035d": {
-  "file": "27f975bc-855f-4a8d-97a6-a4b8e02c035d-cf16de667f.webp",
-  "source": "https://www.rtpa.es/v4_assets/logo-rtpa-a.svg",
-  "kind": "website",
-  "width": 2083,
-  "original": "https://www.rtpa.es/favicon.ico",
-  "ref": "0.0.202610242328"
- },
  "d976826a-789b-4896-b720-a84b33759e99": {
   "file": "d976826a-789b-4896-b720-a84b33759e99-1862d7317e.webp",
   "ref": "0.0.202610242328",
@@ -15957,6 +16219,14 @@
   "width": 192,
   "ref": "0.0.202610242328"
  },
+ "27f975bc-855f-4a8d-97a6-a4b8e02c035d": {
+  "file": "27f975bc-855f-4a8d-97a6-a4b8e02c035d-cf16de667f.webp",
+  "source": "https://www.rtpa.es/v4_assets/logo-rtpa-a.svg",
+  "kind": "website",
+  "width": 2083,
+  "original": "https://www.rtpa.es/favicon.ico",
+  "ref": "0.0.202610242328"
+ },
  "8132e51a-b4c3-4087-8f2d-11fac6e4119b": {
   "file": "8132e51a-b4c3-4087-8f2d-11fac6e4119b-5c9b311704.webp",
   "source": "http://www.radiotx.es/IMAGENES/metaface.jpg",
@@ -16188,6 +16458,14 @@
   "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio%20105%20logo.svg?width=600",
   "kind": "wikidata",
   "width": 960,
+  "ref": "0.0.202610242328"
+ },
+ "96185693-0601-11e8-ae97-52543be04c81": {
+  "file": "96185693-0601-11e8-ae97-52543be04c81-c8de6351db.webp",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Rai%20Radio%201%20-%20Logo%202017.svg?width=600",
+  "kind": "wikidata",
+  "width": 960,
+  "original": "https://www.raicom.rai.it/wp-content/uploads/2021/12/RADIO1-1024x1024.jpg",
   "ref": "0.0.202610242328"
  },
  "9619eb8a-0601-11e8-ae97-52543be04c81": {
@@ -16955,6 +17233,14 @@
   "original": "https://www.rtr99.it/wp-content/uploads/2016/03/logo_facebook.png",
   "ref": "0.0.202610242328"
  },
+ "f748bfd6-0cef-4ae4-80b7-5cdf0305632c": {
+  "file": "f748bfd6-0cef-4ae4-80b7-5cdf0305632c-f98f18bcf1.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://candilradio.com/wp-content/uploads/2026/05/Logotipo-Luna_Roja_c01-1024x982-1-488x274.png",
+  "kind": "website",
+  "width": 488,
+  "original": "https://candilradio.com/wp-content/uploads/2019/12/roundlogo.gif"
+ },
  "962572e2-0601-11e8-ae97-52543be04c81": {
   "file": "962572e2-0601-11e8-ae97-52543be04c81-122d92c2ce.webp",
   "source": "https://www.105.net/wp-content/uploads/2026/01/Radio_105_logo.png",
@@ -17705,14 +17991,6 @@
   "width": 1000,
   "original": "https://www.raffaelerutigliano.com/radio/app/assets/radio-icon.png"
  },
- "7bd0a378-7d60-4363-8699-764af50f30c7": {
-  "file": "96185693-0601-11e8-ae97-52543be04c81-c8de6351db.webp",
-  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Rai%20Radio%201%20-%20Logo%202017.svg?width=600",
-  "kind": "wikidata",
-  "width": 960,
-  "original": "https://www.raicom.rai.it/wp-content/uploads/2021/12/RADIO1-1024x1024.jpg",
-  "ref": "0.0.202610242328"
- },
  "96126e82-0601-11e8-ae97-52543be04c81": {
   "file": "96126e82-0601-11e8-ae97-52543be04c81-4f3c4fade2.webp",
   "source": "https://www.nporadio2.nl/android-chrome-256x256.png",
@@ -17862,13 +18140,6 @@
   "kind": "website",
   "width": 512,
   "original": "https://realhardstyle.nl/wp-content/uploads/2025/12/cropped-cover-1-192x192.jpg"
- },
- "95e91688-897b-4900-9406-ca4b744effdf": {
-  "file": "95e91688-897b-4900-9406-ca4b744effdf-50bb9de70e.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Rai%20radio%20fvg.jpg?width=600",
-  "kind": "wikidata",
-  "width": 800
  },
  "f0e970de-1ce8-11ea-a955-52543be04c81": {
   "file": "f0e970de-1ce8-11ea-a955-52543be04c81-e4ccf90654.webp",
@@ -21843,6 +22114,14 @@
   "original": "https://recursosweb.prisaradio.com/fotos/original/010002851440.jpg",
   "ref": "0.0.202610242328"
  },
+ "a5b56fc7-32ea-11e9-8f31-52543be04c81": {
+  "file": "a5b56fc7-32ea-11e9-8f31-52543be04c81-1241050313.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://i.postimg.cc/SNB7fzby/convoy.png",
+  "kind": "radio-browser",
+  "width": 800,
+  "original": "https://i.postimg.cc/SNB7fzby/convoy.png"
+ },
  "961844bb-0601-11e8-ae97-52543be04c81": {
   "file": "961844bb-0601-11e8-ae97-52543be04c81-292c922a3f.webp",
   "source": "https://commons.wikimedia.org/wiki/Special:FilePath/W%20Radio.png?width=600",
@@ -23661,14 +23940,6 @@
   "original": "https://static.mytuner.mobi/media/radios-150px/H8C4F9yENt.png",
   "ref": "0.0.202610242328"
  },
- "a5b56fc7-32ea-11e9-8f31-52543be04c81": {
-  "file": "a5b56fc7-32ea-11e9-8f31-52543be04c81-1241050313.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://i.postimg.cc/SNB7fzby/convoy.png",
-  "kind": "radio-browser",
-  "width": 800,
-  "original": "https://i.postimg.cc/SNB7fzby/convoy.png"
- },
  "cdec9dde-51c4-41b8-b7c0-0626d43d96e5": {
   "file": "cdec9dde-51c4-41b8-b7c0-0626d43d96e5-ff14b58461.webp",
   "source": "https://www.abc.net.au/core-assets/radionational/touchicon-rn.png",
@@ -24543,6 +24814,14 @@
   "original": "https://i.ibb.co/wrFRWxV8/67c4f8a8d93c99fd1cda00b2.webp",
   "ref": "0.0.202610242328"
  },
+ "8cb338b2-df62-4b12-a6ef-eca60181226d": {
+  "file": "8cb338b2-df62-4b12-a6ef-eca60181226d-c4afd30818.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://i.ibb.co/Bq2Nrmt/2bob-logo-with-omni-mic-clear-1.jpg",
+  "kind": "radio-browser",
+  "width": 250,
+  "original": "https://i.ibb.co/Bq2Nrmt/2bob-logo-with-omni-mic-clear-1.jpg"
+ },
  "0e953020-69f5-4152-99df-5781e4c15871": {
   "file": "0e953020-69f5-4152-99df-5781e4c15871-749aaf95bb.webp",
   "source": "https://www.911hotfm.com.au/wp-content/uploads/sites/21/2023/02/cropped-SQL_MCY_H91_favicon-512x512-RED.png?w=192",
@@ -24565,6 +24844,14 @@
   "width": 192,
   "original": "https://i.ibb.co/h84jRJK/623faa90fb788a23d0b662b2.webp",
   "ref": "0.0.202610242328"
+ },
+ "de0e20ad-eae4-4460-87d0-dbb0d0b9e1b8": {
+  "file": "de0e20ad-eae4-4460-87d0-dbb0d0b9e1b8-729a465e40.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://i.imgur.com/6kUdBpT.png",
+  "kind": "radio-browser",
+  "width": 192,
+  "original": "https://i.imgur.com/6kUdBpT.png"
  },
  "6f49ac73-88fc-4fa0-907f-2211bd9e021f": {
   "file": "6f49ac73-88fc-4fa0-907f-2211bd9e021f-c2998c3ce9.webp",
@@ -25123,14 +25410,6 @@
   "width": 180,
   "original": "https://i.ibb.co/Ps06XBbN/logo-70-cbr.png"
  },
- "de0e20ad-eae4-4460-87d0-dbb0d0b9e1b8": {
-  "file": "de0e20ad-eae4-4460-87d0-dbb0d0b9e1b8-729a465e40.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://i.imgur.com/6kUdBpT.png",
-  "kind": "radio-browser",
-  "width": 192,
-  "original": "https://i.imgur.com/6kUdBpT.png"
- },
  "5d8011f0-4f6b-43bf-9319-f771c6128b97": {
   "file": "5d8011f0-4f6b-43bf-9319-f771c6128b97-181a50bc19.webp",
   "source": "https://images.zeno.fm/zmX1WsGEbTqQdM_MgWuJCUgsJiv6GFaoy8TUJgorpjo/rs:fit:1500:600/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBeE5hNXhRc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBd0w3SG1Rb01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE2NjExNjE0NTgwMDA.webp",
@@ -25325,14 +25604,6 @@
   "original": "https://radiolive.ma/icons/MEDI%201%20RADIO.jpg",
   "ref": "0.0.202610242328"
  },
- "8cb338b2-df62-4b12-a6ef-eca60181226d": {
-  "file": "8cb338b2-df62-4b12-a6ef-eca60181226d-c4afd30818.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://i.ibb.co/Bq2Nrmt/2bob-logo-with-omni-mic-clear-1.jpg",
-  "kind": "radio-browser",
-  "width": 250,
-  "original": "https://i.ibb.co/Bq2Nrmt/2bob-logo-with-omni-mic-clear-1.jpg"
- },
  "abcb85c5-c02b-4952-8858-310bb93e9b28": {
   "file": "abcb85c5-c02b-4952-8858-310bb93e9b28-3d97f28c9b.webp",
   "ref": "0.0.202611052010",
@@ -25472,6 +25743,14 @@
   "kind": "website",
   "width": 300,
   "ref": "0.0.202610242328"
+ },
+ "2940057c-ccb6-4d81-a95b-06a74eccd5d4": {
+  "file": "2940057c-ccb6-4d81-a95b-06a74eccd5d4-2108588e13.webp",
+  "ref": "0.0.202611060835",
+  "source": "https://brila.net/uploads/settings/logo.png",
+  "kind": "website",
+  "width": 1702,
+  "original": "https://brila.net/wp-content/uploads/2025/07/brila-logo-white.png"
  },
  "d22eaa1d-4f56-457c-b060-7857b63fc2b9": {
   "file": "d22eaa1d-4f56-457c-b060-7857b63fc2b9-101fec2816.webp",
@@ -25695,14 +25974,6 @@
   "kind": "website",
   "width": 256,
   "ref": "0.0.202610242328"
- },
- "2940057c-ccb6-4d81-a95b-06a74eccd5d4": {
-  "file": "2940057c-ccb6-4d81-a95b-06a74eccd5d4-2108588e13.webp",
-  "ref": "0.0.202611060835",
-  "source": "https://brila.net/uploads/settings/logo.png",
-  "kind": "website",
-  "width": 1702,
-  "original": "https://brila.net/wp-content/uploads/2025/07/brila-logo-white.png"
  },
  "cc43705f-e328-463b-ae81-b9aef27a9358": {
   "file": "cc43705f-e328-463b-ae81-b9aef27a9358-fe93f45dbe.webp",
@@ -26221,6 +26492,54 @@
   "source": "https://www.nostalgie.be/build/images/nostalgie-logo.svg",
   "kind": "brand",
   "width": 1750,
+  "original": null
+ },
+ "960ede10-0601-11e8-ae97-52543be04c81": {
+  "file": "961bf014-0601-11e8-ae97-52543be04c81-7f54f9b2bc.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/RTBF%20Classic%2021%20logo.svg?width=600",
+  "kind": "brand",
+  "width": 960,
+  "original": null
+ },
+ "961bdc71-0601-11e8-ae97-52543be04c81": {
+  "file": "961bf014-0601-11e8-ae97-52543be04c81-7f54f9b2bc.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/RTBF%20Classic%2021%20logo.svg?width=600",
+  "kind": "brand",
+  "width": 960,
+  "original": null
+ },
+ "ef1c8706-bb25-4087-90f0-63b05a2bd8d0": {
+  "file": "9619cb9f-0601-11e8-ae97-52543be04c81-266d022f0f.webp",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/RTBF%20Musiq3%20logo.svg?width=600",
+  "kind": "brand",
+  "width": 960,
+  "original": null,
+  "ref": "0.0.202610242328"
+ },
+ "96188fad-0601-11e8-ae97-52543be04c81": {
+  "file": "961bf014-0601-11e8-ae97-52543be04c81-7f54f9b2bc.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/RTBF%20Classic%2021%20logo.svg?width=600",
+  "kind": "brand",
+  "width": 960,
+  "original": null
+ },
+ "a54eb2a0-bf7a-11e9-8502-52543be04c81": {
+  "file": "ad3d3e30-76e8-11e9-8b97-52543be04c81-7f54f9b2bc.webp",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/RTBF%20Classic%2021%20logo.svg?width=600",
+  "kind": "brand",
+  "width": 960,
+  "original": null,
+  "ref": "0.0.202610242328"
+ },
+ "e76f7cbb-168a-11e8-ae97-52543be04c81": {
+  "file": "961bf014-0601-11e8-ae97-52543be04c81-7f54f9b2bc.webp",
+  "ref": "0.0.202611060926",
+  "source": "https://commons.wikimedia.org/wiki/Special:FilePath/RTBF%20Classic%2021%20logo.svg?width=600",
+  "kind": "brand",
+  "width": 960,
   "original": null
  },
  "961016bd-0601-11e8-ae97-52543be04c81": {
