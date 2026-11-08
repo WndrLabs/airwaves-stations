@@ -109,15 +109,15 @@
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
- "dacfb5d1-20ab-11ea-a955-52543be04c81": {
-  "name": "Radio Eure du Blues",
-  "homepage": "http://www.euredublues.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "ce3ba91c-183a-4773-8907-00569924c2b5": {
   "name": "Sing Sing bis",
   "homepage": "http://www.sing-sing-bis.org/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "dacfb5d1-20ab-11ea-a955-52543be04c81": {
+  "name": "Radio Eure du Blues",
+  "homepage": "http://www.euredublues.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -139,6 +139,18 @@
    "why": "website, only one of that name"
   }
  },
+ "f5ee613b-e63a-4b0c-8049-3d2d896ea982": {
+  "name": "Tonic radio",
+  "homepage": "http://www.tonicradio.com/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s26012",
+   "name": "TONIC RADIO",
+   "location": "Lyon, France",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s26012q.png",
+   "why": "only one of that name"
+  }
+ },
  "2596606e-b454-11e9-acb2-52543be04c81": {
   "name": "Radio 17bis",
   "homepage": "http://www.dixseptbis.com/",
@@ -149,6 +161,18 @@
    "location": "France",
    "logo": "https://cdn-radiotime-logos.tunein.com/s253209q.png",
    "why": "website, only one of that name"
+  }
+ },
+ "0ad90f86-2016-11e8-a334-52543be04c81": {
+  "name": "Espace FM",
+  "homepage": "http://www.espacefm.com/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s2091",
+   "name": "Espace FM",
+   "location": "Paris, France",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s2091q.png",
+   "why": "website"
   }
  },
  "df2ef0fb-5019-4eb0-bfea-fa21e6a7e609": {
@@ -163,36 +187,6 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "0ad90f86-2016-11e8-a334-52543be04c81": {
-  "name": "Espace FM",
-  "homepage": "http://www.espacefm.com/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s2091",
-   "name": "Espace FM",
-   "location": "Paris, France",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s2091q.png",
-   "why": "website"
-  }
- },
- "cadd6537-1841-4127-a98c-dba96a7c5417": {
-  "name": "Classic FM France",
-  "homepage": "https://www.classicfm.fr/",
-  "checked": "2026-11-08",
-  "reason": "none in its country"
- },
- "f5ee613b-e63a-4b0c-8049-3d2d896ea982": {
-  "name": "Tonic radio",
-  "homepage": "http://www.tonicradio.com/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s26012",
-   "name": "TONIC RADIO",
-   "location": "Lyon, France",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s26012q.png",
-   "why": "only one of that name"
-  }
- },
  "d4861756-81d3-4732-8704-b3e216c07cef": {
   "name": "VIRGIN RADIO FRANCE Radio Rock Français",
   "homepage": "https://www.virginradio.fr/ecouter",
@@ -206,15 +200,15 @@
   },
   "reason": "placeholder"
  },
- "038c8fb4-6939-11e9-af37-52543be04c81": {
-  "name": "..87,5!. Nantes",
-  "homepage": "https://875naoned.wixsite.com/radio",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "378e44cb-c6be-445e-bcd9-dd6c4fdbd0eb": {
   "name": "#1 Splash Jazz",
   "homepage": "https://www.splashradio.eu/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "038c8fb4-6939-11e9-af37-52543be04c81": {
+  "name": "..87,5!. Nantes",
+  "homepage": "https://875naoned.wixsite.com/radio",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -230,6 +224,12 @@
    "why": "website, only one of that name"
   }
  },
+ "cadd6537-1841-4127-a98c-dba96a7c5417": {
+  "name": "Classic FM France",
+  "homepage": "https://www.classicfm.fr/",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
+ },
  "726f2988-ce03-11e8-a54a-52543be04c81": {
   "name": "New Morning Radio",
   "homepage": "http://www.newmorning.com/",
@@ -239,12 +239,6 @@
  "c31f994e-6669-11e8-b15b-52543be04c81": {
   "name": "Radio Doudou",
   "homepage": "http://radiodoudou.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "26638d27-486d-4621-a6a9-a9554647f237": {
-  "name": "Radio de Noël",
-  "homepage": null,
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -351,6 +345,12 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "961e6ff1-0601-11e8-ae97-52543be04c81": {
+  "name": ".977 Oldies",
+  "homepage": "http://www.977music.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "960d4889-0601-11e8-ae97-52543be04c81": {
   "name": "181.FM - Highway 181",
   "homepage": "http://www.181.fm/",
@@ -362,12 +362,6 @@
    "logo": "https://cdn-radiotime-logos.tunein.com/s55025q.png",
    "why": "website, only one of that name"
   }
- },
- "961e6ff1-0601-11e8-ae97-52543be04c81": {
-  "name": ".977 Oldies",
-  "homepage": "http://www.977music.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
  },
  "960d4bdc-0601-11e8-ae97-52543be04c81": {
   "name": "181.FM - Kickin' Country",
@@ -472,18 +466,6 @@
    "why": "website, only one of that name"
   }
  },
- "9638b168-0601-11e8-ae97-52543be04c81": {
-  "name": "181.FM - Comedy Club",
-  "homepage": "http://www.181.fm/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s90493",
-   "name": "181.FM Comedy Club",
-   "location": "US",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s90493q.png",
-   "why": "website, only one of that name"
-  }
- },
  "963f9bfc-0601-11e8-ae97-52543be04c81": {
   "name": "PulseEDM Dance Music Radio",
   "homepage": "http://www.pulseedm.com/",
@@ -496,15 +478,27 @@
    "why": "website, only one of that name"
   }
  },
- "9637d635-0601-11e8-ae97-52543be04c81": {
-  "name": "181.FM - 80's HairBand",
+ "9638b168-0601-11e8-ae97-52543be04c81": {
+  "name": "181.FM - Comedy Club",
   "homepage": "http://www.181.fm/",
   "checked": "2026-11-08",
   "match": {
-   "id": "s90443",
-   "name": "181.FM 80's Hairband",
+   "id": "s90493",
+   "name": "181.FM Comedy Club",
    "location": "US",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s90443q.png",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s90493q.png",
+   "why": "website, only one of that name"
+  }
+ },
+ "c550de06-48be-11e8-b1b0-52543be04c81": {
+  "name": "Hot 108 JAMZ",
+  "homepage": "http://hot108.com/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s18733",
+   "name": "Hot 108 Jamz",
+   "location": "US",
+   "logo": "https://cdn-profiles.tunein.com/s18733/images/logoq.png?t=638175842780000000",
    "why": "website, only one of that name"
   }
  },
@@ -526,15 +520,15 @@
    "why": "website, only one of that name"
   }
  },
- "c550de06-48be-11e8-b1b0-52543be04c81": {
-  "name": "Hot 108 JAMZ",
-  "homepage": "http://hot108.com/",
+ "9637d635-0601-11e8-ae97-52543be04c81": {
+  "name": "181.FM - 80's HairBand",
+  "homepage": "http://www.181.fm/",
   "checked": "2026-11-08",
   "match": {
-   "id": "s18733",
-   "name": "Hot 108 Jamz",
+   "id": "s90443",
+   "name": "181.FM 80's Hairband",
    "location": "US",
-   "logo": "https://cdn-profiles.tunein.com/s18733/images/logoq.png?t=638175842780000000",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s90443q.png",
    "why": "website, only one of that name"
   }
  },
@@ -569,18 +563,6 @@
    "why": "website, only one of that name"
   }
  },
- "960ddb70-0601-11e8-ae97-52543be04c81": {
-  "name": "181.FM - Awesome 80's",
-  "homepage": "http://www.181.fm/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s55018",
-   "name": "181.FM Awesome 80's",
-   "location": "US",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s55018q.png",
-   "why": "website, only one of that name"
-  }
- },
  "dc7e3511-79b2-41f5-8b1f-a6e8098fcda4": {
   "name": "ROCK FM Classic Rock",
   "homepage": "http://www.my-radios.com/es/radio/escuchar/30420/ROCK-FM-CLASSIC-ROCK",
@@ -599,15 +581,15 @@
    "why": "website, only one of that name"
   }
  },
- "962af33f-0601-11e8-ae97-52543be04c81": {
-  "name": "181.FM - The Rock! (HardRock)",
+ "960ddb70-0601-11e8-ae97-52543be04c81": {
+  "name": "181.FM - Awesome 80's",
   "homepage": "http://www.181.fm/",
   "checked": "2026-11-08",
   "match": {
-   "id": "s126795",
-   "name": "181.FM The Rock! (Hard Rock)",
+   "id": "s55018",
+   "name": "181.FM Awesome 80's",
    "location": "US",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s126795q.png",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s55018q.png",
    "why": "website, only one of that name"
   }
  },
@@ -620,6 +602,18 @@
    "name": "181.FM Real Country",
    "location": "US",
    "logo": "https://cdn-radiotime-logos.tunein.com/s90449q.png",
+   "why": "website, only one of that name"
+  }
+ },
+ "962af33f-0601-11e8-ae97-52543be04c81": {
+  "name": "181.FM - The Rock! (HardRock)",
+  "homepage": "http://www.181.fm/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s126795",
+   "name": "181.FM The Rock! (Hard Rock)",
+   "location": "US",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s126795q.png",
    "why": "website, only one of that name"
   }
  },
@@ -689,6 +683,12 @@
    "why": "website, only one of that name"
   }
  },
+ "7015a1a3-82d8-11e9-aa30-52543be04c81": {
+  "name": "Scott Shannon's True Oldies Channel",
+  "homepage": "http://www.trueoldieschannel.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "961837b1-0601-11e8-ae97-52543be04c81": {
   "name": "181.FM - Good Time Oldies Radio",
   "homepage": "http://www.181.fm/",
@@ -700,12 +700,6 @@
    "logo": "https://cdn-radiotime-logos.tunein.com/s90409q.png",
    "why": "website"
   }
- },
- "7015a1a3-82d8-11e9-aa30-52543be04c81": {
-  "name": "Scott Shannon's True Oldies Channel",
-  "homepage": "http://www.trueoldieschannel.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
  },
  "20f1210c-674e-46b5-aeed-1b0c2be7b853": {
   "name": "CROONER radio Frank Sinatra",
@@ -755,6 +749,12 @@
    "why": "website"
   }
  },
+ "961ec4b7-0601-11e8-ae97-52543be04c81": {
+  "name": ".977 Jamz",
+  "homepage": "http://www.977music.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "738363a2-edee-4ac6-b110-2ef70c4d06b9": {
   "name": "GotRadio - 90s Alternative",
   "homepage": "http://www.gotradio.com/",
@@ -766,12 +766,6 @@
    "logo": "https://cdn-profiles.tunein.com/s65667/images/logoq.png?t=639238170960000000",
    "why": "website, only one of that name"
   }
- },
- "961ec4b7-0601-11e8-ae97-52543be04c81": {
-  "name": ".977 Jamz",
-  "homepage": "http://www.977music.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
  },
  "9612358a-0601-11e8-ae97-52543be04c81": {
   "name": "181.FM - Power 181 (Top 40)",
@@ -785,11 +779,17 @@
    "why": "website, only one of that name"
   }
  },
- "95912a6e-9de0-4b3b-b120-c9988d70d4a8": {
-  "name": "CHICAGO HOUSE",
-  "homepage": null,
+ "9638bd5f-0601-11e8-ae97-52543be04c81": {
+  "name": "181.FM - Fusion Jazz",
+  "homepage": "http://www.181.fm/",
   "checked": "2026-11-08",
-  "reason": "nothing confirms it"
+  "match": {
+   "id": "s90498",
+   "name": "181.FM Fusion Jazz",
+   "location": "US",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s90498q.png",
+   "why": "website, only one of that name"
+  }
  },
  "961e486e-0601-11e8-ae97-52543be04c81": {
   "name": "181.FM - Energy 98",
@@ -809,17 +809,11 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "9638bd5f-0601-11e8-ae97-52543be04c81": {
-  "name": "181.FM - Fusion Jazz",
-  "homepage": "http://www.181.fm/",
+ "95912a6e-9de0-4b3b-b120-c9988d70d4a8": {
+  "name": "CHICAGO HOUSE",
+  "homepage": null,
   "checked": "2026-11-08",
-  "match": {
-   "id": "s90498",
-   "name": "181.FM Fusion Jazz",
-   "location": "US",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s90498q.png",
-   "why": "website, only one of that name"
-  }
+  "reason": "nothing confirms it"
  },
  "9638a79d-0601-11e8-ae97-52543be04c81": {
   "name": "181.FM - UK top 40",
@@ -833,18 +827,6 @@
    "why": "website, only one of that name"
   }
  },
- "9fd1acea-3fcb-4e44-914a-116990ba0e96": {
-  "name": "181.FM - Old School HipHop/RnB",
-  "homepage": "http://listen.181fm.com/181-oldschool_128k.mp3",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
- "9628a026-0601-11e8-ae97-52543be04c81": {
-  "name": "2000 FM - Alternative Rock",
-  "homepage": "http://www.2000fm.net/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "9614c829-0601-11e8-ae97-52543be04c81": {
   "name": "181.FM - True R&B",
   "homepage": "http://www.181.fm/",
@@ -854,30 +836,6 @@
    "name": "181.FM True R&B",
    "location": "US",
    "logo": "https://cdn-radiotime-logos.tunein.com/s90459q.png",
-   "why": "website, only one of that name"
-  }
- },
- "962f8fe4-0601-11e8-ae97-52543be04c81": {
-  "name": "181.FM - Reggae Roots",
-  "homepage": "http://www.181.fm/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s95097",
-   "name": "181.FM Reggae Roots",
-   "location": "US",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s95097q.png",
-   "why": "website, only one of that name"
-  }
- },
- "9638a655-0601-11e8-ae97-52543be04c81": {
-  "name": "181.FM - 90's Dance",
-  "homepage": "http://www.181.fm/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s192770",
-   "name": "181.FM 90s Dance",
-   "location": "US",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s192770q.png",
    "why": "website, only one of that name"
   }
  },
@@ -893,17 +851,29 @@
    "why": "website, only one of that name"
   }
  },
- "b25bbbff-e767-4275-bf88-46a7da629b89": {
-  "name": "Chillstep.info",
-  "homepage": "https://chillstep.info/",
+ "962f8fe4-0601-11e8-ae97-52543be04c81": {
+  "name": "181.FM - Reggae Roots",
+  "homepage": "http://www.181.fm/",
   "checked": "2026-11-08",
   "match": {
-   "id": "s184131",
-   "name": "Chillstep.info",
+   "id": "s95097",
+   "name": "181.FM Reggae Roots",
    "location": "US",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s184131q.png",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s95097q.png",
    "why": "website, only one of that name"
   }
+ },
+ "9628a026-0601-11e8-ae97-52543be04c81": {
+  "name": "2000 FM - Alternative Rock",
+  "homepage": "http://www.2000fm.net/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "9fd1acea-3fcb-4e44-914a-116990ba0e96": {
+  "name": "181.FM - Old School HipHop/RnB",
+  "homepage": "http://listen.181fm.com/181-oldschool_128k.mp3",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
  },
  "9638bbf8-0601-11e8-ae97-52543be04c81": {
   "name": "181.FM - Techno Club",
@@ -917,17 +887,41 @@
    "why": "website, only one of that name"
   }
  },
- "3afa9b63-d668-43ea-ac6f-295c341baa29": {
-  "name": "Urban Radio - Hip Hop / R&B",
-  "homepage": "https://superradio.cc/",
+ "9638a655-0601-11e8-ae97-52543be04c81": {
+  "name": "181.FM - 90's Dance",
+  "homepage": "http://www.181.fm/",
   "checked": "2026-11-08",
-  "reason": "none in its country"
+  "match": {
+   "id": "s192770",
+   "name": "181.FM 90s Dance",
+   "location": "US",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s192770q.png",
+   "why": "website, only one of that name"
+  }
+ },
+ "b25bbbff-e767-4275-bf88-46a7da629b89": {
+  "name": "Chillstep.info",
+  "homepage": "https://chillstep.info/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s184131",
+   "name": "Chillstep.info",
+   "location": "US",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s184131q.png",
+   "why": "website, only one of that name"
+  }
  },
  "9d5a5d73-f563-4f60-934d-dc9452e2ea0a": {
   "name": "80 HITS",
   "homepage": "https://laut.fm/80sexitos",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "3afa9b63-d668-43ea-ac6f-295c341baa29": {
+  "name": "Urban Radio - Hip Hop / R&B",
+  "homepage": "https://superradio.cc/",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
  },
  "570f072b-065e-4762-9c10-216a03fafa4e": {
   "name": "Narmak",
@@ -965,18 +959,6 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "961f28c0-0601-11e8-ae97-52543be04c81": {
-  "name": "181.FM - Chilled Out",
-  "homepage": "http://www.181.fm/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s90476",
-   "name": "181.FM Chilled Out",
-   "location": "US",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s90476q.png",
-   "why": "website, only one of that name"
-  }
- },
  "bb136406-1319-11ea-a87e-52543be04c81": {
   "name": "Hawaiian Rainbow",
   "homepage": "https://www.hawaiianrainbow.com/",
@@ -986,42 +968,6 @@
    "name": "Hawaiian Rainbow",
    "location": "Nevada City, CA",
    "logo": "https://cdn-profiles.tunein.com/s50912/images/logoq.jpg?t=637794233220000000",
-   "why": "website, only one of that name"
-  }
- },
- "9627e24c-0601-11e8-ae97-52543be04c81": {
-  "name": "181.FM - Rock 40 (Rock & Roll)",
-  "homepage": "http://www.181.fm/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s90437",
-   "name": "181.FM Rock 40 (Rock & Roll)",
-   "location": "US",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s90437q.png",
-   "why": "website, only one of that name"
-  }
- },
- "3904e33b-d230-43da-8114-e1ea97485ace": {
-  "name": "95.7 That Station",
-  "homepage": "https://thatstation.net/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "960dd7a5-0601-11e8-ae97-52543be04c81": {
-  "name": "WXPN 88.5 Philadelphia, PA",
-  "homepage": "http://www.xpn.org/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "9638b7c4-0601-11e8-ae97-52543be04c81": {
-  "name": "181.FM - Classical Jazz",
-  "homepage": "http://www.181.fm/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s90495",
-   "name": "181.FM Classical Jazz",
-   "location": "US",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s90495q.png",
    "why": "website, only one of that name"
   }
  },
@@ -1037,11 +983,65 @@
    "why": "website, only one of that name"
   }
  },
+ "9638b7c4-0601-11e8-ae97-52543be04c81": {
+  "name": "181.FM - Classical Jazz",
+  "homepage": "http://www.181.fm/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s90495",
+   "name": "181.FM Classical Jazz",
+   "location": "US",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s90495q.png",
+   "why": "website, only one of that name"
+  }
+ },
+ "961f28c0-0601-11e8-ae97-52543be04c81": {
+  "name": "181.FM - Chilled Out",
+  "homepage": "http://www.181.fm/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s90476",
+   "name": "181.FM Chilled Out",
+   "location": "US",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s90476q.png",
+   "why": "website, only one of that name"
+  }
+ },
+ "9627e24c-0601-11e8-ae97-52543be04c81": {
+  "name": "181.FM - Rock 40 (Rock & Roll)",
+  "homepage": "http://www.181.fm/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s90437",
+   "name": "181.FM Rock 40 (Rock & Roll)",
+   "location": "US",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s90437q.png",
+   "why": "website, only one of that name"
+  }
+ },
+ "960dd7a5-0601-11e8-ae97-52543be04c81": {
+  "name": "WXPN 88.5 Philadelphia, PA",
+  "homepage": "http://www.xpn.org/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "1e73bd72-0693-442a-b6f6-4983bd4d2cd7": {
   "name": "Synthwave Radio",
   "homepage": "https://www.synthwaveradio.eu/",
   "checked": "2026-11-08",
   "reason": "none in its country"
+ },
+ "11c890bc-8832-4c5b-9fe8-da6d7a258205": {
+  "name": "SFLINY 70S Hits",
+  "homepage": "http://ec4.yesstreaming.net:2270/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "56c00295-cb2c-41e5-a237-10ff8804c7db": {
+  "name": "Sfliny 70's and 80's Hits",
+  "homepage": "http://ec4.yesstreaming.net:2210/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "9638b670-0601-11e8-ae97-52543be04c81": {
   "name": "181.FM - Vocal Jazz",
@@ -1052,30 +1052,6 @@
    "name": "181.FM Vocal Jazz",
    "location": "US",
    "logo": "https://cdn-radiotime-logos.tunein.com/s90496q.png",
-   "why": "website, only one of that name"
-  }
- },
- "56c00295-cb2c-41e5-a237-10ff8804c7db": {
-  "name": "Sfliny 70's and 80's Hits",
-  "homepage": "http://ec4.yesstreaming.net:2210/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "56b0652e-f920-423e-aee2-5b72dda4da66": {
-  "name": "lofi girl",
-  "homepage": "https://play.streamafrica.net/lofiradio",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "960c36e6-0601-11e8-ae97-52543be04c81": {
-  "name": "Echoes of Bluemars",
-  "homepage": "http://www.echoesofbluemars.org/bluemars.php",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s268675",
-   "name": "Echoes of Bluemars",
-   "location": "US",
-   "logo": "https://cdn-profiles.tunein.com/s268675/images/logoq.jpg?t=636549175775030000",
    "why": "website, only one of that name"
   }
  },
@@ -1091,35 +1067,11 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "9628a108-0601-11e8-ae97-52543be04c81": {
-  "name": "2000 FM - Hard Rock",
-  "homepage": "http://www.2000fm.net/",
+ "56b0652e-f920-423e-aee2-5b72dda4da66": {
+  "name": "lofi girl",
+  "homepage": "https://play.streamafrica.net/lofiradio",
   "checked": "2026-11-08",
   "reason": "no station of that name"
- },
- "962ac1f6-0601-11e8-ae97-52543be04c81": {
-  "name": "The Jazz Groove",
-  "homepage": "http://www.jazzgroove.org/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s138946",
-   "name": "The Jazz Groove",
-   "location": "San Francisco, CA",
-   "logo": "https://cdn-profiles.tunein.com/s138946/images/logoq.png?t=637707999350000000",
-   "why": "website, only one of that name"
-  }
- },
- "18e31f25-53c8-4213-a1ec-dccc0443a788": {
-  "name": "KCRW ECLECTIC 24",
-  "homepage": "https://www.kcrw.com/music/shows/eclectic24",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s25510",
-   "name": "KCRW Eclectic24",
-   "location": "Los Angeles, CA",
-   "logo": "https://cdn-profiles.tunein.com/s25510/images/logoq.png?t=637873210790000000",
-   "why": "website, only one of that name"
-  }
  },
  "961d3894-0601-11e8-ae97-52543be04c81": {
   "name": "181.FM - Salsa",
@@ -1132,12 +1084,6 @@
    "logo": "https://cdn-radiotime-logos.tunein.com/s90501q.png",
    "why": "website, only one of that name"
   }
- },
- "11c890bc-8832-4c5b-9fe8-da6d7a258205": {
-  "name": "SFLINY 70S Hits",
-  "homepage": "http://ec4.yesstreaming.net:2270/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
  },
  "962634a8-0601-11e8-ae97-52543be04c81": {
   "name": "WFYI 90.1 Indianapolis, IN",
@@ -1169,18 +1115,6 @@
    "why": "website, only one of that name"
   }
  },
- "960d5190-0601-11e8-ae97-52543be04c81": {
-  "name": "181.FM - Rock 181",
-  "homepage": "http://www.181.fm/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s90436",
-   "name": "181.FM Rock 181",
-   "location": "US",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s90436q.png",
-   "why": "website, only one of that name"
-  }
- },
  "9633a7d4-0601-11e8-ae97-52543be04c81": {
   "name": "181.FM - Front Porch (Bluegrass)",
   "homepage": "http://www.181.fm/",
@@ -1193,6 +1127,54 @@
    "why": "website, only one of that name"
   }
  },
+ "3904e33b-d230-43da-8114-e1ea97485ace": {
+  "name": "95.7 That Station",
+  "homepage": "https://thatstation.net/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "18e31f25-53c8-4213-a1ec-dccc0443a788": {
+  "name": "KCRW ECLECTIC 24",
+  "homepage": "https://www.kcrw.com/music/shows/eclectic24",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s25510",
+   "name": "KCRW Eclectic24",
+   "location": "Los Angeles, CA",
+   "logo": "https://cdn-profiles.tunein.com/s25510/images/logoq.png?t=637873210790000000",
+   "why": "website, only one of that name"
+  }
+ },
+ "960d5190-0601-11e8-ae97-52543be04c81": {
+  "name": "181.FM - Rock 181",
+  "homepage": "http://www.181.fm/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s90436",
+   "name": "181.FM Rock 181",
+   "location": "US",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s90436q.png",
+   "why": "website, only one of that name"
+  }
+ },
+ "960c36e6-0601-11e8-ae97-52543be04c81": {
+  "name": "Echoes of Bluemars",
+  "homepage": "http://www.echoesofbluemars.org/bluemars.php",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s268675",
+   "name": "Echoes of Bluemars",
+   "location": "US",
+   "logo": "https://cdn-profiles.tunein.com/s268675/images/logoq.jpg?t=636549175775030000",
+   "why": "website, only one of that name"
+  }
+ },
+ "9628a108-0601-11e8-ae97-52543be04c81": {
+  "name": "2000 FM - Hard Rock",
+  "homepage": "http://www.2000fm.net/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "9648c0ba-0601-11e8-ae97-52543be04c81": {
   "name": "Best Net Radio - Classic RnB",
   "homepage": "http://www.bestnetradio.com/",
@@ -1204,6 +1186,18 @@
   "homepage": "http://www.bestnetradio.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "962ac1f6-0601-11e8-ae97-52543be04c81": {
+  "name": "The Jazz Groove",
+  "homepage": "http://www.jazzgroove.org/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s138946",
+   "name": "The Jazz Groove",
+   "location": "San Francisco, CA",
+   "logo": "https://cdn-profiles.tunein.com/s138946/images/logoq.png?t=637707999350000000",
+   "why": "website, only one of that name"
+  }
  },
  "16ad6c66-f145-4c6d-8315-d54533479710": {
   "name": "Planet HipHop (MRG.fm)",
@@ -1241,12 +1235,6 @@
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
- "9624b94d-0601-11e8-ae97-52543be04c81": {
-  "name": "181.FM - Energy 93 (Euro EDM)",
-  "homepage": "http://www.181.fm/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "eeba16df-b101-4c39-ba26-ac9ec66946e0": {
   "name": "WRCW Crime Story",
   "homepage": "http://wrcwcrimestory.com/",
@@ -1278,17 +1266,11 @@
    "why": "website, only one of that name"
   }
  },
- "f957a66c-9ed9-4d96-8878-0f6ca24504ec": {
-  "name": "CRnet Hard Rock (128)",
-  "homepage": "https://www.christianhardrock.net/",
+ "79e04d78-8c37-4083-9c70-caa009f84217": {
+  "name": "Radio Mirchi Bay Area",
+  "homepage": "https://mirchi.in/radio/SFO_HIN_PST",
   "checked": "2026-11-08",
   "reason": "no station of that name"
- },
- "d56f93f8-60eb-42fc-8aeb-ba4095560b6d": {
-  "name": "Slow Jams Radio",
-  "homepage": "https://musizman46.wixsite.com/slowjamsradio",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
  },
  "0a736db1-5a66-4838-84fa-84012e2b4159": {
   "name": "SpriteLayer Video Game Radio",
@@ -1302,6 +1284,18 @@
    "why": "website, only one of that name"
   }
  },
+ "d56f93f8-60eb-42fc-8aeb-ba4095560b6d": {
+  "name": "Slow Jams Radio",
+  "homepage": "https://musizman46.wixsite.com/slowjamsradio",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
+ },
+ "9624b94d-0601-11e8-ae97-52543be04c81": {
+  "name": "181.FM - Energy 93 (Euro EDM)",
+  "homepage": "http://www.181.fm/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "9638a8de-0601-11e8-ae97-52543be04c81": {
   "name": "181.FM - The Vibe of Vegas",
   "homepage": "http://www.181.fm/",
@@ -1314,12 +1308,6 @@
    "why": "website"
   },
   "reason": "another station's logo"
- },
- "79e04d78-8c37-4083-9c70-caa009f84217": {
-  "name": "Radio Mirchi Bay Area",
-  "homepage": "https://mirchi.in/radio/SFO_HIN_PST",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
  },
  "963a6996-0601-11e8-ae97-52543be04c81": {
   "name": "Bob Dylan Tracks",
@@ -1351,6 +1339,12 @@
    "why": "website, only one of that name"
   }
  },
+ "f957a66c-9ed9-4d96-8878-0f6ca24504ec": {
+  "name": "CRnet Hard Rock (128)",
+  "homepage": "https://www.christianhardrock.net/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "964518a4-0601-11e8-ae97-52543be04c81": {
   "name": "Best Net Radio - Country Mix",
   "homepage": "http://www.bestnetradio.com/",
@@ -1362,6 +1356,18 @@
   "homepage": "http://ec4.yesstreaming.net:1940/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "7be6c8fb-2c5c-477d-b503-5d650fc8a3a7": {
+  "name": "Culture Failure",
+  "homepage": "https://culturefailure.com/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s246992",
+   "name": "Culture Failure",
+   "location": "Sacramento, CA",
+   "logo": "https://cdn-profiles.tunein.com/s246992/images/logoq.png?t=638122496690000000",
+   "why": "website, only one of that name"
+  }
  },
  "589949be-60a2-411e-b6c4-86b3bede2f01": {
   "name": "Urban Radio - The Greatest R&B Hits",
@@ -1393,18 +1399,6 @@
    "why": "website, only one of that name"
   }
  },
- "7be6c8fb-2c5c-477d-b503-5d650fc8a3a7": {
-  "name": "Culture Failure",
-  "homepage": "https://culturefailure.com/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s246992",
-   "name": "Culture Failure",
-   "location": "Sacramento, CA",
-   "logo": "https://cdn-profiles.tunein.com/s246992/images/logoq.png?t=638122496690000000",
-   "why": "website, only one of that name"
-  }
- },
  "960da3ae-0601-11e8-ae97-52543be04c81": {
   "name": "WORT 89.9 Madison, WI",
   "homepage": "http://www.wort-fm.org/",
@@ -1414,6 +1408,12 @@
  "dff67e6d-cd73-4ad4-8698-15e5684e59dd": {
   "name": "Radio Alma Navidad (Cristiana)",
   "homepage": "https://zeno.fm/radio/feliznavidad/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "f132652b-e393-4ec5-9868-2637defc4967": {
+  "name": "Country Classics KOUU 1290 AM 96.5 FM",
+  "homepage": "https://countryclassicsidaho.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -1429,21 +1429,15 @@
    "why": "website, only one of that name"
   }
  },
- "f132652b-e393-4ec5-9868-2637defc4967": {
-  "name": "Country Classics KOUU 1290 AM 96.5 FM",
-  "homepage": "https://countryclassicsidaho.com/",
+ "947893a5-2fef-4efd-a0eb-9820d7d7411c": {
+  "name": "thegreatiamb Kids",
+  "homepage": "https://zeno.fm/radio/thegreatiambkids/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
  "8a4c3e9a-2e48-4184-b2bd-9e3539b479bc": {
   "name": "Stumble In The Dark Radio",
   "homepage": "https://www.facebook.com/stumble.in.the.dark.radio",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "947893a5-2fef-4efd-a0eb-9820d7d7411c": {
-  "name": "thegreatiamb Kids",
-  "homepage": "https://zeno.fm/radio/thegreatiambkids/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -1627,15 +1621,21 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "1a1ef3a9-0f99-11ea-a87e-52543be04c81": {
+  "name": "Virgin Radio Anthems",
+  "homepage": "https://virginradio.co.uk/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "ff337e7b-4b92-4fa1-886f-fa889dbdf272": {
   "name": "England - Heart London Radio",
   "homepage": null,
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
- "1a1ef3a9-0f99-11ea-a87e-52543be04c81": {
-  "name": "Virgin Radio Anthems",
-  "homepage": "https://virginradio.co.uk/",
+ "30369d73-370f-4403-b5d5-39843a00fcec": {
+  "name": "DanceRadioUK - Dance UK",
+  "homepage": "https://danceradiouk.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -1657,11 +1657,11 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "30369d73-370f-4403-b5d5-39843a00fcec": {
-  "name": "DanceRadioUK - Dance UK",
-  "homepage": "https://danceradiouk.com/",
+ "16584bf8-e3e5-447e-8fe1-dee16cc17268": {
+  "name": "The Prodigy",
+  "homepage": "https://pcradio.ru/",
   "checked": "2026-11-08",
-  "reason": "no station of that name"
+  "reason": "none in its country"
  },
  "67b7f9d7-2ead-4525-95de-b105b63d2451": {
   "name": "Mi-Soul",
@@ -1693,27 +1693,15 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "16584bf8-e3e5-447e-8fe1-dee16cc17268": {
-  "name": "The Prodigy",
-  "homepage": "https://pcradio.ru/",
-  "checked": "2026-11-08",
-  "reason": "none in its country"
- },
- "1d62a120-704a-4285-a574-c17f48b155f8": {
-  "name": "Led Zeppelin",
-  "homepage": "https://pcradio.ru/",
-  "checked": "2026-11-08",
-  "reason": "none in its country"
- },
  "6dc71790-65af-4557-a940-d8864eb439e6": {
   "name": "PsyStream",
   "homepage": "http://psymusic.co.uk/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "dca27db4-05db-4fc6-91fe-5d55992c2339": {
-  "name": "Flashback Radio",
-  "homepage": "https://www.flashbackradio.co.uk/",
+ "1d62a120-704a-4285-a574-c17f48b155f8": {
+  "name": "Led Zeppelin",
+  "homepage": "https://pcradio.ru/",
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
@@ -1729,6 +1717,12 @@
    "why": "website, only one of that name"
   }
  },
+ "dca27db4-05db-4fc6-91fe-5d55992c2339": {
+  "name": "Flashback Radio",
+  "homepage": "https://www.flashbackradio.co.uk/",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
+ },
  "b6d47672-aa01-4363-bd26-32f0e8d9570e": {
   "name": "House Fusion Radio (UK)",
   "homepage": "https://house-fusion-radio5.webnode.co.uk/",
@@ -1741,9 +1735,21 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "36a2a1f9-6914-437b-b95b-f622f965a840": {
+  "name": "WOTR Hymns",
+  "homepage": "https://www.wordoftruthradio.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "7d2b22a8-a65b-11e9-a787-52543be04c81": {
   "name": "TWR UK",
   "homepage": "https://www.twr.org.uk/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "e8c409e9-ee6f-4670-84bf-02485247def0": {
+  "name": "Foundation FM",
+  "homepage": "https://foundation.fm/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -1753,23 +1759,11 @@
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
- "36a2a1f9-6914-437b-b95b-f622f965a840": {
-  "name": "WOTR Hymns",
-  "homepage": "https://www.wordoftruthradio.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "620bfdce-d62b-4b51-8125-3b6fde79a2b0": {
   "name": "The Beatles",
   "homepage": "https://pcradio.ru/radio",
   "checked": "2026-11-08",
   "reason": "none in its country"
- },
- "e8c409e9-ee6f-4670-84bf-02485247def0": {
-  "name": "Foundation FM",
-  "homepage": "https://foundation.fm/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
  },
  "bab974f5-7ba2-4f4d-8dfb-9b462c5079fa": {
   "name": "Nazareth",
@@ -1825,24 +1819,6 @@
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
- "59f1bc64-74af-4ae9-9525-2b637242e930": {
-  "name": "deepvib uk",
-  "homepage": "http://deepvibes.co.uk/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "73a8b977-e880-11e8-a9be-52543be04c81": {
-  "name": "Cross Rhythms City Radio",
-  "homepage": "http://www.crossrhythms.co.uk/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "43410501-8008-46a9-aaa2-f0372c023e64": {
-  "name": "Louder Than War",
-  "homepage": "https://louderthanwar.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "8565e2fa-f83d-11e8-a471-52543be04c81": {
   "name": "Radio Six International",
   "homepage": "http://www.radiosix.com/",
@@ -1855,15 +1831,27 @@
    "why": "website, only one of that name"
   }
  },
- "4b137d96-506f-4b0e-ad9f-744fd29a865d": {
-  "name": "London Soul Radio",
-  "homepage": "https://www.thesouloflondonradio.com/",
+ "59f1bc64-74af-4ae9-9525-2b637242e930": {
+  "name": "deepvib uk",
+  "homepage": "http://deepvibes.co.uk/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "73a8b977-e880-11e8-a9be-52543be04c81": {
+  "name": "Cross Rhythms City Radio",
+  "homepage": "http://www.crossrhythms.co.uk/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
  "c5553730-ed5c-4844-b62b-de559dbf08b7": {
   "name": "Smash hits radio retro",
   "homepage": "https://s3.radio.co/s802363087/listen",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "4b137d96-506f-4b0e-ad9f-744fd29a865d": {
+  "name": "London Soul Radio",
+  "homepage": "https://www.thesouloflondonradio.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -1884,6 +1872,12 @@
    "logo": "https://cdn-profiles.tunein.com/s332672/images/logoq.jpg?t=638610494420000000",
    "why": "website, only one of that name"
   }
+ },
+ "43410501-8008-46a9-aaa2-f0372c023e64": {
+  "name": "Louder Than War",
+  "homepage": "https://louderthanwar.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "ae773065-2d74-4610-b65b-3510716c388b": {
   "name": "Space Unicorn Radio (not https)",
@@ -1991,12 +1985,6 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "dfe95eca-06e0-11e9-a80b-52543be04c81": {
-  "name": "RMNinstrumental",
-  "homepage": "http://www.instrumentalhits.de/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "5b48d259-27f5-11e8-91bf-52543be04c81": {
   "name": "i love radio - hip hop turnup",
   "homepage": "https://www.iloveradio.de/",
@@ -2015,6 +2003,12 @@
    "why": "website"
   }
  },
+ "dfe95eca-06e0-11e9-a80b-52543be04c81": {
+  "name": "RMNinstrumental",
+  "homepage": "http://www.instrumentalhits.de/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "4a9cd8e0-1b0d-4c87-91bf-d227e06b23eb": {
   "name": "Italo Disco",
   "homepage": null,
@@ -2026,18 +2020,6 @@
   "homepage": "http://laut.fm/emc",
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
- },
- "a8c1c86e-e1c0-4e86-ba15-74c258ac0af9": {
-  "name": "0nlineradio REMIX",
-  "homepage": "https://0nlineradio.com/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s309766",
-   "name": "0nlineradio REMIX",
-   "location": "Germany",
-   "logo": "https://cdn-profiles.tunein.com/s309766/images/logoq.jpg?t=637562681470000000",
-   "why": "website, only one of that name"
-  }
  },
  "1665ae4c-74dc-44f0-bd0a-7a0d0291aa8c": {
   "name": "EPIC CLASSICAL - Classical Music For Sleep",
@@ -2051,15 +2033,45 @@
    "why": "website, only one of that name"
   }
  },
- "5143bb9a-3c5e-4c53-a6ec-0108435caf5a": {
-  "name": "CHILLOUT PIANO",
-  "homepage": "https://epic-piano.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "96074d8b-0601-11e8-ae97-52543be04c81": {
   "name": "JazzRadio 106.8 Berlin",
   "homepage": "http://www.jazzradio.net/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "a8c1c86e-e1c0-4e86-ba15-74c258ac0af9": {
+  "name": "0nlineradio REMIX",
+  "homepage": "https://0nlineradio.com/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s309766",
+   "name": "0nlineradio REMIX",
+   "location": "Germany",
+   "logo": "https://cdn-profiles.tunein.com/s309766/images/logoq.jpg?t=637562681470000000",
+   "why": "website, only one of that name"
+  }
+ },
+ "5f7cdd03-86fc-4d13-89c1-2f9a0b92fc23": {
+  "name": "CLUB",
+  "homepage": "https://www.rm.fm/club",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
+ },
+ "27d331f9-6685-47d4-a9e8-7fd16d91b66d": {
+  "name": "Technolovers - PSYTRANCE",
+  "homepage": "https://technolovers.fm/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s310347",
+   "name": "Technolovers - PSYTRANCE",
+   "location": "Köln (Cologne), Germany",
+   "logo": "https://cdn-profiles.tunein.com/s310347/images/logoq.jpg?t=637813619070000000",
+   "why": "website, only one of that name"
+  }
+ },
+ "5143bb9a-3c5e-4c53-a6ec-0108435caf5a": {
+  "name": "CHILLOUT PIANO",
+  "homepage": "https://epic-piano.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -2074,24 +2086,6 @@
    "logo": "https://cdn-profiles.tunein.com/s310161/images/logoq.jpg?t=637739872170000000",
    "why": "website, only one of that name"
   }
- },
- "27d331f9-6685-47d4-a9e8-7fd16d91b66d": {
-  "name": "Technolovers - PSYTRANCE",
-  "homepage": "https://technolovers.fm/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s310347",
-   "name": "Technolovers - PSYTRANCE",
-   "location": "Köln (Cologne), Germany",
-   "logo": "https://cdn-profiles.tunein.com/s310347/images/logoq.jpg?t=637813619070000000",
-   "why": "website, only one of that name"
-  }
- },
- "5f7cdd03-86fc-4d13-89c1-2f9a0b92fc23": {
-  "name": "CLUB",
-  "homepage": "https://www.rm.fm/club",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
  },
  "4c0118e7-97d9-4657-9bb8-427758a4aa85": {
   "name": "Epic Lounge - SLEEP & MEDITATION",
@@ -2117,6 +2111,24 @@
    "why": "website"
   }
  },
+ "00c4c0c7-bf13-4a8b-b14f-05f9e5a4a116": {
+  "name": "Technolovers VOCAL TRANCE",
+  "homepage": "https://technolovers.fm/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s310162",
+   "name": "Technolovers VOCAL TRANCE",
+   "location": "Germany",
+   "logo": "https://cdn-profiles.tunein.com/s310162/images/logoq.jpg?t=637739873050000000",
+   "why": "website, only one of that name"
+  }
+ },
+ "25ff1b4c-ffcb-4572-a561-9347e0e58c75": {
+  "name": "LOUNGE",
+  "homepage": "https://www.rm.fm/lounge",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
+ },
  "d1820c39-b733-40ed-b995-c1677ea5081e": {
   "name": "Blues Rock Cafe",
   "homepage": "https://laut.fm/bluesrockcafe",
@@ -2126,6 +2138,18 @@
    "name": "Bluesrockcafe",
    "location": "Hamburg, Germany",
    "logo": "https://cdn-profiles.tunein.com/s231582/images/logoq.png?t=639183739040000000",
+   "why": "website, only one of that name"
+  }
+ },
+ "cbcff885-49bb-4db1-8b78-7060e70ff06d": {
+  "name": "Technolovers DRUM N BASS",
+  "homepage": "https://technolovers.fm/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s310151",
+   "name": "Technolovers DRUM N BASS",
+   "location": "Germany",
+   "logo": "https://cdn-profiles.tunein.com/s310151/images/logoq.jpg?t=637739861070000000",
    "why": "website, only one of that name"
   }
  },
@@ -2141,18 +2165,6 @@
    "why": "website, only one of that name"
   }
  },
- "00c4c0c7-bf13-4a8b-b14f-05f9e5a4a116": {
-  "name": "Technolovers VOCAL TRANCE",
-  "homepage": "https://technolovers.fm/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s310162",
-   "name": "Technolovers VOCAL TRANCE",
-   "location": "Germany",
-   "logo": "https://cdn-profiles.tunein.com/s310162/images/logoq.jpg?t=637739873050000000",
-   "why": "website, only one of that name"
-  }
- },
  "c87339e0-c556-4ed5-9ef2-4dd176cabbb0": {
   "name": "90S",
   "homepage": "https://www.rm.fm/90s",
@@ -2165,87 +2177,9 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "25ff1b4c-ffcb-4572-a561-9347e0e58c75": {
-  "name": "LOUNGE",
-  "homepage": "https://www.rm.fm/lounge",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
  "e73254fa-6601-4cef-8b62-4aec024634bb": {
   "name": "GOLDIES",
   "homepage": "https://www.rm.fm/goldies",
-  "checked": "2026-11-08",
-  "reason": "none in its country"
- },
- "77bad355-947b-11e8-a767-52543be04c81": {
-  "name": "Laut.FM Eurodance",
-  "homepage": "https://laut.fm/eurodance",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "cbcff885-49bb-4db1-8b78-7060e70ff06d": {
-  "name": "Technolovers DRUM N BASS",
-  "homepage": "https://technolovers.fm/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s310151",
-   "name": "Technolovers DRUM N BASS",
-   "location": "Germany",
-   "logo": "https://cdn-profiles.tunein.com/s310151/images/logoq.jpg?t=637739861070000000",
-   "why": "website, only one of that name"
-  }
- },
- "9643c506-0601-11e8-ae97-52543be04c81": {
-  "name": "FluxFM - Techno Underground",
-  "homepage": "http://www.fluxfm.de/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s132954",
-   "name": "FluxFM",
-   "location": "Berlin, Germany",
-   "logo": "https://cdn-profiles.tunein.com/s132954/images/logoq.png?t=638733065770000000",
-   "why": "website"
-  }
- },
- "92602eb8-2cc7-4839-a739-b9132aeed6a5": {
-  "name": "DEUTSCHRAP CHARTS",
-  "homepage": "https://www.rm.fm/deutschrap-charts",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "460d2683-8054-4845-9690-05962167c9c7": {
-  "name": "OLDSCHOOL HIPHOP",
-  "homepage": "https://laut.fm/oldschool-hiphop",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s310877",
-   "name": "Oldschool HipHop",
-   "location": "Germany",
-   "logo": "https://cdn-profiles.tunein.com/s310877/images/logoq.png?t=639182851990000000",
-   "why": "website, only one of that name"
-  }
- },
- "57df1d35-5943-46e6-a76c-f9ef35ea73e7": {
-  "name": "Technolovers - FUNKY HOUSE",
-  "homepage": "https://technolovers.fm/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s310358",
-   "name": "Technolovers - FUNKY HOUSE",
-   "location": "Köln (Cologne), Germany",
-   "logo": "https://cdn-profiles.tunein.com/s310358/images/logoq.jpg?t=637815398970000000",
-   "why": "website, only one of that name"
-  }
- },
- "9609b65b-0601-11e8-ae97-52543be04c81": {
-  "name": "Laut.fm Housebomb",
-  "homepage": "http://laut.fm/housebomb-fn",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "a4a3c3c4-d499-48e0-bec1-226868d22968": {
-  "name": "COUNTRYHITS.FM",
-  "homepage": "https://countryhits.fm/",
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
@@ -2261,6 +2195,48 @@
    "why": "only one of that name"
   }
  },
+ "92602eb8-2cc7-4839-a739-b9132aeed6a5": {
+  "name": "DEUTSCHRAP CHARTS",
+  "homepage": "https://www.rm.fm/deutschrap-charts",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "77bad355-947b-11e8-a767-52543be04c81": {
+  "name": "Laut.FM Eurodance",
+  "homepage": "https://laut.fm/eurodance",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "9609b65b-0601-11e8-ae97-52543be04c81": {
+  "name": "Laut.fm Housebomb",
+  "homepage": "http://laut.fm/housebomb-fn",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "9643c506-0601-11e8-ae97-52543be04c81": {
+  "name": "FluxFM - Techno Underground",
+  "homepage": "http://www.fluxfm.de/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s132954",
+   "name": "FluxFM",
+   "location": "Berlin, Germany",
+   "logo": "https://cdn-profiles.tunein.com/s132954/images/logoq.png?t=638733065770000000",
+   "why": "website"
+  }
+ },
+ "57df1d35-5943-46e6-a76c-f9ef35ea73e7": {
+  "name": "Technolovers - FUNKY HOUSE",
+  "homepage": "https://technolovers.fm/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s310358",
+   "name": "Technolovers - FUNKY HOUSE",
+   "location": "Köln (Cologne), Germany",
+   "logo": "https://cdn-profiles.tunein.com/s310358/images/logoq.jpg?t=637815398970000000",
+   "why": "website, only one of that name"
+  }
+ },
  "2f7cead0-b1fa-4400-a6dd-8ccfc1be3e03": {
   "name": "Best Of Techno",
   "homepage": "https://laut.fm/best-of-techno",
@@ -2273,15 +2249,15 @@
    "why": "website"
   }
  },
+ "a4a3c3c4-d499-48e0-bec1-226868d22968": {
+  "name": "COUNTRYHITS.FM",
+  "homepage": "https://countryhits.fm/",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
+ },
  "2121eef0-8347-4e12-a0e5-cd6476f2d803": {
   "name": "absolute relax",
   "homepage": null,
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "96477f0c-0601-11e8-ae97-52543be04c81": {
-  "name": "Laut.FM jazzrockfusion",
-  "homepage": "http://laut.fm/jazzrockfusion",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -2303,6 +2279,36 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "96477f0c-0601-11e8-ae97-52543be04c81": {
+  "name": "Laut.FM jazzrockfusion",
+  "homepage": "http://laut.fm/jazzrockfusion",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "6b36f91e-0a61-459c-bd84-853df27c49ed": {
+  "name": "BASS",
+  "homepage": "https://www.rm.fm/bass",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
+ },
+ "460d2683-8054-4845-9690-05962167c9c7": {
+  "name": "OLDSCHOOL HIPHOP",
+  "homepage": "https://laut.fm/oldschool-hiphop",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s310877",
+   "name": "Oldschool HipHop",
+   "location": "Germany",
+   "logo": "https://cdn-profiles.tunein.com/s310877/images/logoq.png?t=639182851990000000",
+   "why": "website, only one of that name"
+  }
+ },
+ "963f6d4b-0601-11e8-ae97-52543be04c81": {
+  "name": "Laut.FM BluesRockCafe",
+  "homepage": "https://laut.fm/bluesrockcafe",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "0beeb085-5116-4f2a-a543-cdcb837f8116": {
   "name": "Technolovers HANDSUP",
   "homepage": "https://technolovers.fm/",
@@ -2315,35 +2321,11 @@
    "why": "website, only one of that name"
   }
  },
- "6d83b863-e60e-4f50-9916-597f23ebf1ce": {
-  "name": "HOUSE",
-  "homepage": "https://www.rm.fm/house",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
- "6b36f91e-0a61-459c-bd84-853df27c49ed": {
-  "name": "BASS",
-  "homepage": "https://www.rm.fm/bass",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
- "5378792b-2ad9-4fae-b00f-e431766771c0": {
-  "name": "TRAP",
-  "homepage": "https://www.rm.fm/",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
  "18ab1514-a53b-4f44-936e-f8583a68b5aa": {
   "name": "TECHNO",
   "homepage": "https://rm.fm/techno",
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
- },
- "b78fd386-08ec-4246-8372-d5f97c56a8ee": {
-  "name": "ROMANTIC PIANO",
-  "homepage": "https://epic-piano.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
  },
  "61fc1add-0637-491a-8dfc-2b1afd549a2a": {
   "name": "I love Hardstyle",
@@ -2357,11 +2339,35 @@
    "why": "website, only one of that name"
   }
  },
- "963f6d4b-0601-11e8-ae97-52543be04c81": {
-  "name": "Laut.FM BluesRockCafe",
-  "homepage": "https://laut.fm/bluesrockcafe",
+ "5378792b-2ad9-4fae-b00f-e431766771c0": {
+  "name": "TRAP",
+  "homepage": "https://www.rm.fm/",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
+ },
+ "6d83b863-e60e-4f50-9916-597f23ebf1ce": {
+  "name": "HOUSE",
+  "homepage": "https://www.rm.fm/house",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
+ },
+ "b78fd386-08ec-4246-8372-d5f97c56a8ee": {
+  "name": "ROMANTIC PIANO",
+  "homepage": "https://epic-piano.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "6816e8cd-8b06-4d68-b61f-4d9f54015f95": {
+  "name": "CHOPIN",
+  "homepage": "https://epic-piano.com/",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
+ },
+ "9645e567-0601-11e8-ae97-52543be04c81": {
+  "name": "M1.FM - Schlagerparty",
+  "homepage": "http://m1.fm/",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
  },
  "ffc0d701-f43b-4232-8be6-f7ff72add8ef": {
   "name": "Blasmusikradio mit Bernd",
@@ -2375,12 +2381,6 @@
    "why": "website, only one of that name"
   }
  },
- "9645e567-0601-11e8-ae97-52543be04c81": {
-  "name": "M1.FM - Schlagerparty",
-  "homepage": "http://m1.fm/",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
  "fa8b58ac-6503-4f55-b7ea-a70879c871c5": {
   "name": "Hirschmilch Radio",
   "homepage": "https://hirschmilch.de:7001/chillout.mp3",
@@ -2392,42 +2392,6 @@
   "homepage": "http://www.bayerwaldradio.com/radio-einschalten/allesblasmusik-sender-4.html",
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
- },
- "6816e8cd-8b06-4d68-b61f-4d9f54015f95": {
-  "name": "CHOPIN",
-  "homepage": "https://epic-piano.com/",
-  "checked": "2026-11-08",
-  "reason": "none in its country"
- },
- "b9fad3b3-f66e-4ede-84e5-0d4641aabb66": {
-  "name": "HAPPY HARDCORE",
-  "homepage": "https://www.rm.fm/happyhardcore",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
- "0901602c-18c9-4790-9d0f-04e10d1fa7f8": {
-  "name": "Technolovers - UPLIFTING TRANCE",
-  "homepage": "https://technolovers.fm/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s310349",
-   "name": "Technolovers - UPLIFTING TRANCE",
-   "location": "Köln (Cologne), Germany",
-   "logo": "https://cdn-profiles.tunein.com/s310349/images/logoq.jpg?t=637813626080000000",
-   "why": "website, only one of that name"
-  }
- },
- "750cbe31-150e-4cd2-8ec5-a6a8a9a7c8b2": {
-  "name": "EPIC CLASSICAL - Classical Piano",
-  "homepage": "https://epic-classical.com/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s320513",
-   "name": "EPIC CLASSICAL - Classical Piano",
-   "location": "Germany",
-   "logo": "https://cdn-profiles.tunein.com/s320513/images/logoq.jpg?t=637931891670000000",
-   "why": "website, only one of that name"
-  }
  },
  "eb987d1a-ef9c-47dd-a70f-f35a34b11313": {
   "name": "Epic Lounge - PIANO & JAZZ BAR",
@@ -2459,6 +2423,18 @@
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
+ "750cbe31-150e-4cd2-8ec5-a6a8a9a7c8b2": {
+  "name": "EPIC CLASSICAL - Classical Piano",
+  "homepage": "https://epic-classical.com/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s320513",
+   "name": "EPIC CLASSICAL - Classical Piano",
+   "location": "Germany",
+   "logo": "https://cdn-profiles.tunein.com/s320513/images/logoq.jpg?t=637931891670000000",
+   "why": "website, only one of that name"
+  }
+ },
  "5da4ae63-940f-4435-9bfc-37f3dc6bbed6": {
   "name": "Relaxing Piano",
   "homepage": "https://laut.fm/relaxing-piano",
@@ -2477,11 +2453,23 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "c1484aa5-b758-47a1-b098-69db58d6fb78": {
-  "name": "I Love Music - I Love Chillhop",
-  "homepage": "https://www.ilovemusic.de/ilovechillhop/",
+ "0901602c-18c9-4790-9d0f-04e10d1fa7f8": {
+  "name": "Technolovers - UPLIFTING TRANCE",
+  "homepage": "https://technolovers.fm/",
   "checked": "2026-11-08",
-  "reason": "no station of that name"
+  "match": {
+   "id": "s310349",
+   "name": "Technolovers - UPLIFTING TRANCE",
+   "location": "Köln (Cologne), Germany",
+   "logo": "https://cdn-profiles.tunein.com/s310349/images/logoq.jpg?t=637813626080000000",
+   "why": "website, only one of that name"
+  }
+ },
+ "b9fad3b3-f66e-4ede-84e5-0d4641aabb66": {
+  "name": "HAPPY HARDCORE",
+  "homepage": "https://www.rm.fm/happyhardcore",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
  },
  "41d830a3-c80c-4745-954d-f6b2fc3f6622": {
   "name": "Technolovers - IBIZA HOUSE",
@@ -2494,6 +2482,12 @@
    "logo": "https://cdn-profiles.tunein.com/s310342/images/logoq.jpg?t=637813585110000000",
    "why": "website, only one of that name"
   }
+ },
+ "c1484aa5-b758-47a1-b098-69db58d6fb78": {
+  "name": "I Love Music - I Love Chillhop",
+  "homepage": "https://www.ilovemusic.de/ilovechillhop/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "67ef89f3-27f0-11e8-91bf-52543be04c81": {
   "name": "i love radio - bass",
@@ -2525,9 +2519,37 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "5d7eaf84-c541-11e9-8502-52543be04c81": {
-  "name": "Day Dee Eurodance",
-  "homepage": "http://eurodance.ga/",
+ "aae7a2f0-b8b3-41be-95f6-4448ebd44e2e": {
+  "name": "CHARTHITS.FM",
+  "homepage": "https://www.charthits.fm/",
+  "checked": "2026-11-08",
+  "reason": "ambiguous",
+  "candidates": [
+   "s242290",
+   "s161955"
+  ]
+ },
+ "3446b04f-839f-4367-b119-b85842787b97": {
+  "name": "12PUNKS.FM",
+  "homepage": "https://www.rm.fm/12punks",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
+ },
+ "e26602e7-e8e5-4910-8d05-3b760cd9b52c": {
+  "name": "EPIC CLASSICAL - Classical Guitar",
+  "homepage": "https://epic-classical.com/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s320514",
+   "name": "EPIC CLASSICAL - Classical Guitar",
+   "location": "Germany",
+   "logo": "https://cdn-profiles.tunein.com/s320514/images/logoq.jpg?t=637931893060000000",
+   "why": "website, only one of that name"
+  }
+ },
+ "65cbf5ac-27ee-11e8-91bf-52543be04c81": {
+  "name": "i love radio - 2 dance",
+  "homepage": "https://www.iloveradio.de/",
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
@@ -2543,37 +2565,9 @@
    "why": "website, only one of that name"
   }
  },
- "aae7a2f0-b8b3-41be-95f6-4448ebd44e2e": {
-  "name": "CHARTHITS.FM",
-  "homepage": "https://www.charthits.fm/",
-  "checked": "2026-11-08",
-  "reason": "ambiguous",
-  "candidates": [
-   "s242290",
-   "s161955"
-  ]
- },
- "e26602e7-e8e5-4910-8d05-3b760cd9b52c": {
-  "name": "EPIC CLASSICAL - Classical Guitar",
-  "homepage": "https://epic-classical.com/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s320514",
-   "name": "EPIC CLASSICAL - Classical Guitar",
-   "location": "Germany",
-   "logo": "https://cdn-profiles.tunein.com/s320514/images/logoq.jpg?t=637931893060000000",
-   "why": "website, only one of that name"
-  }
- },
- "3446b04f-839f-4367-b119-b85842787b97": {
-  "name": "12PUNKS.FM",
-  "homepage": "https://www.rm.fm/12punks",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
- "65cbf5ac-27ee-11e8-91bf-52543be04c81": {
-  "name": "i love radio - 2 dance",
-  "homepage": "https://www.iloveradio.de/",
+ "5d7eaf84-c541-11e9-8502-52543be04c81": {
+  "name": "Day Dee Eurodance",
+  "homepage": "http://eurodance.ga/",
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
@@ -2595,18 +2589,6 @@
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
- "d825374d-d9e4-427b-a6a5-c20e37296147": {
-  "name": "0nlineradio AMERICAN CHRISTMAS",
-  "homepage": "https://0nlineradio.com/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s310167",
-   "name": "0nlineradio AMERICAN CHRISTMAS",
-   "location": "Germany",
-   "logo": "https://cdn-profiles.tunein.com/s310167/images/logoq.jpg?t=637739882620000000",
-   "why": "website, only one of that name"
-  }
- },
  "964fd327-0601-11e8-ae97-52543be04c81": {
   "name": "FluxFM - Kinder",
   "homepage": "https://www.fluxfm.de/",
@@ -2619,9 +2601,27 @@
    "why": "website"
   }
  },
+ "d825374d-d9e4-427b-a6a5-c20e37296147": {
+  "name": "0nlineradio AMERICAN CHRISTMAS",
+  "homepage": "https://0nlineradio.com/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s310167",
+   "name": "0nlineradio AMERICAN CHRISTMAS",
+   "location": "Germany",
+   "logo": "https://cdn-profiles.tunein.com/s310167/images/logoq.jpg?t=637739882620000000",
+   "why": "website, only one of that name"
+  }
+ },
  "4eb958f1-203c-11e8-a334-52543be04c81": {
   "name": "Kinder-Weihnacht",
   "homepage": "http://www.kinderlieder-radio.de/index.php?station=kinderweihnachtsradio",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
+ },
+ "66affdcb-203b-11e8-a334-52543be04c81": {
+  "name": "Kinder Rockradio",
+  "homepage": "http://www.kinderlieder-radio.de/index.php?station=kinderrockradio",
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
@@ -2636,12 +2636,6 @@
    "logo": "https://cdn-profiles.tunein.com/s320521/images/logoq.jpg?t=637932442100000000",
    "why": "website, only one of that name"
   }
- },
- "66affdcb-203b-11e8-a334-52543be04c81": {
-  "name": "Kinder Rockradio",
-  "homepage": "http://www.kinderlieder-radio.de/index.php?station=kinderrockradio",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
  },
  "d63e7625-44e3-47f7-ab44-f8b15c3ee6bf": {
   "name": "Epic Lounge - CHRISTMAS LOUNGE",
@@ -2871,12 +2865,6 @@
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
- "8e34646d-479e-451c-9bee-c3bb3cffad4f": {
-  "name": "Joe - Top 2000",
-  "homepage": "https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
  "963938ad-0601-11e8-ae97-52543be04c81": {
   "name": "VBRO Evergreen",
   "homepage": "http://www.vbro.be/",
@@ -2888,6 +2876,12 @@
   "homepage": "https://www.willy.radio/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "8e34646d-479e-451c-9bee-c3bb3cffad4f": {
+  "name": "Joe - Top 2000",
+  "homepage": "https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
  },
  "4689d53b-4cda-11ea-b877-52543be04c81": {
   "name": "urgent.fm",
@@ -2931,18 +2925,6 @@
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
- "1a6b6947-09e1-4f18-8494-214589bcd681": {
-  "name": "Joe Lage Landen",
-  "homepage": "https://joe.be/luister/joe_lage_landen",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s308765",
-   "name": "JOE Lage Landen",
-   "location": "Belgium",
-   "logo": "https://cdn-profiles.tunein.com/s308765/images/logoq.jpg?t=638350447610000000",
-   "why": "website, only one of that name"
-  }
- },
  "399425d8-bb47-4950-abb6-5f042750261b": {
   "name": "c dance",
   "homepage": "http://198.100.145.187:18304/;",
@@ -2952,12 +2934,6 @@
  "2ab1c5b0-682a-4616-a6eb-47dfc843deb4": {
   "name": "Radio Stars 98.5 FM & DAB+ (Belgium)",
   "homepage": "http://radiostars.be/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "155399c7-4866-11ea-a860-52543be04c81": {
-  "name": "ClubFM Oost-Vlaanderen",
-  "homepage": "http://www.clubfm.be/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -2973,17 +2949,11 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "b47dab6a-792b-4fe2-9eda-df3b46e76fbb": {
-  "name": "Radio Land Van Waas (Stream)",
-  "homepage": "https://www.rlvw.be/",
+ "155399c7-4866-11ea-a860-52543be04c81": {
+  "name": "ClubFM Oost-Vlaanderen",
+  "homepage": "http://www.clubfm.be/",
   "checked": "2026-11-08",
-  "match": {
-   "id": "s69702",
-   "name": "Radio Land Van Waas",
-   "location": "Sint-Niklaas, Belgium",
-   "logo": "https://cdn-profiles.tunein.com/s69702/images/logoq.png?t=636746148729070000",
-   "why": "website"
-  }
+  "reason": "no station of that name"
  },
  "283ff0b4-6fcf-4178-be8c-bded51c0a374": {
   "name": "Noordzee Gold",
@@ -3003,6 +2973,18 @@
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
+ "b47dab6a-792b-4fe2-9eda-df3b46e76fbb": {
+  "name": "Radio Land Van Waas (Stream)",
+  "homepage": "https://www.rlvw.be/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s69702",
+   "name": "Radio Land Van Waas",
+   "location": "Sint-Niklaas, Belgium",
+   "logo": "https://cdn-profiles.tunein.com/s69702/images/logoq.png?t=636746148729070000",
+   "why": "website"
+  }
+ },
  "dd9fbcab-d09e-4463-ae02-b06a86b76721": {
   "name": "Radio Noordzee (192k)",
   "homepage": "https://www.radionoordzee105.be/",
@@ -3015,24 +2997,6 @@
    "why": "website"
   }
  },
- "6a649620-6076-4ac7-820b-316ba0b3099c": {
-  "name": "FM Goud Limburg",
-  "homepage": "https://www.fmgoud.be/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s265629",
-   "name": "FM Goud Limburg",
-   "location": "Belgium",
-   "logo": "https://cdn-profiles.tunein.com/s265629/images/logoq.png?t=638878725980000000",
-   "why": "website, only one of that name"
-  }
- },
- "526fbab6-08e4-4d0b-aa11-da750e950f55": {
-  "name": "FM Goud Tenerife",
-  "homepage": "https://www.fmgoud.be/",
-  "checked": "2026-11-08",
-  "reason": "none in its country"
- },
  "c1dc09fd-16d2-42d6-992d-1d54117d71af": {
   "name": "Kix",
   "homepage": "https://www.radiokix.be/",
@@ -3044,6 +3008,12 @@
    "logo": "https://cdn-profiles.tunein.com/s279818/images/logoq.jpg?t=638188711470000000",
    "why": "website"
   }
+ },
+ "526fbab6-08e4-4d0b-aa11-da750e950f55": {
+  "name": "FM Goud Tenerife",
+  "homepage": "https://www.fmgoud.be/",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
  },
  "6d32244c-98a0-4d3b-9c58-66879a449343": {
   "name": "Radio 100%",
@@ -3074,6 +3044,18 @@
   "homepage": "https://www.radionoordzee105.be/info/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "6a649620-6076-4ac7-820b-316ba0b3099c": {
+  "name": "FM Goud Limburg",
+  "homepage": "https://www.fmgoud.be/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s265629",
+   "name": "FM Goud Limburg",
+   "location": "Belgium",
+   "logo": "https://cdn-profiles.tunein.com/s265629/images/logoq.png?t=638878725980000000",
+   "why": "website, only one of that name"
+  }
  },
  "fe51a56a-a8f8-4d04-be85-050b400f70bf": {
   "name": "Best Oldies Radio 2 THC",
@@ -3238,6 +3220,18 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "962abb2d-0601-11e8-ae97-52543be04c81": {
+  "name": "Radio Chablais",
+  "homepage": "https://www.radiochablais.ch/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s15514",
+   "name": "Radio Chablais",
+   "location": "Monthey, Switzerland",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s15514q.png",
+   "why": "website, only one of that name"
+  }
+ },
  "9640de03-0601-11e8-ae97-52543be04c81": {
   "name": "my105 - Charts",
   "homepage": "http://www.my105.ch/charts",
@@ -3262,23 +3256,23 @@
    "why": "website, only one of that name"
   }
  },
- "962abb2d-0601-11e8-ae97-52543be04c81": {
-  "name": "Radio Chablais",
-  "homepage": "https://www.radiochablais.ch/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s15514",
-   "name": "Radio Chablais",
-   "location": "Monthey, Switzerland",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s15514q.png",
-   "why": "website, only one of that name"
-  }
- },
  "871eef57-289c-47f5-9cd4-17b9bd7846a5": {
   "name": "One FM 90s",
   "homepage": "https://www.onefm.ch/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "4d548e92-325f-4f5a-ab85-6dcf7b63ba79": {
+  "name": "Radio Eviva",
+  "homepage": "https://player.eviva.ch/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s25114",
+   "name": "Radio Eviva",
+   "location": "Switzerland",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s25114q.png",
+   "why": "only one of that name"
+  }
  },
  "96410fb3-0601-11e8-ae97-52543be04c81": {
   "name": "my105 - All The Hits",
@@ -3340,17 +3334,17 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "80a7f390-73d1-11e9-af37-52543be04c81": {
-  "name": "Radio grenzenlos,Radio grenzenlos [SPCast]",
-  "homepage": null,
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
  "9643b752-0601-11e8-ae97-52543be04c81": {
   "name": "my105 - Fresh",
   "homepage": "http://www.my105.ch/fresh",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "80a7f390-73d1-11e9-af37-52543be04c81": {
+  "name": "Radio grenzenlos,Radio grenzenlos [SPCast]",
+  "homepage": null,
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
  },
  "4992d90f-2bed-445d-abc6-6065e7faa38e": {
   "name": "Radio-Drachenblut",
@@ -3395,6 +3389,12 @@
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
+ "c71cac32-f4dd-4b0c-bbc4-1a11d0891066": {
+  "name": "Jazz Black Music",
+  "homepage": null,
+  "checked": "2026-11-08",
+  "reason": "none in its country"
+ },
  "96092402-0601-11e8-ae97-52543be04c81": {
   "name": "Global FM",
   "homepage": "http://www.globalfm.ch/site/",
@@ -3419,12 +3419,6 @@
   "homepage": "https://onefm.ch/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
- },
- "c71cac32-f4dd-4b0c-bbc4-1a11d0891066": {
-  "name": "Jazz Black Music",
-  "homepage": null,
-  "checked": "2026-11-08",
-  "reason": "none in its country"
  },
  "6b7e2c05-77ba-4258-ae10-7f258344327c": {
   "name": "Jazz Radio Lounge",
@@ -3540,15 +3534,15 @@
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
- "8bd99b46-d275-4f75-88bc-8ebfbdf92f73": {
-  "name": "Technikum City",
-  "homepage": "http://www.radiotechnikum.at/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "b05a7451-0239-4797-a24b-eb268a6839f9": {
   "name": "Technikum Gold",
   "homepage": "https://radiotechnikum.at/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "8bd99b46-d275-4f75-88bc-8ebfbdf92f73": {
+  "name": "Technikum City",
+  "homepage": "http://www.radiotechnikum.at/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -3576,6 +3570,12 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "629fde89-f1d3-4935-a81b-20f927b4f198": {
+  "name": "museumsradio",
+  "homepage": "https://museum.streamserver24.com:8080/stream",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "0d92d055-1875-450e-bf06-2d06fbad7278": {
   "name": "radioYpsilon - Wir hör'n uns!",
   "homepage": "https://www.radioypsilon.at/",
@@ -3588,12 +3588,6 @@
    "why": "website"
   },
   "reason": "unusable logo"
- },
- "629fde89-f1d3-4935-a81b-20f927b4f198": {
-  "name": "museumsradio",
-  "homepage": "https://museum.streamserver24.com:8080/stream",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
  },
  "8e5bf40a-b01e-44ae-be38-f96547a78d46": {
   "name": "Schlager Antenne Österreich",
@@ -3613,6 +3607,12 @@
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
+ "2cfa421b-b335-4c19-8a2f-920ac7bbb94b": {
+  "name": "WEL 105,5",
+  "homepage": "https://laut.fm/wel105point5",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
+ },
  "aa761038-425f-40ba-a76a-505d4f545d4e": {
   "name": "XXXLutz Radio",
   "homepage": "https://www.xxxlutz-dasradio.at/",
@@ -3630,12 +3630,6 @@
   "homepage": "http://strm112.1.fm/acpl_mobile_mp3",
   "checked": "2026-11-08",
   "reason": "no station of that name"
- },
- "2cfa421b-b335-4c19-8a2f-920ac7bbb94b": {
-  "name": "WEL 105,5",
-  "homepage": "https://laut.fm/wel105point5",
-  "checked": "2026-11-08",
-  "reason": "none in its country"
  },
  "47aa17cf-8d90-48f7-a878-bb7a16d03d01": {
   "name": "Radio Surprise The Live DJ Radio",
@@ -3767,36 +3761,6 @@
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
- "c682befa-3e57-4db1-b1f2-dfcedb93f4d0": {
-  "name": "Radio Pakistan Toronto",
-  "homepage": "https://www.radiopakistanfm.com/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s216210",
-   "name": "Radio Pakistan Toronto",
-   "location": "Canada",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s216210q.png",
-   "why": "website, only one of that name"
-  }
- },
- "281573ae-410a-480c-9963-b9e0e25efc6b": {
-  "name": "CBC Radio 1 Ottawa (CBO-FM)",
-  "homepage": "https://www.cbc.ca/mediacentre/program/cbc-radio-one-ottawa",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "7f1ae162-78ab-41c1-8e49-1e3d3df39d73": {
-  "name": "RDMIX ITALIAN VINTAGE 70 80 90",
-  "homepage": "https://radiodimensionemix.torontocast.stream/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "957eda2f-bb0b-4db4-b1fd-16d444dcf6fe": {
-  "name": "irock24/7",
-  "homepage": "http://www.irock247.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "35c763cc-3412-4d5c-a2f4-da1208bb2f4b": {
   "name": "RDMIX LOVE SONGS",
   "homepage": "https://radiodimensionemix.torontocast.stream/",
@@ -3809,15 +3773,33 @@
    "why": "website, only one of that name"
   }
  },
- "964fb436-21c5-4729-8958-fe5991b81dfd": {
-  "name": "CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)",
-  "homepage": "https://www.cbc.ca/listen/live-radio",
+ "957eda2f-bb0b-4db4-b1fd-16d444dcf6fe": {
+  "name": "irock24/7",
+  "homepage": "http://www.irock247.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "96247e47-0601-11e8-ae97-52543be04c81": {
-  "name": "DJFM.ca Toronto, ON",
-  "homepage": "http://djfm.ca/",
+ "281573ae-410a-480c-9963-b9e0e25efc6b": {
+  "name": "CBC Radio 1 Ottawa (CBO-FM)",
+  "homepage": "https://www.cbc.ca/mediacentre/program/cbc-radio-one-ottawa",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "c682befa-3e57-4db1-b1f2-dfcedb93f4d0": {
+  "name": "Radio Pakistan Toronto",
+  "homepage": "https://www.radiopakistanfm.com/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s216210",
+   "name": "Radio Pakistan Toronto",
+   "location": "Canada",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s216210q.png",
+   "why": "website, only one of that name"
+  }
+ },
+ "7f1ae162-78ab-41c1-8e49-1e3d3df39d73": {
+  "name": "RDMIX ITALIAN VINTAGE 70 80 90",
+  "homepage": "https://radiodimensionemix.torontocast.stream/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -3832,6 +3814,18 @@
    "logo": "https://cdn-radiotime-logos.tunein.com/s110768q.png",
    "why": "website, only one of that name"
   }
+ },
+ "96247e47-0601-11e8-ae97-52543be04c81": {
+  "name": "DJFM.ca Toronto, ON",
+  "homepage": "http://djfm.ca/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "964fb436-21c5-4729-8958-fe5991b81dfd": {
+  "name": "CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)",
+  "homepage": "https://www.cbc.ca/listen/live-radio",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "e3cebe3a-feaf-4f15-955f-3efbf9b8e6e0": {
   "name": "CBC Music Pacific (Vancouver) MP3 Stream",
@@ -3860,12 +3854,6 @@
  "96212a14-0601-11e8-ae97-52543be04c81": {
   "name": "CFVR \"Mix 103.7\" Fort McMurray, AB",
   "homepage": "http://www.mix1037fm.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "96227ea9-0601-11e8-ae97-52543be04c81": {
-  "name": "CIRK 97.3 \"K-97\" Edmonton, AB",
-  "homepage": "http://www.k97.fm/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -3899,15 +3887,15 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "e803af9c-d42a-496d-b26b-c0669cf70321": {
-  "name": "CBC Radio 1 Halifax",
-  "homepage": "https://www.cbc.ca/news/canada/nova-scotia",
+ "96227ea9-0601-11e8-ae97-52543be04c81": {
+  "name": "CIRK 97.3 \"K-97\" Edmonton, AB",
+  "homepage": "http://www.k97.fm/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "2c73ee77-c681-42b2-b2c4-ccb8712ab9da": {
-  "name": "CBC Music Atlantic (Halifax) MP3 Stream",
-  "homepage": "https://www.cbc.ca/music",
+ "e803af9c-d42a-496d-b26b-c0669cf70321": {
+  "name": "CBC Radio 1 Halifax",
+  "homepage": "https://www.cbc.ca/news/canada/nova-scotia",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -3916,6 +3904,12 @@
   "homepage": "https://asiadreamradio.torontocast.stream/stations/en/index.html",
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
+ },
+ "2c73ee77-c681-42b2-b2c4-ccb8712ab9da": {
+  "name": "CBC Music Atlantic (Halifax) MP3 Stream",
+  "homepage": "https://www.cbc.ca/music",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "9620db4d-0601-11e8-ae97-52543be04c81": {
   "name": "CFCW \"New Country 98.1\" Camrose, AB",
@@ -3947,18 +3941,6 @@
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
- "25075f54-4203-11ea-a95e-52543be04c81": {
-  "name": "CFRO Vancouver Cooperative Radio",
-  "homepage": "http://www.coopradio.org/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "e03db9c8-dc8f-4334-97c1-56e94a4abaae": {
-  "name": "CBC North - Iqaluit, NU",
-  "homepage": "https://www.cbc.ca/news/canada/north",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "9632fd50-0601-11e8-ae97-52543be04c81": {
   "name": "CITR 101.9 University of British Columbia, Vancouver, BC",
   "homepage": "http://www.citr.ca/",
@@ -3983,6 +3965,12 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "e03db9c8-dc8f-4334-97c1-56e94a4abaae": {
+  "name": "CBC North - Iqaluit, NU",
+  "homepage": "https://www.cbc.ca/news/canada/north",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "2469aeb8-3b45-471e-82cc-29b061f24632": {
   "name": "the oscar peterson channel",
   "homepage": "https://jazz.fm/streaming/",
@@ -3998,6 +3986,12 @@
  "1776feb1-a73a-47df-8e54-db984f3d5a26": {
   "name": "Ottawa CHEZ 106.1 (CHEZFM)",
   "homepage": "https://www.chez106.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "25075f54-4203-11ea-a95e-52543be04c81": {
+  "name": "CFRO Vancouver Cooperative Radio",
+  "homepage": "http://www.coopradio.org/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -4248,15 +4242,15 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "cf670706-e552-4ffd-b0fc-0a3b55315cf6": {
-  "name": "1000 HITS Classical",
-  "homepage": "https://www.splashradio.eu/",
-  "checked": "2026-11-08",
-  "reason": "none in its country"
- },
  "877a96d3-d26e-40ce-9713-05131868c006": {
   "name": "ABSOLUTE CHILLOUT",
   "homepage": "http://www.absolutechillout.com/",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
+ },
+ "cf670706-e552-4ffd-b0fc-0a3b55315cf6": {
+  "name": "1000 HITS Classical",
+  "homepage": "https://www.splashradio.eu/",
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
@@ -4272,15 +4266,15 @@
    "why": "website"
   }
  },
- "a3d45eec-8fb2-4e8a-8925-057d04576925": {
-  "name": "Ibiza X Radio",
-  "homepage": "https://www.ibizaxradio.com/player/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "e600f2f3-a077-47aa-a08d-85b365ada6b1": {
   "name": "Ibiza Sonica Club",
   "homepage": "https://ibizasonica.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "a3d45eec-8fb2-4e8a-8925-057d04576925": {
+  "name": "Ibiza X Radio",
+  "homepage": "https://www.ibizaxradio.com/player/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -4320,29 +4314,11 @@
    "why": "only one of that name"
   }
  },
- "0898509e-f8da-43c6-878e-dad73a6336a7": {
-  "name": "Ibiza SoniCalm",
-  "homepage": "https://ibizasonica.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "9592171c-b5a5-45ad-9241-a5d354b249b1": {
   "name": "#1 Splash Coffee",
   "homepage": "https://www.splashradio.eu/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
- },
- "3667d110-ba77-4430-83f7-28d014e2a6cb": {
-  "name": "BeachGrooves Radio",
-  "homepage": "http://www.beachgrooves.com/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s206613",
-   "name": "BeachGrooves Radio",
-   "location": "Malaga, Spain",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s206613q.png",
-   "why": "website, only one of that name"
-  }
  },
  "11f577b3-6036-46f1-a542-980d7669e877": {
   "name": "Radio Intereconomía",
@@ -4356,14 +4332,38 @@
    "why": "website, only one of that name"
   }
  },
+ "0898509e-f8da-43c6-878e-dad73a6336a7": {
+  "name": "Ibiza SoniCalm",
+  "homepage": "https://ibizasonica.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "e4149287-f6a5-4938-a3e9-322dbc3ed845": {
   "name": "Technolovers EDM",
   "homepage": "https://stream.technolovers.fm/",
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
+ "3667d110-ba77-4430-83f7-28d014e2a6cb": {
+  "name": "BeachGrooves Radio",
+  "homepage": "http://www.beachgrooves.com/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s206613",
+   "name": "BeachGrooves Radio",
+   "location": "Malaga, Spain",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s206613q.png",
+   "why": "website, only one of that name"
+  }
+ },
  "2658d72b-9134-4a96-87b1-7488432c99d0": {
   "name": "#1 Splash Lounge",
+  "homepage": "https://www.splashradio.eu/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "29de6c98-0a96-4196-8b7f-1aeb32cbb6ca": {
+  "name": "#1 Splash Spa",
   "homepage": "https://www.splashradio.eu/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
@@ -4374,33 +4374,9 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "1c490526-1694-46dc-af17-ac3a0ea9b501": {
-  "name": "Revive FM",
-  "homepage": "https://revivefm.es/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s197618",
-   "name": "Revive Fm",
-   "location": "MURCIA, Spain",
-   "logo": "https://cdn-profiles.tunein.com/s197618/images/logoq.jpg?t=638299658740000000",
-   "why": "website, only one of that name"
-  }
- },
- "29de6c98-0a96-4196-8b7f-1aeb32cbb6ca": {
-  "name": "#1 Splash Spa",
-  "homepage": "https://www.splashradio.eu/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "7ab80435-0cf6-4fd6-8165-2f34e5dacf15": {
   "name": "Jazz Crusader",
   "homepage": "https://laut.fm/jazzcrusader",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "98f16b2b-aaac-4088-b8d1-96503e422c0b": {
-  "name": "La Urban Radio",
-  "homepage": "http://www.urbanrevolution.es/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -4416,6 +4392,30 @@
    "why": "website, only one of that name"
   }
  },
+ "1c490526-1694-46dc-af17-ac3a0ea9b501": {
+  "name": "Revive FM",
+  "homepage": "https://revivefm.es/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s197618",
+   "name": "Revive Fm",
+   "location": "MURCIA, Spain",
+   "logo": "https://cdn-profiles.tunein.com/s197618/images/logoq.jpg?t=638299658740000000",
+   "why": "website, only one of that name"
+  }
+ },
+ "98f16b2b-aaac-4088-b8d1-96503e422c0b": {
+  "name": "La Urban Radio",
+  "homepage": "http://www.urbanrevolution.es/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "602b1a60-83e2-4a0d-9eb6-c877b0490411": {
+  "name": "Costa Madrid",
+  "homepage": "https://radio2.vip-radios.fm:18064/stream-RadioDNS-ST",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "1ec57dcc-6465-41af-ac22-11eea7d34c95": {
   "name": "Sonica Tribe",
   "homepage": "https://ibizasonica.com/",
@@ -4427,12 +4427,6 @@
    "logo": "https://cdn-profiles.tunein.com/s287319/images/logoq.png?t=638894016320000000",
    "why": "website, only one of that name"
   }
- },
- "602b1a60-83e2-4a0d-9eb6-c877b0490411": {
-  "name": "Costa Madrid",
-  "homepage": "https://radio2.vip-radios.fm:18064/stream-RadioDNS-ST",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
  },
  "e4e286c7-7fc8-46d1-911f-aa6e584111f5": {
   "name": "Radios Libres",
@@ -4458,15 +4452,15 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "345b4b9e-ca97-4a03-a452-1404b69f7061": {
-  "name": "Lounge Radio Ibiza",
-  "homepage": "https://laut.fm/lounge-radio-ibiza",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "d152db70-6102-444f-a9fb-ed00f74c2195": {
   "name": "Ibiza Radios Hits",
   "homepage": "http://www.ibiza-radios.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "345b4b9e-ca97-4a03-a452-1404b69f7061": {
+  "name": "Lounge Radio Ibiza",
+  "homepage": "https://laut.fm/lounge-radio-ibiza",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -4481,12 +4475,6 @@
    "logo": "https://cdn-profiles.tunein.com/s162469/images/logoq.png?t=638119088010000000",
    "why": "only one of that name"
   }
- },
- "156faf2c-8e68-4364-a374-c5c5b86775e1": {
-  "name": "Smooth Jazz Classics",
-  "homepage": "https://zeno.fm/radio/smooth-jazz-classics",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
  },
  "01f1767e-a3c1-451a-b32f-3a7e822dcdc8": {
   "name": "dj mapache",
@@ -4505,6 +4493,12 @@
    "logo": "https://cdn-profiles.tunein.com/s47500/images/logoq.png?t=637342336110000000",
    "why": "only one of that name"
   }
+ },
+ "156faf2c-8e68-4364-a374-c5c5b86775e1": {
+  "name": "Smooth Jazz Classics",
+  "homepage": "https://zeno.fm/radio/smooth-jazz-classics",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "52f24fb1-243d-4ea2-bd3a-4ea783cd96b0": {
   "name": "Ibiza Sonica | Sonica Futura",
@@ -4530,12 +4524,6 @@
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
- "6294627d-ef77-4b6a-a589-b24234f30f65": {
-  "name": "Radio 5 Alicante",
-  "homepage": "https://www.rtve.es/radioplayer/emisoras/rne5_alicante/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "3525e74e-2728-4703-b0cc-9d2f5ac6907b": {
   "name": "Radio Radio Network Spain",
   "homepage": "https://radioradio.es/",
@@ -4551,6 +4539,12 @@
  "9c484f4a-418c-4d6c-be62-cf117ee1747b": {
   "name": "Radio 5 RNE Almería",
   "homepage": "https://www.rtve.es/radio/radio5/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "6294627d-ef77-4b6a-a589-b24234f30f65": {
+  "name": "Radio 5 Alicante",
+  "homepage": "https://www.rtve.es/radioplayer/emisoras/rne5_alicante/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -4644,17 +4638,17 @@
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
- "61df5503-690c-40c9-9d43-82608a4a255d": {
-  "name": "Blackstreet Radio",
-  "homepage": "https://radio.antonioesteve.es/",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
  "859920f5-2ced-428d-88ff-9bedab10c6ce": {
   "name": "Mallorca-1 (FM 88.2 · 103.0 · DAB+)",
   "homepage": "http://mallorca1.com/",
   "checked": "2026-11-08",
   "reason": "none in its country"
+ },
+ "61df5503-690c-40c9-9d43-82608a4a255d": {
+  "name": "Blackstreet Radio",
+  "homepage": "https://radio.antonioesteve.es/",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
  },
  "6092f38b-a2c9-46b6-9f50-9323218b5216": {
   "name": "24FM Axarquía 103.9",
@@ -4740,27 +4734,21 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "697cbf25-8cd5-49e6-bf3d-f4e20f797140": {
-  "name": "RMC Jazz",
-  "homepage": "https://www.radiomontecarlo.net/sezioni/12179/radio-monte-carlo-jazz",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "ed5388e2-d071-4369-af0c-d09a2e26c952": {
   "name": "United Music Italia 2000",
   "homepage": "https://www.unitedmusic.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "a0effe99-2ef9-4515-8e3b-55bce69966f7": {
-  "name": "RMC Music Star George Michael",
-  "homepage": "https://www.radiomontecarlo.net/sezioni/11757/music-star-george-michael",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "c3493c19-add2-4cc1-acd0-8591fb2e6a76": {
   "name": "RMC Music Star Pino Daniele",
   "homepage": "https://www.radiomontecarlo.net/sezioni/10487/music-star-pino-daniele",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "697cbf25-8cd5-49e6-bf3d-f4e20f797140": {
+  "name": "RMC Jazz",
+  "homepage": "https://www.radiomontecarlo.net/sezioni/12179/radio-monte-carlo-jazz",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -4773,6 +4761,12 @@
  "ba5da39d-2907-11e9-a80b-52543be04c81": {
   "name": "MUSIC STAR Queen",
   "homepage": "https://www.virginradio.it/sezioni/1981/music-star-queen",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "a0effe99-2ef9-4515-8e3b-55bce69966f7": {
+  "name": "RMC Music Star George Michael",
+  "homepage": "https://www.radiomontecarlo.net/sezioni/11757/music-star-george-michael",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -4848,6 +4842,12 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "2a10785b-7aea-4f70-8b0a-aa9c7b9259da": {
+  "name": "RADIO PRECISA I più trasmessi dal 1975 ad oggi",
+  "homepage": "http://www.radioprecisa.it/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "c6f4f114-6e99-4db0-999f-8cc80eeda712": {
   "name": "RMC Music Star Zucchero",
   "homepage": "https://www.radiomontecarlo.net/sezioni/10492/music-star-zucchero",
@@ -4863,12 +4863,6 @@
  "6544cccf-7d38-4777-8f19-59c0ec85ee5a": {
   "name": "RMC Summer",
   "homepage": "https://www.radiomontecarlo.net/sezioni/12211/radio-monte-carlo-summer",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "2a10785b-7aea-4f70-8b0a-aa9c7b9259da": {
-  "name": "RADIO PRECISA I più trasmessi dal 1975 ad oggi",
-  "homepage": "http://www.radioprecisa.it/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -4890,12 +4884,6 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "19c318ef-f402-11e8-a471-52543be04c81": {
-  "name": "Traditional Christmas",
-  "homepage": "http://www.unitedmusic.it/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "0bf9e338-d081-45fc-ac5e-8850f4480958": {
   "name": "Radio Digitalia - Ricordi",
   "homepage": "https://www.radiodigitalia.net/",
@@ -4905,6 +4893,12 @@
  "8bb171e6-689f-4041-bbb5-4d95d70576e4": {
   "name": "united music piano",
   "homepage": "https://www.unitedmusic.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "9635986b-0601-11e8-ae97-52543be04c81": {
+  "name": "MUSIC STAR Elisa",
+  "homepage": "http://www.unitedmusic.it/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -4920,29 +4914,29 @@
    "why": "website, only one of that name"
   }
  },
- "4c299f07-c91a-4cc0-b524-43b3712e774d": {
-  "name": "megamix80",
-  "homepage": "http://ntova.ipstream.it/",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
- "9635986b-0601-11e8-ae97-52543be04c81": {
-  "name": "MUSIC STAR Elisa",
-  "homepage": "http://www.unitedmusic.it/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "5cf41a36-ff77-4bc0-935e-4a7964b63440": {
   "name": "Radio Marconi 2",
   "homepage": "https://share.xdevel.com/api/?platform=streamsolution&get=player&key=0c3a4846ffe9e6b08832571b542b39e1&mobile=1&ver=5",
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
+ "19c318ef-f402-11e8-a471-52543be04c81": {
+  "name": "Traditional Christmas",
+  "homepage": "http://www.unitedmusic.it/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "fcd414e7-06c7-49d6-8fda-cfc42487a236": {
   "name": "Radio Esercito",
   "homepage": "https://www.esercito.difesa.it/radio-esercito",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "4c299f07-c91a-4cc0-b524-43b3712e774d": {
+  "name": "megamix80",
+  "homepage": "http://ntova.ipstream.it/",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
  },
  "c0a80b16-14db-4fa8-84c4-94e9162a3502": {
   "name": "Radio Furgoncino",
@@ -4974,18 +4968,6 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "0eb82f02-321d-11ea-afca-52543be04c81": {
-  "name": "Contatto Radio",
-  "homepage": "http://www.contattoradio.it/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s94668",
-   "name": "Contatto Radio - Popolare Network",
-   "location": "Carrara, Italy",
-   "logo": "https://cdn-profiles.tunein.com/s94668/images/logoq.png?t=637383115270000000",
-   "why": "website"
-  }
- },
  "58d62e4f-cd09-4a79-b9b2-8b317f5fd5c4": {
   "name": "RMC Radio Bau & Co",
   "homepage": "https://www.radiomontecarlo.net/sezioni/10494/radio-bau-co",
@@ -5003,6 +4985,18 @@
   "homepage": "http://www.radiomontecarlo.net/sezioni/1911/rmc-sensual-rock",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "0eb82f02-321d-11ea-afca-52543be04c81": {
+  "name": "Contatto Radio",
+  "homepage": "http://www.contattoradio.it/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s94668",
+   "name": "Contatto Radio - Popolare Network",
+   "location": "Carrara, Italy",
+   "logo": "https://cdn-profiles.tunein.com/s94668/images/logoq.png?t=637383115270000000",
+   "why": "website"
+  }
  },
  "2e26ad4b-9e8a-4024-82ce-467cb61c0693": {
   "name": "RMC Music Star Giorgia",
@@ -5304,12 +5298,6 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "54660f01-599c-4781-8fe2-008729962b4b": {
-  "name": "RADIO 10 TOP 4000",
-  "homepage": null,
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "c4eba97e-d692-43ed-8735-73e12e4b6f32": {
   "name": "Radio Continu",
   "homepage": "https://radiocontinu.nl/",
@@ -5319,18 +5307,6 @@
    "name": "Radio Continu",
    "location": "Groningen, Netherlands",
    "logo": "https://cdn-radiotime-logos.tunein.com/s54434q.png",
-   "why": "website, only one of that name"
-  }
- },
- "08e31de8-ffe3-4a42-92f5-99c0150bc0ce": {
-  "name": "SLAM! Housuh In De Pauzuh",
-  "homepage": "https://slam.nl/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s308578",
-   "name": "SLAM! Housuh in de Pauzuh",
-   "location": "Netherlands",
-   "logo": "https://cdn-profiles.tunein.com/s308578/images/logoq.png?t=638930386470000000",
    "why": "website, only one of that name"
   }
  },
@@ -5345,6 +5321,24 @@
    "logo": "https://cdn-profiles.tunein.com/s6717/images/logoq.jpg?t=637775307950000000",
    "why": "website"
   }
+ },
+ "08e31de8-ffe3-4a42-92f5-99c0150bc0ce": {
+  "name": "SLAM! Housuh In De Pauzuh",
+  "homepage": "https://slam.nl/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s308578",
+   "name": "SLAM! Housuh in de Pauzuh",
+   "location": "Netherlands",
+   "logo": "https://cdn-profiles.tunein.com/s308578/images/logoq.png?t=638930386470000000",
+   "why": "website, only one of that name"
+  }
+ },
+ "54660f01-599c-4781-8fe2-008729962b4b": {
+  "name": "RADIO 10 TOP 4000",
+  "homepage": null,
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "a2690cef-0049-4fc0-96af-de5dc76e2ac2": {
   "name": "Amsterdam Funk Channel (AFC)",
@@ -5376,18 +5370,6 @@
    "why": "website"
   }
  },
- "87d5a90a-29bb-4bcf-91c8-9fd5c53b44e0": {
-  "name": "Hardstyle FM",
-  "homepage": "https://laut.fm/hardstylefm",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
- "af35355e-a601-4530-a806-0a18d42a52c6": {
-  "name": "Radion Veronica Top 1000 AllerTijden",
-  "homepage": "https://www.radioveronica.nl/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "0ffe4b19-3c2b-4283-9c5b-80ff21950784": {
   "name": "Soulshow Radio",
   "homepage": "https://soulshow.nl/",
@@ -5400,11 +5382,29 @@
    "why": "website, only one of that name"
   }
  },
+ "af35355e-a601-4530-a806-0a18d42a52c6": {
+  "name": "Radion Veronica Top 1000 AllerTijden",
+  "homepage": "https://www.radioveronica.nl/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "87d5a90a-29bb-4bcf-91c8-9fd5c53b44e0": {
+  "name": "Hardstyle FM",
+  "homepage": "https://laut.fm/hardstylefm",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
+ },
  "94471e9b-4dd6-4651-aa16-0f370023cf4f": {
   "name": "DesiZone",
   "homepage": null,
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
+ },
+ "9630dde2-0601-11e8-ae97-52543be04c81": {
+  "name": "DANCEableRADIO",
+  "homepage": "https://myradiostream.com/station/flashplayer.php?s=s14&p=19580",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "9719c3de-3975-42d5-b182-0489768d4f96": {
   "name": "Amsterdam Funk Channel",
@@ -5421,18 +5421,6 @@
  "2b37efa6-91d0-480b-93d8-497151137544": {
   "name": "Piratenpower",
   "homepage": "https://www.piratenpower.nl/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "9630dde2-0601-11e8-ae97-52543be04c81": {
-  "name": "DANCEableRADIO",
-  "homepage": "https://myradiostream.com/station/flashplayer.php?s=s14&p=19580",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "d3c011d3-8239-491f-bbf8-90f5032a1540": {
-  "name": "Studio040",
-  "homepage": "https://studio040.nl/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -5463,6 +5451,12 @@
  "36f80316-fd28-4ae5-b797-30a095826a02": {
   "name": "Pinguin Indie",
   "homepage": "https://pinguinradio.com/player/pinguinindie",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "d3c011d3-8239-491f-bbf8-90f5032a1540": {
+  "name": "Studio040",
+  "homepage": "https://studio040.nl/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -5538,12 +5532,6 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "bb7572df-2619-43fd-9ce1-c2a288671fe2": {
-  "name": "Noise Radio",
-  "homepage": "https://noise-radio.com/",
-  "checked": "2026-11-08",
-  "reason": "none in its country"
- },
  "4e517511-a489-4a19-b8fb-492241b276ee": {
   "name": "Alex FM Non Stop Hits",
   "homepage": "https://laut.fm/radioalexfm",
@@ -5562,16 +5550,22 @@
    "why": "website"
   }
  },
- "59f13a3a-a1e9-4794-bd87-dbff768abd71": {
-  "name": "Disco Factory",
-  "homepage": "https://www.discofactory.fm/",
+ "bb7572df-2619-43fd-9ce1-c2a288671fe2": {
+  "name": "Noise Radio",
+  "homepage": "https://noise-radio.com/",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
+ },
+ "97464fa0-f43b-4d04-b35a-2d2d0f5e88fc": {
+  "name": "BNR nieuwsradio - http",
+  "homepage": "https://www.bnr.nl/",
   "checked": "2026-11-08",
   "match": {
-   "id": "s345325",
-   "name": "Disco Factory FM",
-   "location": "Netherlands",
-   "logo": "https://cdn-profiles.tunein.com/s345325/images/logoq.png?t=638879853320000000",
-   "why": "website"
+   "id": "s1993",
+   "name": "BNR Nieuwsradio",
+   "location": "Amsterdam, Netherlands",
+   "logo": "https://cdn-profiles.tunein.com/s1993/images/logoq.png?t=638138415260000000",
+   "why": "website, only one of that name"
   }
  },
  "35b575a7-8726-4587-96b7-7e0c791f421b": {
@@ -5586,16 +5580,22 @@
    "why": "website"
   }
  },
- "97464fa0-f43b-4d04-b35a-2d2d0f5e88fc": {
-  "name": "BNR nieuwsradio - http",
-  "homepage": "https://www.bnr.nl/",
+ "5d225d4d-1a3e-457f-bdb6-1b6b5859382f": {
+  "name": "Arrow",
+  "homepage": "https://stream.player.arrow.nl/arrow",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
+ },
+ "59f13a3a-a1e9-4794-bd87-dbff768abd71": {
+  "name": "Disco Factory",
+  "homepage": "https://www.discofactory.fm/",
   "checked": "2026-11-08",
   "match": {
-   "id": "s1993",
-   "name": "BNR Nieuwsradio",
-   "location": "Amsterdam, Netherlands",
-   "logo": "https://cdn-profiles.tunein.com/s1993/images/logoq.png?t=638138415260000000",
-   "why": "website, only one of that name"
+   "id": "s345325",
+   "name": "Disco Factory FM",
+   "location": "Netherlands",
+   "logo": "https://cdn-profiles.tunein.com/s345325/images/logoq.png?t=638879853320000000",
+   "why": "website"
   }
  },
  "f03bbb16-be92-4dfd-8093-dcc547a0e35a": {
@@ -5610,12 +5610,6 @@
    "why": "website, only one of that name"
   }
  },
- "5d225d4d-1a3e-457f-bdb6-1b6b5859382f": {
-  "name": "Arrow",
-  "homepage": "https://stream.player.arrow.nl/arrow",
-  "checked": "2026-11-08",
-  "reason": "none in its country"
- },
  "eaaa3294-3113-4e27-8ab8-2682814bbb05": {
   "name": "Rivierenland Radio (2nd server,320k)",
   "homepage": "https://www.rivierenland-radio.nl/uploads/rivierenland-radio.nl/1640410917-Simple%20logo2.2%20on%20white%20350x124.png",
@@ -5625,12 +5619,6 @@
  "8d20b53e-74f2-4ee6-8a65-3c75f294327a": {
   "name": "RTV Gemeente Oldambt",
   "homepage": "http://icecast.radiowesterwolde.nl:8000/G1_RTVLOGO",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "71a23f09-d2dc-4a8a-bc0b-994a18751753": {
-  "name": "Radio URAL Schiedam",
-  "homepage": "http://www.ural.fm/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -5658,6 +5646,12 @@
    "why": "only one of that name"
   }
  },
+ "71a23f09-d2dc-4a8a-bc0b-994a18751753": {
+  "name": "Radio URAL Schiedam",
+  "homepage": "http://www.ural.fm/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "aabea290-4988-4f7f-beb9-1435d66013d6": {
   "name": "The Best House Rhythms from Amsterdam.",
   "homepage": "http://www.a1lounge.com/",
@@ -5682,15 +5676,15 @@
    "why": "website, only one of that name"
   }
  },
- "0e189a61-c128-4e9e-926f-6d2222183102": {
-  "name": "TIPfm",
-  "homepage": "https://www.tipfm.nl/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "a905001b-1e39-44b6-963a-e2a859833d18": {
   "name": "Found Treasures",
   "homepage": "https://foundtreasures.online/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "0e189a61-c128-4e9e-926f-6d2222183102": {
+  "name": "TIPfm",
+  "homepage": "https://www.tipfm.nl/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -5785,6 +5779,12 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "a08d74ca-2172-447a-941a-b5c5c20afdd6": {
+  "name": "M80 Rádio – Ballads",
+  "homepage": "https://m80.iol.pt/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "96197766-0601-11e8-ae97-52543be04c81": {
   "name": "ABC Portugal",
   "homepage": "http://www.abcportugal.pt/",
@@ -5798,9 +5798,9 @@
   },
   "reason": "placeholder"
  },
- "a08d74ca-2172-447a-941a-b5c5c20afdd6": {
-  "name": "M80 Rádio – Ballads",
-  "homepage": "https://m80.iol.pt/",
+ "4694a5fd-c9e9-439d-94c6-c2aeb8f17171": {
+  "name": "Radio Fado de Coimbra",
+  "homepage": "https://www.radiofadodecoimbra.pt/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -5815,12 +5815,6 @@
    "logo": "https://cdn-radiotime-logos.tunein.com/s83556q.png",
    "why": "only one of that name"
   }
- },
- "4694a5fd-c9e9-439d-94c6-c2aeb8f17171": {
-  "name": "Radio Fado de Coimbra",
-  "homepage": "https://www.radiofadodecoimbra.pt/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
  },
  "1ac20829-1ca7-4abe-bd7f-b8dcd835b29b": {
   "name": "M80 Rádio – 60s",
@@ -5899,6 +5893,18 @@
    "why": "website, only one of that name"
   }
  },
+ "b50fea42-9c22-45c3-a7d5-afc772cab87d": {
+  "name": "M80 Rádio – Pop",
+  "homepage": "https://m80.iol.pt/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "26cf6195-4b57-4f9f-aeff-36496b0a55c0": {
+  "name": "M80 Rádio – Rock",
+  "homepage": "https://m80.iol.pt/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "d1aed693-0120-4c9c-bfd1-3829e41fc693": {
   "name": "Rádio XL",
   "homepage": "https://radioxlfm.pt/",
@@ -5910,18 +5916,6 @@
    "logo": "https://cdn-profiles.tunein.com/s296338/images/logoq.jpg?t=637352747480000000",
    "why": "website"
   }
- },
- "26cf6195-4b57-4f9f-aeff-36496b0a55c0": {
-  "name": "M80 Rádio – Rock",
-  "homepage": "https://m80.iol.pt/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "b50fea42-9c22-45c3-a7d5-afc772cab87d": {
-  "name": "M80 Rádio – Pop",
-  "homepage": "https://m80.iol.pt/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
  },
  "7119e56e-a767-4b1a-b31e-6f39d2d9c030": {
   "name": "M80 Rádio – Indie",
@@ -5941,18 +5935,6 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "9619360d-0601-11e8-ae97-52543be04c81": {
-  "name": "Rádio Cidade Hoje",
-  "homepage": "http://cidadehoje.pt/wp/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s82196",
-   "name": "Radio Cidade Hoje",
-   "location": "Porto, Portugal",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s82196q.png",
-   "why": "website, only one of that name"
-  }
- },
  "96195488-0601-11e8-ae97-52543be04c81": {
   "name": "Rádio Condestável",
   "homepage": "http://www.radiocondestavel.pt/",
@@ -5968,6 +5950,18 @@
    "name": "Rádio Lisboa",
    "location": "Lisboa, Portugal",
    "logo": "https://cdn-profiles.tunein.com/s277352/images/logoq.jpg?t=639096834460000000",
+   "why": "website, only one of that name"
+  }
+ },
+ "9619360d-0601-11e8-ae97-52543be04c81": {
+  "name": "Rádio Cidade Hoje",
+  "homepage": "http://cidadehoje.pt/wp/",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s82196",
+   "name": "Radio Cidade Hoje",
+   "location": "Porto, Portugal",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s82196q.png",
    "why": "website, only one of that name"
   }
  },
@@ -5989,12 +5983,6 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "8d7f68a9-d1c8-4a49-ad3e-69e56db8d280": {
-  "name": "M80 Rádio – Soul",
-  "homepage": "https://m80.iol.pt/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "9618a6f6-0601-11e8-ae97-52543be04c81": {
   "name": "Rádio Vidigueira",
   "homepage": "http://www.radiovidigueira.com/",
@@ -6006,6 +5994,12 @@
    "logo": "https://cdn-radiotime-logos.tunein.com/s83603q.png",
    "why": "website, only one of that name"
   }
+ },
+ "8d7f68a9-d1c8-4a49-ad3e-69e56db8d280": {
+  "name": "M80 Rádio – Soul",
+  "homepage": "https://m80.iol.pt/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "6aa4ea78-cef7-437f-9715-dee1e737c75f": {
   "name": "VFM 94.6",
@@ -6030,6 +6024,12 @@
    "logo": "https://cdn-radiotime-logos.tunein.com/s87852q.png",
    "why": "website, only one of that name"
   }
+ },
+ "9618e5ff-0601-11e8-ae97-52543be04c81": {
+  "name": "Rádio Clube de Sintra",
+  "homepage": "http://www.radiorcs.pt/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "96189b23-0601-11e8-ae97-52543be04c81": {
   "name": "Rádio Ondas do Lima",
@@ -6086,18 +6086,6 @@
    "why": "website, only one of that name"
   }
  },
- "06efe05f-7471-49b2-85b3-fcbecd8ebc4e": {
-  "name": "Lusophonica",
-  "homepage": "https://www.lusophonica.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "9618e5ff-0601-11e8-ae97-52543be04c81": {
-  "name": "Rádio Clube de Sintra",
-  "homepage": "http://www.radiorcs.pt/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "9619895a-0601-11e8-ae97-52543be04c81": {
   "name": "Tejo Rádio Jornal",
   "homepage": "http://www.tejoradiojornal.pt/",
@@ -6110,6 +6098,12 @@
    "why": "only one of that name"
   },
   "reason": "unusable logo"
+ },
+ "2921e1d9-a581-4799-a380-d2b8268044f5": {
+  "name": "00's RFM",
+  "homepage": "https://rfm.sapo.pt/ouvir-emissao-rfm-00s",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "96197a7d-0601-11e8-ae97-52543be04c81": {
   "name": "Rádio do Concelho de Mafra",
@@ -6154,9 +6148,9 @@
   },
   "reason": "unusable logo"
  },
- "2921e1d9-a581-4799-a380-d2b8268044f5": {
-  "name": "00's RFM",
-  "homepage": "https://rfm.sapo.pt/ouvir-emissao-rfm-00s",
+ "06efe05f-7471-49b2-85b3-fcbecd8ebc4e": {
+  "name": "Lusophonica",
+  "homepage": "https://www.lusophonica.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -6184,15 +6178,21 @@
    "why": "website, only one of that name"
   }
  },
- "9618efdc-0601-11e8-ae97-52543be04c81": {
-  "name": "Torres Novas FM",
-  "homepage": "http://www.torresnovasfm.com/",
+ "8e35a2a7-3f57-48c6-b625-8da896e5a243": {
+  "name": "Rádio Clube de Mafra",
+  "homepage": "https://www.rcmafra.pt/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
  "b1a88a64-8897-4647-8015-9f04881b81fc": {
   "name": "Voz do Neiva",
   "homepage": "https://radiovozdoneiva.net/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "9618efdc-0601-11e8-ae97-52543be04c81": {
+  "name": "Torres Novas FM",
+  "homepage": "http://www.torresnovasfm.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -6239,12 +6239,6 @@
    "why": "website"
   },
   "reason": "unusable logo"
- },
- "8e35a2a7-3f57-48c6-b625-8da896e5a243": {
-  "name": "Rádio Clube de Mafra",
-  "homepage": "https://www.rcmafra.pt/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
  },
  "8e68b774-36ee-4d3b-a44c-3d3b54f1bfc5": {
   "name": "Radio Linear",
@@ -6360,26 +6354,20 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "2eee3e72-5fe3-444c-9be2-72f7a6c7477d": {
-  "name": "Rádio Joli MPB",
-  "homepage": "https://zeno.fm/jolimpb",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "65a13604-d894-48dd-a240-e5611619c3e6": {
   "name": "Fay Só Forró das Antigas",
   "homepage": "http://7602.site.stm-ip.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "0bceb6bd-da64-4225-b027-6a12e8c69ffd": {
-  "name": "MGT SERTANEJO UNIVERSITÁRIO",
-  "homepage": "https://www.mgtradio.net/",
+ "2eee3e72-5fe3-444c-9be2-72f7a6c7477d": {
+  "name": "Rádio Joli MPB",
+  "homepage": "https://zeno.fm/jolimpb",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "9bef4f1a-ac82-4f7f-98a4-3fd3dcceef63": {
-  "name": "MGT BREGA E RETRÔ",
+ "0bceb6bd-da64-4225-b027-6a12e8c69ffd": {
+  "name": "MGT SERTANEJO UNIVERSITÁRIO",
   "homepage": "https://www.mgtradio.net/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
@@ -6396,6 +6384,12 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "9bef4f1a-ac82-4f7f-98a4-3fd3dcceef63": {
+  "name": "MGT BREGA E RETRÔ",
+  "homepage": "https://www.mgtradio.net/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "bc97d762-e996-44da-93f6-5769cadd2059": {
   "name": "Lightness of Rock",
   "homepage": "https://zeno.fm/lightnessrock/",
@@ -6408,15 +6402,15 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "c177f52c-a3f0-4477-8837-e40990c68232": {
-  "name": "Rádio Joli Beatles",
-  "homepage": "https://zeno.fm/JoliBeatles",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "0f9b53ac-460c-4ad1-8fdc-aee4f446fafd": {
   "name": "Itapema 102.3 FM",
   "homepage": "https://1023.clicrbs.com.br/#!/home",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "c177f52c-a3f0-4477-8837-e40990c68232": {
+  "name": "Rádio Joli Beatles",
+  "homepage": "https://zeno.fm/JoliBeatles",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -6431,6 +6425,12 @@
    "logo": "https://cdn-profiles.tunein.com/s343080/images/logoq.png?t=638823997620000000",
    "why": "website, only one of that name"
   }
+ },
+ "b8cb31b3-5a4b-11e9-a622-52543be04c81": {
+  "name": "Nova Brasil FM 93.5 Aracaju",
+  "homepage": "http://aracaju.novabrasilfm.com.br/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "baef7b62-ede6-47ce-a566-fae1bf594da6": {
   "name": "Radio CDL FM",
@@ -6454,12 +6454,6 @@
  "41d2ec6f-0179-410f-a508-cf414a1b8946": {
   "name": "MGT DANCE HITS",
   "homepage": "https://www.mgtradio.net/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "b8cb31b3-5a4b-11e9-a622-52543be04c81": {
-  "name": "Nova Brasil FM 93.5 Aracaju",
-  "homepage": "http://aracaju.novabrasilfm.com.br/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -6523,18 +6517,6 @@
    "why": "website, only one of that name"
   }
  },
- "487a6dc9-07d0-4d47-9da8-10c3b7a56e2c": {
-  "name": "SAD MUSIC l Radio RighRise (Compre sua Radio - Instagram:@jpdofunk.ofc",
-  "homepage": "http://jpdofunk3.com.br:2020/public/8242",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "a4282d30-0f30-4f33-b276-6bb675543b7c": {
-  "name": "antenAZero",
-  "homepage": "https://servidor26-4.brlogic.com:8006/live",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
  "5e738d23-9ec6-4629-ac55-f45380f4a03b": {
   "name": "Rádio Difusora 960",
   "homepage": "https://www.difusora960.com/",
@@ -6547,27 +6529,27 @@
    "why": "website, only one of that name"
   }
  },
- "f42f8a02-a87f-41a3-a53a-ab36a2797d2b": {
-  "name": "Boa Fm - Aracaju Sergipe",
-  "homepage": "http://boafm-aracaju.com/",
+ "487a6dc9-07d0-4d47-9da8-10c3b7a56e2c": {
+  "name": "SAD MUSIC l Radio RighRise (Compre sua Radio - Instagram:@jpdofunk.ofc",
+  "homepage": "http://jpdofunk3.com.br:2020/public/8242",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "a4282d30-0f30-4f33-b276-6bb675543b7c": {
+  "name": "antenAZero",
+  "homepage": "https://servidor26-4.brlogic.com:8006/live",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
+ },
+ "2e08b243-5013-4667-a388-ec08c2ef70aa": {
+  "name": "Phonkio Radio | OG Phonk in HQ 24/7",
+  "homepage": "https://www.phonkioradio.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
  "f509ca0d-b4fd-44fa-bf88-5a20ddbc7e2d": {
   "name": "012 Rock News",
   "homepage": "https://www.012news.com.br/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "7c1cc836-6e47-4675-beb4-ee8ca29f04e0": {
-  "name": "NuMetal 1.0 - JubsTones",
-  "homepage": "https://stream.zeno.fm/zg3ps1ckoeiuv",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "2e08b243-5013-4667-a388-ec08c2ef70aa": {
-  "name": "Phonkio Radio | OG Phonk in HQ 24/7",
-  "homepage": "https://www.phonkioradio.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -6583,23 +6565,17 @@
    "why": "website, only one of that name"
   }
  },
- "63a58962-2491-46b3-a813-c7751510e4d0": {
-  "name": "Rádio Senado (Brasília)",
-  "homepage": "https://www12.senado.leg.br/radio",
+ "7c1cc836-6e47-4675-beb4-ee8ca29f04e0": {
+  "name": "NuMetal 1.0 - JubsTones",
+  "homepage": "https://stream.zeno.fm/zg3ps1ckoeiuv",
   "checked": "2026-11-08",
-  "match": {
-   "id": "s18646",
-   "name": "Rádio Senado Brasília",
-   "location": "Brasília, Brazil",
-   "logo": "https://cdn-profiles.tunein.com/s18646/images/logoq.jpg?t=637255826390000000",
-   "why": "website, only one of that name"
-  }
+  "reason": "no station of that name"
  },
- "9932609a-b3d8-4d16-8a51-c2cccedf958f": {
-  "name": "RC FM 98,1",
-  "homepage": "https://rcfm.com.br/",
+ "f42f8a02-a87f-41a3-a53a-ab36a2797d2b": {
+  "name": "Boa Fm - Aracaju Sergipe",
+  "homepage": "http://boafm-aracaju.com/",
   "checked": "2026-11-08",
-  "reason": "none in its country"
+  "reason": "no station of that name"
  },
  "b55ce246-752d-47bf-b56c-55c3b368d032": {
   "name": "MGT COUNTRY",
@@ -6619,21 +6595,39 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "9932609a-b3d8-4d16-8a51-c2cccedf958f": {
+  "name": "RC FM 98,1",
+  "homepage": "https://rcfm.com.br/",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
+ },
+ "700ae020-2d60-452b-b1c5-1292f34ab4e4": {
+  "name": "Morena FM /Rio",
+  "homepage": "https://www.morenafmrio.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "55f552f6-53fc-4b7e-948b-fd32c41e1871": {
   "name": "Radio Casa 8000",
   "homepage": "https://radiocasa.net/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "63a58962-2491-46b3-a813-c7751510e4d0": {
+  "name": "Rádio Senado (Brasília)",
+  "homepage": "https://www12.senado.leg.br/radio",
+  "checked": "2026-11-08",
+  "match": {
+   "id": "s18646",
+   "name": "Rádio Senado Brasília",
+   "location": "Brasília, Brazil",
+   "logo": "https://cdn-profiles.tunein.com/s18646/images/logoq.jpg?t=637255826390000000",
+   "why": "website, only one of that name"
+  }
+ },
  "daa66033-d260-4369-a67e-ec52ae87acf5": {
   "name": "Indie 98",
   "homepage": "http://indie98.mine.nu/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "700ae020-2d60-452b-b1c5-1292f34ab4e4": {
-  "name": "Morena FM /Rio",
-  "homepage": "https://www.morenafmrio.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -6655,21 +6649,15 @@
    "why": "website, only one of that name"
   }
  },
- "b042aec6-c650-4a3a-ad14-fd2437b99048": {
-  "name": "Só Track Boa 1.0 - JubsTones",
-  "homepage": "https://stream.zeno.fm/dypkmcyizhktv",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "9b8abf01-0deb-4b96-85f1-dd7e45563415": {
-  "name": "Rádio Web Clube Sertanejo",
-  "homepage": "https://radiowebclubesertanejo.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "94fe8c3e-f741-4aa7-a377-6b7bcfd763a1": {
   "name": "Rádio Caverá FM 87.9",
   "homepage": "https://www.radiocavera.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "ccabda07-5c37-446a-94ee-45dffd01bf5b": {
+  "name": "Rádio Sete Colinas FM",
+  "homepage": "http://www.setecolinasfm.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -6691,15 +6679,27 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "ccabda07-5c37-446a-94ee-45dffd01bf5b": {
-  "name": "Rádio Sete Colinas FM",
-  "homepage": "http://www.setecolinasfm.com/",
+ "b042aec6-c650-4a3a-ad14-fd2437b99048": {
+  "name": "Só Track Boa 1.0 - JubsTones",
+  "homepage": "https://stream.zeno.fm/dypkmcyizhktv",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "9b8abf01-0deb-4b96-85f1-dd7e45563415": {
+  "name": "Rádio Web Clube Sertanejo",
+  "homepage": "https://radiowebclubesertanejo.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
  "f917f555-045f-45ec-99cc-6f971834d886": {
   "name": "Sintoniza Rock",
   "homepage": "https://sintonizarock.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "cf4b3098-b6ff-4386-a8c6-b37b19b0b7ce": {
+  "name": "Mundo Livre FM Maringá 102.5",
+  "homepage": "https://mundolivrefm.com.br/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -6721,18 +6721,6 @@
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
- "cf4b3098-b6ff-4386-a8c6-b37b19b0b7ce": {
-  "name": "Mundo Livre FM Maringá 102.5",
-  "homepage": "https://mundolivrefm.com.br/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "d1412c96-dea6-479d-bcdd-c9acda0c9c7f": {
-  "name": "Rádio Santa Fé do Sul",
-  "homepage": "https://radiosantafedosul.com.br/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "d52af6c0-6557-45be-995b-2bb57f673472": {
   "name": "Rede Blast",
   "homepage": "https://redeblast.com/",
@@ -6748,6 +6736,12 @@
  "7874dd3f-76a4-4efb-ac08-bb8e66c1f939": {
   "name": "Rádio Zé Ramalho",
   "homepage": "https://zeno.fm/radio/radiozeramalho/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "d1412c96-dea6-479d-bcdd-c9acda0c9c7f": {
+  "name": "Rádio Santa Fé do Sul",
+  "homepage": "https://radiosantafedosul.com.br/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -6781,12 +6775,6 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "e78f0093-be57-4709-9bff-da876ab4841c": {
-  "name": "Rádio AM News",
-  "homepage": "http://radioamnews.blogspot.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "4238be95-2bab-41ee-8e2d-70e7ccb001de": {
   "name": "Rádio Estádio",
   "homepage": "https://toligado.net.br/",
@@ -6798,6 +6786,12 @@
    "logo": "https://cdn-profiles.tunein.com/s353372/images/logoq.jpg?t=639077383150000000",
    "why": "website, only one of that name"
   }
+ },
+ "e78f0093-be57-4709-9bff-da876ab4841c": {
+  "name": "Rádio AM News",
+  "homepage": "http://radioamnews.blogspot.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "97dc8412-9e22-4ce2-a3cb-7848d8e51092": {
   "name": "Radio Jauense",
@@ -6823,6 +6817,12 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "1d29549e-b10e-4cd5-8937-ab5687d66ace": {
+  "name": "Conexão FM 98,1",
+  "homepage": "https://www.redeconexao.com.br/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "b8a0cfa8-922d-483e-a3d0-540852bf1a46": {
   "name": "Rock Classic Bits",
   "homepage": "https://gilbertohart.wixsite.com/rock-classic-bits",
@@ -6841,18 +6841,6 @@
    "why": "website, only one of that name"
   }
  },
- "2f72e27b-4089-4d25-b77a-09f2787a68de": {
-  "name": "The Brother´s FM",
-  "homepage": "https://zeno.fm/the-brothers-fm/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "1d29549e-b10e-4cd5-8937-ab5687d66ace": {
-  "name": "Conexão FM 98,1",
-  "homepage": "https://www.redeconexao.com.br/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "41285629-0d67-4025-8636-38cf267204e1": {
   "name": "Radio Piratininga 1070 Jau",
   "homepage": "http://www.radiopiratininga.com/",
@@ -6862,6 +6850,12 @@
  "b2325606-e214-47bb-b46c-87bcae423075": {
   "name": "Rádio Dracena",
   "homepage": "https://zeno.fm/radio/radiodracena/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "2f72e27b-4089-4d25-b77a-09f2787a68de": {
+  "name": "The Brother´s FM",
+  "homepage": "https://zeno.fm/the-brothers-fm/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -6889,15 +6883,15 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "e60225c7-0326-43ca-97d0-725fa64fd671": {
-  "name": "🎧 Highrise Radio XD 💜 | 24/7",
-  "homepage": "https://stream.zeno.fm/fi56cfyl6htuv",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "c1bc441f-576d-4a7a-8de8-b3d91a6dc774": {
   "name": "Biz WebRadio",
   "homepage": "https://www.bizwebradio.com/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "e60225c7-0326-43ca-97d0-725fa64fd671": {
+  "name": "🎧 Highrise Radio XD 💜 | 24/7",
+  "homepage": "https://stream.zeno.fm/fi56cfyl6htuv",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -6973,17 +6967,17 @@
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
- "962ca95e-0601-11e8-ae97-52543be04c81": {
-  "name": "XHMORE \"More FM\" 98.9 FM Tijuana, BC",
-  "homepage": "https://cadenanoticias.mx/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "df2bebf3-5469-4000-8707-0b66bf45a130": {
   "name": "Radio Disney 94.3 - Buenos Aires, Argentina",
   "homepage": "https://ar.radiodisney.com/",
   "checked": "2026-11-08",
   "reason": "none in its country"
+ },
+ "962ca95e-0601-11e8-ae97-52543be04c81": {
+  "name": "XHMORE \"More FM\" 98.9 FM Tijuana, BC",
+  "homepage": "https://cadenanoticias.mx/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "71769df1-3225-47f9-901c-1e4f7c1f3334": {
   "name": "Radio Anime Nexus",
@@ -7075,11 +7069,23 @@
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
+ "5e1b7174-b512-40c8-ba90-e57cc29eb6c0": {
+  "name": "La Nueva (Comitán) - 92.5 FM - XHFRT-FM - Radio Cañón / NTR Medios de Comunicación - Comitán, CS",
+  "homepage": "https://www.radiocanion.com/xhfrt/",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
+ },
  "46fd1094-9d37-4e86-9001-ccf1ac1410e5": {
   "name": "SUPER (Acapulco) - 94.5 FM - XHNU-FM - Grupo Audiorama Comunicaciones - Acapulco, GR",
   "homepage": "http://www.audioramaguerrero.mx/super/",
   "checked": "2026-11-08",
   "reason": "none in its country"
+ },
+ "5c700082-95ec-4621-810f-ca58bf4008a0": {
+  "name": "La Voz Radio (Mexicali) - 101.3 FM - XHABCA-FM - Radio Cañón / NTR Medios de Comunicación - Mexicali, BC",
+  "homepage": "https://radiocanion.com/xhabca/",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
  },
  "9fb8a2e7-b1cb-11e8-afe1-52543be04c81": {
   "name": "Radio Tulum",
@@ -7105,12 +7111,6 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "5e1b7174-b512-40c8-ba90-e57cc29eb6c0": {
-  "name": "La Nueva (Comitán) - 92.5 FM - XHFRT-FM - Radio Cañón / NTR Medios de Comunicación - Comitán, CS",
-  "homepage": "https://www.radiocanion.com/xhfrt/",
-  "checked": "2026-11-08",
-  "reason": "none in its country"
- },
  "9b724365-3eba-4907-815e-63bbd14c224f": {
   "name": "Voces (Acapulco) - 92.1 FM - XHACD-FM - Grupo Audiorama Comunicaciones - Acapulco, GR",
   "homepage": "http://www.audioramaguerrero.mx/retro/",
@@ -7122,12 +7122,6 @@
   "homepage": "https://radiocanion.com/xhevc/",
   "checked": "2026-11-08",
   "reason": "none in its country"
- },
- "5c700082-95ec-4621-810f-ca58bf4008a0": {
-  "name": "La Voz Radio (Mexicali) - 101.3 FM - XHABCA-FM - Radio Cañón / NTR Medios de Comunicación - Mexicali, BC",
-  "homepage": "https://radiocanion.com/xhabca/",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
  },
  "d72b371a-b48b-4dc1-a144-cd221e790d80": {
   "name": "Radio Cañón (Mazatlán) - 98.7 FM - XHVOX-FM - Radio Cañón / NTR Medios de Comunicación - Mazatlán, SI",
@@ -7195,6 +7189,12 @@
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
+ "ec3a970a-21c6-4a08-a0dd-272a510ff288": {
+  "name": "Super Stereo Miled 98.9 FM Toluca",
+  "homepage": "https://tunein.com/radio/Miled-Radio-Toluca-989-s16641/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "cbd095ea-99cd-44af-99fd-027c0442c591": {
   "name": "VOX FM Radio Hits 89.3 (Tampico) - 89.3 FM - XHTOT-FM - Grupo Radio Cañón - Tampico, Tamaulipas",
   "homepage": "https://radiocanon.com.mx/estaciones/",
@@ -7204,12 +7204,6 @@
  "b00edde9-7967-4b1d-a89d-593577fa3b76": {
   "name": "Universal 88.1 FM Mexico City",
   "homepage": "https://universal881.com/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "ec3a970a-21c6-4a08-a0dd-272a510ff288": {
-  "name": "Super Stereo Miled 98.9 FM Toluca",
-  "homepage": "https://tunein.com/radio/Miled-Radio-Toluca-989-s16641/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -7225,17 +7219,17 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "819e6e79-7d5c-47dd-94ae-b3f12eb2aa34": {
-  "name": "Radio Cañón (Villahermosa) - 96.5 FM - XHOP-FM - Grupo Radio Cañón - Villahermosa, Tabasco",
-  "homepage": "https://radiocanon.com.mx/estaciones/radio-canon-96-5-fm-villahermosa-tabasco/",
-  "checked": "2026-11-08",
-  "reason": "none in its country"
- },
  "bec693fb-404f-4d39-8fe2-98a2c5e0be40": {
   "name": "Super Stereo Miled 95.1 La Paz",
   "homepage": "https://tunein.com/radio/Miled-Radio-La-Paz-951-s232279/?lang=es",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "819e6e79-7d5c-47dd-94ae-b3f12eb2aa34": {
+  "name": "Radio Cañón (Villahermosa) - 96.5 FM - XHOP-FM - Grupo Radio Cañón - Villahermosa, Tabasco",
+  "homepage": "https://radiocanon.com.mx/estaciones/radio-canon-96-5-fm-villahermosa-tabasco/",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
  },
  "864b1c65-1aca-4f9e-ad5c-bd5efd8d6371": {
   "name": "Radio Disney Puebla 92.9 FM",
@@ -7394,15 +7388,15 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "dfaa1037-4c8b-445c-a230-fb96b812db99": {
-  "name": "otohama Coastal Soundscape from The University of Tokyo International Coastal Research Center (Otsuchi, Iwate)",
-  "homepage": "http://cyberforest.nenv.k.u-tokyo.ac.jp/#contact",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "8bf571a1-1926-4c31-aa81-80f0574d8d0b": {
   "name": "Neko-Network Radio: Anime/Japanese",
   "homepage": "http://anime-radio.neko-network.net/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "dfaa1037-4c8b-445c-a230-fb96b812db99": {
+  "name": "otohama Coastal Soundscape from The University of Tokyo International Coastal Research Center (Otsuchi, Iwate)",
+  "homepage": "http://cyberforest.nenv.k.u-tokyo.ac.jp/#contact",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -7424,17 +7418,17 @@
   "checked": "2026-11-08",
   "reason": "none in its country"
  },
- "3eacb8df-5cc0-4c6b-9a6f-084eeadb55c5": {
-  "name": "J-Pop Powerplay",
-  "homepage": "https://asiadreamradio.torontocast.stream/stations/en/index.html",
-  "checked": "2026-11-08",
-  "reason": "none in its country"
- },
  "f2e726c1-9cae-4a1f-baa8-da29be891dec": {
   "name": "Japan2",
   "homepage": "http://quincy.torontocast.com:2070/stream.mp3",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "3eacb8df-5cc0-4c6b-9a6f-084eeadb55c5": {
+  "name": "J-Pop Powerplay",
+  "homepage": "https://asiadreamradio.torontocast.stream/stations/en/index.html",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
  },
  "10bad67d-8ada-4430-8a45-a92dfd4bfc87": {
   "name": "City Poppers",
@@ -7581,6 +7575,12 @@
    "why": "website"
   }
  },
+ "fc9d83cc-7166-4a8f-a0e6-1b8e432b5bcb": {
+  "name": "Station X - XRN Australia",
+  "homepage": "https://xrn.com.au/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "5238dc3d-ce5a-4f42-8ca0-a4f3bb97b583": {
   "name": "2XXfm 98.3 - Canberra's Oldest Community Radio Station",
   "homepage": "https://www.2xxfm.org.au/",
@@ -7599,18 +7599,6 @@
    "why": "website, frequency"
   }
  },
- "fc9d83cc-7166-4a8f-a0e6-1b8e432b5bcb": {
-  "name": "Station X - XRN Australia",
-  "homepage": "https://xrn.com.au/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
- "53aa9e59-31bb-4f5f-97e4-f5527a4d2ac8": {
-  "name": "Cassette Disco",
-  "homepage": null,
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "51469689-d579-4bf5-9a77-78af01e36a17": {
   "name": "Great Lakes FM - Forster & Tuncurry - 101.5 FM (AAC+)",
   "homepage": "https://greatlakesfm.org.au/",
@@ -7622,6 +7610,12 @@
    "logo": "https://cdn-profiles.tunein.com/s10468/images/logoq.jpg?t=637553911520000000",
    "why": "website, frequency"
   }
+ },
+ "53aa9e59-31bb-4f5f-97e4-f5527a4d2ac8": {
+  "name": "Cassette Disco",
+  "homepage": null,
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
  },
  "dfcaada2-84df-4606-b935-62fb380d148b": {
   "name": "MTM FM - Coonamble - 91.9 FM (AAC)",
@@ -7834,15 +7828,15 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "136e67ff-f7af-40cd-acbf-2b07ff116f54": {
-  "name": "MRC:-Radio Adwaa Music 3",
-  "homepage": "https://stream.zeno.fm/x4451xh0x1zuv",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "e0cb2d0e-e6c1-4aa4-8748-37a087e343c2": {
   "name": "MRC:-Hip Hop Soul Radio Radio Music",
   "homepage": "https://stream.zeno.fm/k7cdrm450s8uv",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "136e67ff-f7af-40cd-acbf-2b07ff116f54": {
+  "name": "MRC:-Radio Adwaa Music 3",
+  "homepage": "https://stream.zeno.fm/x4451xh0x1zuv",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
@@ -8020,17 +8014,17 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "e9332006-0fb7-4d45-a03f-3e0aa1be1442": {
-  "name": "Cliff Central",
-  "homepage": "https://thereal-network.com/",
-  "checked": "2026-11-08",
-  "reason": "nothing confirms it"
- },
  "3a05a166-c046-4db8-9cc2-fc64aac53564": {
   "name": "Faithofgodseedchurch",
   "homepage": "https://laut.fm/faithofgodseedchurch",
   "checked": "2026-11-08",
   "reason": "none in its country"
+ },
+ "e9332006-0fb7-4d45-a03f-3e0aa1be1442": {
+  "name": "Cliff Central",
+  "homepage": "https://thereal-network.com/",
+  "checked": "2026-11-08",
+  "reason": "nothing confirms it"
  },
  "fc25ddf3-a4a8-4d2f-8525-b3ae3299e622": {
   "name": "TAMBO FM",
@@ -8050,6 +8044,12 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "894dbee7-22de-4e58-822f-5b36d46da85c": {
+  "name": "Mzansi FM",
+  "homepage": "https://www.mzansifm.africa/",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
  "567e2590-44ca-4c67-a530-416e21a84280": {
   "name": "Radio Daspoort",
   "homepage": "https://c32.radioboss.fm:8899/stream",
@@ -8062,34 +8062,28 @@
    "why": "website"
   }
  },
- "894dbee7-22de-4e58-822f-5b36d46da85c": {
-  "name": "Mzansi FM",
-  "homepage": "https://www.mzansifm.africa/",
-  "checked": "2026-11-08",
-  "reason": "no station of that name"
- },
  "1b3437e8-cccb-4766-a422-7ef9b0d3dcba": {
   "name": "CAPE COAST RADIO",
   "homepage": "https://www.capecoastradio.co.za/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "4d548e92-325f-4f5a-ab85-6dcf7b63ba79": {
-  "name": "Radio Eviva",
-  "homepage": "https://player.eviva.ch/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s25114",
-   "name": "Radio Eviva",
-   "location": "Switzerland",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s25114q.png",
-   "why": "only one of that name"
-  }
- },
- "9f381dd9-b4d6-48df-9fb9-e2c14cd2c8cf": {
-  "name": "Only Mozart",
-  "homepage": "http://abm21.com.au/",
+ "6b2d6960-c77c-41ac-9ea7-6ff236ee9bf8": {
+  "name": "Qmusic Foute Radio",
+  "homepage": "https://qmusic.be/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "c49d3fe0-46c4-46f0-8fe1-4f5c429359b9": {
+  "name": "Radio Braunau am Inn AT",
+  "homepage": "https://zeno.fm/radio/radio-braunau",
+  "checked": "2026-11-08",
+  "reason": "no station of that name"
+ },
+ "c0bc1e9e-a0f3-43b4-bca4-33b30eec2f08": {
+  "name": "Music Radio Country",
+  "homepage": "https://musicradio.ai/",
+  "checked": "2026-11-08",
+  "reason": "none in its country"
  }
 }
