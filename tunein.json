@@ -211,6 +211,12 @@
    "why": "website, only one of that name"
   }
  },
+ "b78399af-f6b5-462c-9fae-5742062904bb": {
+  "name": "Sanef 107.7 - Île-de-France",
+  "homepage": "https://www.sanef.com/fr/mon-voyage/radio-sanef-1077",
+  "checked": "2026-11-09",
+  "reason": "nothing confirms it"
+ },
  "3c47c932-d578-4e40-8253-eb6729b95cbe": {
   "name": "Addict Alternative",
   "homepage": "http://addictradio.net/",
@@ -2946,18 +2952,6 @@
   "checked": "2026-11-08",
   "reason": "nothing confirms it"
  },
- "1a6b6947-09e1-4f18-8494-214589bcd681": {
-  "name": "Joe Lage Landen",
-  "homepage": "https://joe.be/luister/joe_lage_landen",
-  "checked": "2026-11-09",
-  "match": {
-   "id": "s308765",
-   "name": "JOE Lage Landen",
-   "location": "Belgium",
-   "logo": "https://cdn-profiles.tunein.com/s308765/images/logoq.jpg?t=638350447610000000",
-   "why": "website, only one of that name"
-  }
- },
  "2ab1c5b0-682a-4616-a6eb-47dfc843deb4": {
   "name": "Radio Stars 98.5 FM & DAB+ (Belgium)",
   "homepage": "http://radiostars.be/",
@@ -4353,17 +4347,17 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "77f4cd17-1647-46d4-9298-a1dca15b9dfc": {
-  "name": "Radio Libertad",
-  "homepage": "https://www.radiolibertad.net/spanish/index.htm",
-  "checked": "2026-11-09",
-  "reason": "none in its country"
- },
  "0898509e-f8da-43c6-878e-dad73a6336a7": {
   "name": "Ibiza SoniCalm",
   "homepage": "https://ibizasonica.com/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "77f4cd17-1647-46d4-9298-a1dca15b9dfc": {
+  "name": "Radio Libertad",
+  "homepage": "https://www.radiolibertad.net/spanish/index.htm",
+  "checked": "2026-11-09",
+  "reason": "none in its country"
  },
  "2658d72b-9134-4a96-87b1-7488432c99d0": {
   "name": "#1 Splash Lounge",
@@ -4911,12 +4905,6 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "f768db9e-bb3e-4b2c-b61a-dabc83f80afa": {
-  "name": "ELECTROLOUNGE",
-  "homepage": "https://laut.fm/electrolounge",
-  "checked": "2026-11-09",
-  "reason": "none in its country"
- },
  "37e29298-81c9-4996-bd22-4e905296d7f8": {
   "name": "RMC Music Star Mina",
   "homepage": "https://www.radiomontecarlo.net/sezioni/10488/mina-ieri-oggi-e-domani",
@@ -5024,6 +5012,12 @@
   "homepage": "https://radioluna.it/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "f768db9e-bb3e-4b2c-b61a-dabc83f80afa": {
+  "name": "ELECTROLOUNGE",
+  "homepage": "https://laut.fm/electrolounge",
+  "checked": "2026-11-09",
+  "reason": "none in its country"
  },
  "b1c01327-1b3c-49fc-8544-b0116b485d96": {
   "name": "MS Hit Radio",
@@ -5547,6 +5541,12 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
+ "328a5baa-b12b-46a5-b8cd-31eb1a70f9b5": {
+  "name": "Q Musik Top40 NL",
+  "homepage": null,
+  "checked": "2026-11-09",
+  "reason": "no station of that name"
+ },
  "eaaa3294-3113-4e27-8ab8-2682814bbb05": {
   "name": "Rivierenland Radio (2nd server,320k)",
   "homepage": "https://www.rivierenland-radio.nl/uploads/rivierenland-radio.nl/1640410917-Simple%20logo2.2%20on%20white%20350x124.png",
@@ -5945,18 +5945,6 @@
    "why": "website"
   }
  },
- "961950e5-0601-11e8-ae97-52543be04c81": {
-  "name": "Terra Quente FM",
-  "homepage": "http://www.terraquentefm.net/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s83751",
-   "name": "Terra Quente FM",
-   "location": "Mirandela, Portugal",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s83751q.png",
-   "why": "website, only one of that name"
-  }
- },
  "96198f99-0601-11e8-ae97-52543be04c81": {
   "name": "Rádio Popular Afifense",
   "homepage": "http://rpafifense.pt.vc/",
@@ -5981,19 +5969,6 @@
   "homepage": "https://rfm.sapo.pt/ouvir-emissao-rfm-00s",
   "checked": "2026-11-08",
   "reason": "no station of that name"
- },
- "9619895a-0601-11e8-ae97-52543be04c81": {
-  "name": "Tejo Rádio Jornal",
-  "homepage": "http://www.tejoradiojornal.pt/",
-  "checked": "2026-11-08",
-  "match": {
-   "id": "s10211",
-   "name": "Tejo Rádio Jornal",
-   "location": "Santarém, Portugal",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s10211q.png",
-   "why": "only one of that name"
-  },
-  "reason": "unusable logo"
  },
  "06efe05f-7471-49b2-85b3-fcbecd8ebc4e": {
   "name": "Lusophonica",
@@ -6205,6 +6180,19 @@
    "logo": "https://cdn-profiles.tunein.com/s296338/images/logoq.jpg?t=637352747480000000",
    "why": "website, only one of that name"
   }
+ },
+ "ada49a43-85a7-484c-b1c5-be9d35a4d2a8": {
+  "name": "Posto Emissor do Funchal OM",
+  "homepage": "http://pef.pt/sitepef/category/canal-1/",
+  "checked": "2026-11-09",
+  "match": {
+   "id": "s84078",
+   "name": "Posto Emissor Do Funchal OM",
+   "location": "Funchal, Portugal",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s84078q.png",
+   "why": "website, only one of that name"
+  },
+  "reason": "unusable logo"
  },
  "8cf1083b-a326-11e8-abb8-52543be04c81": {
   "name": "JB FM",
@@ -7047,12 +7035,6 @@
   "checked": "2026-11-08",
   "reason": "no station of that name"
  },
- "d5a20354-a919-43d6-a008-e9fedab20e21": {
-  "name": "Vida (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, GR",
-  "homepage": "http://www.audioramaguerrero.mx/vida/",
-  "checked": "2026-11-09",
-  "reason": "none in its country"
- },
  "0f851f4b-b53c-4bb9-81f8-64caff4edbc0": {
   "name": "Discos Guardados",
   "homepage": "http://radiotime.com/",
@@ -7076,6 +7058,12 @@
   "homepage": "https://uadeo.mx/radio/",
   "checked": "2026-11-08",
   "reason": "no station of that name"
+ },
+ "d5a20354-a919-43d6-a008-e9fedab20e21": {
+  "name": "Vida (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero",
+  "homepage": "https://www.facebook.com/Vida897Aca",
+  "checked": "2026-11-09",
+  "reason": "none in its country"
  },
  "4eb3ee96-363a-4a1a-9063-e527a70fea3d": {
   "name": "Shamanic Radio Art",
@@ -7956,59 +7944,53 @@
   "checked": "2026-11-09",
   "reason": "no station of that name"
  },
- "43410501-8008-46a9-aaa2-f0372c023e64": {
-  "name": "Louder Than War",
-  "homepage": "https://louderthanwar.com/",
+ "fb8ecb5b-51f9-410b-813f-6c125e020437": {
+  "name": "90s 2000s & More",
+  "homepage": "https://lunar.citrus3.com:2020/public/90s2000sandmore",
   "checked": "2026-11-09",
   "reason": "no station of that name"
  },
- "b78399af-f6b5-462c-9fae-5742062904bb": {
-  "name": "Sanef 107.7 - Île-de-France",
-  "homepage": "https://www.sanef.com/fr/mon-voyage/radio-sanef-1077",
-  "checked": "2026-11-09",
-  "reason": "nothing confirms it"
- },
- "955d504d-39c8-45ff-8018-bef60c3fd7de": {
-  "name": "Star FM Maximum Rock | Country Rock",
-  "homepage": "https://www.starfm.de/",
-  "checked": "2026-11-09",
-  "reason": "no station of that name"
- },
- "318e5292-4dbf-4045-9d90-a86f2cfe9ff1": {
-  "name": "GotRadio - Soft Rock Café",
-  "homepage": "https://gotradio.com/music/",
+ "039d0e10-f222-4d17-9872-cee64117a239": {
+  "name": "Radio Teddy - Rolf Zuckowski",
+  "homepage": "https://www.radioteddy.de/",
   "checked": "2026-11-09",
   "match": {
-   "id": "s104771",
-   "name": "GotRadio Soft Rock Café",
-   "location": "Sacramento, CA",
-   "logo": "https://cdn-profiles.tunein.com/s104771/images/logoq.png?t=639238086780000000",
+   "id": "s80044",
+   "name": "Radio TEDDY",
+   "location": "Berlin, Germany",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s80044q.png",
+   "why": "website"
+  }
+ },
+ "cdf1baaf-ed22-41c5-8c9e-90b4133fda8f": {
+  "name": "Joe 80s & 90s",
+  "homepage": "https://joe.be/luister/joe_80s_90s",
+  "checked": "2026-11-09",
+  "match": {
+   "id": "s308764",
+   "name": "JOE 80s & 90s",
+   "location": "Belgium",
+   "logo": "https://cdn-profiles.tunein.com/s308764/images/logoq.jpg?t=638350446900000000",
    "why": "website, only one of that name"
   }
  },
- "328a5baa-b12b-46a5-b8cd-31eb1a70f9b5": {
-  "name": "Q Musik Top40 NL",
-  "homepage": null,
-  "checked": "2026-11-09",
-  "reason": "no station of that name"
- },
- "ada49a43-85a7-484c-b1c5-be9d35a4d2a8": {
-  "name": "Posto Emissor do Funchal OM",
-  "homepage": "http://pef.pt/sitepef/category/canal-1/",
-  "checked": "2026-11-09",
-  "match": {
-   "id": "s84078",
-   "name": "Posto Emissor Do Funchal OM",
-   "location": "Funchal, Portugal",
-   "logo": "https://cdn-radiotime-logos.tunein.com/s84078q.png",
-   "why": "website, only one of that name"
-  },
-  "reason": "unusable logo"
- },
- "aa142832-195f-4873-a382-1283b74f64e2": {
-  "name": "Vida (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero",
-  "homepage": "https://www.facebook.com/Vida897Aca",
+ "53d8598e-8222-4e75-a09d-2e630f211f08": {
+  "name": "Vida (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, GR",
+  "homepage": "http://www.audioramaguerrero.mx/vida/",
   "checked": "2026-11-09",
   "reason": "none in its country"
+ },
+ "96197766-0601-11e8-ae97-52543be04c81": {
+  "name": "ABC Portugal",
+  "homepage": "http://www.abcportugal.pt/",
+  "checked": "2026-11-09",
+  "match": {
+   "id": "s178234",
+   "name": "abc portugal",
+   "location": "Portugal",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s0q.png",
+   "why": "website, only one of that name"
+  },
+  "reason": "placeholder"
  }
 }
